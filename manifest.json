@@ -698,5 +698,6340 @@
     "en": "woman",
     "bytes": 5936,
     "sourceQuery": "woman Frau photo"
+  },
+  "noun-geburtstag": {
+    "file": "geburtstag.webp",
+    "lemma": "Geburtstag",
+    "en": "birthday",
+    "bytes": 19524,
+    "sourceQuery": "birthday Geburtstag photo"
+  },
+  "noun-frage": {
+    "file": "frage.webp",
+    "lemma": "Frage",
+    "en": "question",
+    "bytes": 7082,
+    "sourceQuery": "question Frage photo"
+  },
+  "noun-antwort": {
+    "file": "antwort.webp",
+    "lemma": "Antwort",
+    "en": "answer",
+    "bytes": 9158,
+    "sourceQuery": "answer Antwort photo"
+  },
+  "noun-problem": {
+    "file": "problem.webp",
+    "lemma": "Problem",
+    "en": "problem",
+    "bytes": 8426,
+    "sourceQuery": "problem Problem photo"
+  },
+  "noun-hilfe": {
+    "file": "hilfe.webp",
+    "lemma": "Hilfe",
+    "en": "help",
+    "bytes": 27018,
+    "sourceQuery": "help Hilfe photo"
+  },
+  "noun-information": {
+    "file": "information.webp",
+    "lemma": "Information",
+    "en": "information",
+    "bytes": 29442,
+    "sourceQuery": "information Information photo"
+  },
+  "noun-hobby": {
+    "file": "hobby.webp",
+    "lemma": "Hobby",
+    "en": "hobby",
+    "bytes": 30446,
+    "sourceQuery": "hobby Hobby photo"
+  },
+  "noun-spass": {
+    "file": "spass.webp",
+    "lemma": "Spaß",
+    "en": "fun",
+    "bytes": 27116,
+    "sourceQuery": "fun Spaß photo"
+  },
+  "noun-sprache": {
+    "file": "sprache.webp",
+    "lemma": "Sprache",
+    "en": "language",
+    "bytes": 22854,
+    "sourceQuery": "language Sprache photo"
+  },
+  "noun-wort": {
+    "file": "wort.webp",
+    "lemma": "Wort",
+    "en": "word",
+    "bytes": 14366,
+    "sourceQuery": "word Wort photo"
+  },
+  "noun-nummer": {
+    "file": "nummer.webp",
+    "lemma": "Nummer",
+    "en": "number",
+    "bytes": 9214,
+    "sourceQuery": "number Nummer photo"
+  },
+  "noun-farbe": {
+    "file": "farbe.webp",
+    "lemma": "Farbe",
+    "en": "color",
+    "bytes": 7750,
+    "sourceQuery": "color Farbe photo"
+  },
+  "noun-preis": {
+    "file": "preis.webp",
+    "lemma": "Preis",
+    "en": "price",
+    "bytes": 12752,
+    "sourceQuery": "price Preis photo"
+  },
+  "noun-getraenk": {
+    "file": "getrank.webp",
+    "lemma": "Getränk",
+    "en": "drink",
+    "bytes": 23092,
+    "sourceQuery": "drink Getränk photo"
+  },
+  "noun-hunger": {
+    "file": "hunger.webp",
+    "lemma": "Hunger",
+    "en": "hunger",
+    "bytes": 23802,
+    "sourceQuery": "hunger Hunger photo"
+  },
+  "noun-restaurant": {
+    "file": "restaurant.webp",
+    "lemma": "Restaurant",
+    "en": "restaurant",
+    "bytes": 22892,
+    "sourceQuery": "restaurant Restaurant photo"
+  },
+  "noun-rechnung": {
+    "file": "rechnung.webp",
+    "lemma": "Rechnung",
+    "en": "bill",
+    "bytes": 13144,
+    "sourceQuery": "bill Rechnung photo"
+  },
+  "noun-kasse": {
+    "file": "kasse.webp",
+    "lemma": "Kasse",
+    "en": "checkout",
+    "bytes": 32572,
+    "sourceQuery": "checkout Kasse photo"
+  },
+  "noun-geld": {
+    "file": "geld.webp",
+    "lemma": "Geld",
+    "en": "money",
+    "bytes": 39030,
+    "sourceQuery": "money Geld photo"
+  },
+  "noun-euro": {
+    "file": "euro.webp",
+    "lemma": "Euro",
+    "en": "euro",
+    "bytes": 41532,
+    "sourceQuery": "euro Euro photo"
+  },
+  "noun-bank": {
+    "file": "bank.webp",
+    "lemma": "Bank",
+    "en": "bank",
+    "bytes": 7108,
+    "sourceQuery": "bank Bank photo"
+  },
+  "noun-konto": {
+    "file": "konto.webp",
+    "lemma": "Konto",
+    "en": "account",
+    "bytes": 7870,
+    "sourceQuery": "account Konto photo"
+  },
+  "noun-gehalt": {
+    "file": "gehalt.webp",
+    "lemma": "Gehalt",
+    "en": "salary",
+    "bytes": 13658,
+    "sourceQuery": "salary Gehalt photo"
+  },
+  "noun-verspaetung": {
+    "file": "verspatung.webp",
+    "lemma": "Verspätung",
+    "en": "delay",
+    "bytes": 28376,
+    "sourceQuery": "delay Verspätung photo"
+  },
+  "noun-reise": {
+    "file": "reise.webp",
+    "lemma": "Reise",
+    "en": "trip",
+    "bytes": 26348,
+    "sourceQuery": "trip Reise photo"
+  },
+  "noun-hotel": {
+    "file": "hotel.webp",
+    "lemma": "Hotel",
+    "en": "hotel",
+    "bytes": 17446,
+    "sourceQuery": "hotel Hotel photo"
+  },
+  "noun-stadt": {
+    "file": "stadt.webp",
+    "lemma": "Stadt",
+    "en": "city",
+    "bytes": 17636,
+    "sourceQuery": "city Stadt photo"
+  },
+  "noun-park": {
+    "file": "park.webp",
+    "lemma": "Park",
+    "en": "park",
+    "bytes": 50870,
+    "sourceQuery": "park Park photo"
+  },
+  "noun-post": {
+    "file": "post.webp",
+    "lemma": "Post",
+    "en": "post office",
+    "bytes": 29646,
+    "sourceQuery": "post office Post photo"
+  },
+  "noun-paket": {
+    "file": "paket.webp",
+    "lemma": "Paket",
+    "en": "parcel",
+    "bytes": 3984,
+    "sourceQuery": "parcel Paket photo"
+  },
+  "noun-schule": {
+    "file": "schule.webp",
+    "lemma": "Schule",
+    "en": "school",
+    "bytes": 16310,
+    "sourceQuery": "school Schule photo"
+  },
+  "noun-krankenhaus": {
+    "file": "krankenhaus.webp",
+    "lemma": "Krankenhaus",
+    "en": "hospital",
+    "bytes": 17012,
+    "sourceQuery": "hospital Krankenhaus photo"
+  },
+  "noun-apotheke": {
+    "file": "apotheke.webp",
+    "lemma": "Apotheke",
+    "en": "pharmacy",
+    "bytes": 32408,
+    "sourceQuery": "pharmacy Apotheke photo"
+  },
+  "noun-arbeit": {
+    "file": "arbeit.webp",
+    "lemma": "Arbeit",
+    "en": "work",
+    "bytes": 25938,
+    "sourceQuery": "work Arbeit photo"
+  },
+  "noun-beruf": {
+    "file": "beruf.webp",
+    "lemma": "Beruf",
+    "en": "profession",
+    "bytes": 25768,
+    "sourceQuery": "profession Beruf photo"
+  },
+  "noun-firma": {
+    "file": "firma.webp",
+    "lemma": "Firma",
+    "en": "company",
+    "bytes": 32452,
+    "sourceQuery": "company Firma photo"
+  },
+  "noun-buero": {
+    "file": "buro.webp",
+    "lemma": "Büro",
+    "en": "office",
+    "bytes": 21504,
+    "sourceQuery": "office Büro photo"
+  },
+  "noun-pause": {
+    "file": "pause.webp",
+    "lemma": "Pause",
+    "en": "break",
+    "bytes": 3664,
+    "sourceQuery": "break Pause photo"
+  },
+  "noun-wochenende": {
+    "file": "wochenende.webp",
+    "lemma": "Wochenende",
+    "en": "weekend",
+    "bytes": 18704,
+    "sourceQuery": "weekend Wochenende photo"
+  },
+  "noun-aufgabe": {
+    "file": "aufgabe.webp",
+    "lemma": "Aufgabe",
+    "en": "task",
+    "bytes": 8146,
+    "sourceQuery": "task Aufgabe photo"
+  },
+  "noun-termin": {
+    "file": "termin.webp",
+    "lemma": "Termin",
+    "en": "appointment",
+    "bytes": 9250,
+    "sourceQuery": "appointment Termin photo"
+  },
+  "noun-computer": {
+    "file": "computer.webp",
+    "lemma": "Computer",
+    "en": "computer",
+    "bytes": 4260,
+    "sourceQuery": "computer Computer photo"
+  },
+  "noun-formular": {
+    "file": "formular.webp",
+    "lemma": "Formular",
+    "en": "form",
+    "bytes": 18562,
+    "sourceQuery": "form Formular photo"
+  },
+  "noun-anmeldung": {
+    "file": "anmeldung.webp",
+    "lemma": "Anmeldung",
+    "en": "registration",
+    "bytes": 6542,
+    "sourceQuery": "registration Anmeldung photo"
+  },
+  "noun-klasse": {
+    "file": "klasse.webp",
+    "lemma": "Klasse",
+    "en": "class",
+    "bytes": 24946,
+    "sourceQuery": "class Klasse photo"
+  },
+  "noun-kurs": {
+    "file": "kurs.webp",
+    "lemma": "Kurs",
+    "en": "course",
+    "bytes": 10664,
+    "sourceQuery": "course Kurs photo"
+  },
+  "noun-unterricht": {
+    "file": "unterricht.webp",
+    "lemma": "Unterricht",
+    "en": "lessons",
+    "bytes": 23410,
+    "sourceQuery": "lessons Unterricht photo"
+  },
+  "noun-stunde": {
+    "file": "stunde.webp",
+    "lemma": "Stunde",
+    "en": "hour",
+    "bytes": 13842,
+    "sourceQuery": "hour Stunde photo"
+  },
+  "noun-pruefung": {
+    "file": "prufung.webp",
+    "lemma": "Prüfung",
+    "en": "exam",
+    "bytes": 18494,
+    "sourceQuery": "exam Prüfung photo"
+  },
+  "noun-deutsch": {
+    "file": "deutsch.webp",
+    "lemma": "Deutsch",
+    "en": "German (language, subject)",
+    "bytes": 10778,
+    "sourceQuery": "German Deutsch photo"
+  },
+  "noun-buch": {
+    "file": "buch.webp",
+    "lemma": "Buch",
+    "en": "book",
+    "bytes": 14464,
+    "sourceQuery": "book Buch photo"
+  },
+  "noun-gesundheit": {
+    "file": "gesundheit.webp",
+    "lemma": "Gesundheit",
+    "en": "health",
+    "bytes": 24072,
+    "sourceQuery": "health Gesundheit photo"
+  },
+  "noun-fieber": {
+    "file": "fieber.webp",
+    "lemma": "Fieber",
+    "en": "fever",
+    "bytes": 10508,
+    "sourceQuery": "fever Fieber photo"
+  },
+  "noun-schmerz": {
+    "file": "schmerz.webp",
+    "lemma": "Schmerz",
+    "en": "pain",
+    "bytes": 8570,
+    "sourceQuery": "pain Schmerz photo"
+  },
+  "noun-uhr": {
+    "file": "uhr.webp",
+    "lemma": "Uhr",
+    "en": "clock",
+    "bytes": 24094,
+    "sourceQuery": "clock Uhr photo"
+  },
+  "noun-handy": {
+    "file": "handy.webp",
+    "lemma": "Handy",
+    "en": "mobile phone",
+    "bytes": 8960,
+    "sourceQuery": "mobile phone Handy photo"
+  },
+  "noun-telefon": {
+    "file": "telefon.webp",
+    "lemma": "Telefon",
+    "en": "telephone",
+    "bytes": 7998,
+    "sourceQuery": "telephone Telefon photo"
+  },
+  "noun-nachricht": {
+    "file": "nachricht.webp",
+    "lemma": "Nachricht",
+    "en": "message",
+    "bytes": 11094,
+    "sourceQuery": "message Nachricht photo"
+  },
+  "noun-e-mail": {
+    "file": "e-mail.webp",
+    "lemma": "E-Mail",
+    "en": "email",
+    "bytes": 15260,
+    "sourceQuery": "email E-Mail photo"
+  },
+  "noun-internet": {
+    "file": "internet.webp",
+    "lemma": "Internet",
+    "en": "internet",
+    "bytes": 29266,
+    "sourceQuery": "internet Internet photo"
+  },
+  "noun-wlan": {
+    "file": "wlan.webp",
+    "lemma": "WLAN",
+    "en": "Wi-Fi",
+    "bytes": 19186,
+    "sourceQuery": "Wi-Fi WLAN photo"
+  },
+  "noun-passwort": {
+    "file": "passwort.webp",
+    "lemma": "Passwort",
+    "en": "password",
+    "bytes": 8088,
+    "sourceQuery": "password Passwort photo"
+  },
+  "noun-app": {
+    "file": "app.webp",
+    "lemma": "App",
+    "en": "app",
+    "bytes": 16924,
+    "sourceQuery": "app App photo"
+  },
+  "noun-film": {
+    "file": "film.webp",
+    "lemma": "Film",
+    "en": "movie",
+    "bytes": 14490,
+    "sourceQuery": "movie Film photo"
+  },
+  "noun-musik": {
+    "file": "musik.webp",
+    "lemma": "Musik",
+    "en": "music",
+    "bytes": 24032,
+    "sourceQuery": "music Musik photo"
+  },
+  "noun-zeit": {
+    "file": "zeit.webp",
+    "lemma": "Zeit",
+    "en": "time",
+    "bytes": 8256,
+    "sourceQuery": "time Zeit photo"
+  },
+  "noun-minute": {
+    "file": "minute.webp",
+    "lemma": "Minute",
+    "en": "minute",
+    "bytes": 7210,
+    "sourceQuery": "minute Minute photo"
+  },
+  "noun-tag": {
+    "file": "tag.webp",
+    "lemma": "Tag",
+    "en": "day",
+    "bytes": 15766,
+    "sourceQuery": "day Tag photo"
+  },
+  "noun-woche": {
+    "file": "woche.webp",
+    "lemma": "Woche",
+    "en": "week",
+    "bytes": 19222,
+    "sourceQuery": "week Woche photo"
+  },
+  "noun-monat": {
+    "file": "monat.webp",
+    "lemma": "Monat",
+    "en": "month",
+    "bytes": 9432,
+    "sourceQuery": "month Monat photo"
+  },
+  "noun-jahr": {
+    "file": "jahr.webp",
+    "lemma": "Jahr",
+    "en": "year",
+    "bytes": 11600,
+    "sourceQuery": "year Jahr photo"
+  },
+  "noun-datum": {
+    "file": "datum.webp",
+    "lemma": "Datum",
+    "en": "date",
+    "bytes": 13834,
+    "sourceQuery": "date Datum photo"
+  },
+  "noun-morgen": {
+    "file": "morgen.webp",
+    "lemma": "Morgen",
+    "en": "morning",
+    "bytes": 18254,
+    "sourceQuery": "morning Morgen photo"
+  },
+  "noun-nachmittag": {
+    "file": "nachmittag.webp",
+    "lemma": "Nachmittag",
+    "en": "afternoon",
+    "bytes": 6258,
+    "sourceQuery": "afternoon Nachmittag photo"
+  },
+  "noun-abend": {
+    "file": "abend.webp",
+    "lemma": "Abend",
+    "en": "evening",
+    "bytes": 11134,
+    "sourceQuery": "evening Abend photo"
+  },
+  "noun-nacht": {
+    "file": "nacht.webp",
+    "lemma": "Nacht",
+    "en": "night",
+    "bytes": 13224,
+    "sourceQuery": "night Nacht photo"
+  },
+  "noun-montag": {
+    "file": "montag.webp",
+    "lemma": "Montag",
+    "en": "Monday",
+    "bytes": 28530,
+    "sourceQuery": "Monday Montag photo"
+  },
+  "noun-sommer": {
+    "file": "sommer.webp",
+    "lemma": "Sommer",
+    "en": "summer",
+    "bytes": 22962,
+    "sourceQuery": "summer Sommer photo"
+  },
+  "noun-winter": {
+    "file": "winter.webp",
+    "lemma": "Winter",
+    "en": "winter",
+    "bytes": 16004,
+    "sourceQuery": "winter Winter photo"
+  },
+  "noun-moment": {
+    "file": "moment.webp",
+    "lemma": "Moment",
+    "en": "moment",
+    "bytes": 24810,
+    "sourceQuery": "moment Moment photo"
+  },
+  "noun-sonne": {
+    "file": "sonne.webp",
+    "lemma": "Sonne",
+    "en": "sun",
+    "bytes": 10944,
+    "sourceQuery": "sun Sonne photo"
+  },
+  "noun-regen": {
+    "file": "regen.webp",
+    "lemma": "Regen",
+    "en": "rain",
+    "bytes": 19076,
+    "sourceQuery": "rain Regen photo"
+  },
+  "noun-baum": {
+    "file": "baum.webp",
+    "lemma": "Baum",
+    "en": "tree",
+    "bytes": 26738,
+    "sourceQuery": "tree Baum photo"
+  },
+  "noun-blume": {
+    "file": "blume.webp",
+    "lemma": "Blume",
+    "en": "flower",
+    "bytes": 11726,
+    "sourceQuery": "flower Blume photo"
+  },
+  "noun-wald": {
+    "file": "wald.webp",
+    "lemma": "Wald",
+    "en": "forest",
+    "bytes": 43836,
+    "sourceQuery": "forest Wald photo"
+  },
+  "noun-tier": {
+    "file": "tier.webp",
+    "lemma": "Tier",
+    "en": "animal",
+    "bytes": 24068,
+    "sourceQuery": "animal Tier photo"
+  },
+  "noun-hund": {
+    "file": "hund.webp",
+    "lemma": "Hund",
+    "en": "dog",
+    "bytes": 25326,
+    "sourceQuery": "dog Hund photo"
+  },
+  "noun-katze": {
+    "file": "katze.webp",
+    "lemma": "Katze",
+    "en": "cat",
+    "bytes": 23656,
+    "sourceQuery": "cat Katze photo"
+  },
+  "noun-sport": {
+    "file": "sport.webp",
+    "lemma": "Sport",
+    "en": "sport",
+    "bytes": 15318,
+    "sourceQuery": "sport Sport photo"
+  },
+  "noun-fussball": {
+    "file": "fussball.webp",
+    "lemma": "Fußball",
+    "en": "soccer",
+    "bytes": 19670,
+    "sourceQuery": "soccer Fußball photo"
+  },
+  "noun-spiel": {
+    "file": "spiel.webp",
+    "lemma": "Spiel",
+    "en": "game",
+    "bytes": 12288,
+    "sourceQuery": "game Spiel photo"
+  },
+  "noun-glueck": {
+    "file": "gluck.webp",
+    "lemma": "Glück",
+    "en": "luck",
+    "bytes": 16742,
+    "sourceQuery": "luck Glück photo"
+  },
+  "noun-leben": {
+    "file": "leben.webp",
+    "lemma": "Leben",
+    "en": "life",
+    "bytes": 14916,
+    "sourceQuery": "life Leben photo"
+  },
+  "noun-schueler": {
+    "file": "schuler.webp",
+    "lemma": "Schüler",
+    "en": "pupil (male)",
+    "bytes": 19188,
+    "sourceQuery": "pupil Schüler photo"
+  },
+  "noun-schuelerin": {
+    "file": "schulerin.webp",
+    "lemma": "Schülerin",
+    "en": "pupil (female)",
+    "bytes": 12988,
+    "sourceQuery": "pupil Schülerin photo"
+  },
+  "noun-arzt": {
+    "file": "arzt.webp",
+    "lemma": "Arzt",
+    "en": "doctor (male)",
+    "bytes": 10186,
+    "sourceQuery": "doctor Arzt photo"
+  },
+  "noun-aerztin": {
+    "file": "arztin.webp",
+    "lemma": "Ärztin",
+    "en": "doctor (female)",
+    "bytes": 14154,
+    "sourceQuery": "doctor Ärztin photo"
+  },
+  "noun-nachbar": {
+    "file": "nachbar.webp",
+    "lemma": "Nachbar",
+    "en": "neighbor (male)",
+    "bytes": 25196,
+    "sourceQuery": "neighbor Nachbar photo"
+  },
+  "noun-nachbarin": {
+    "file": "nachbarin.webp",
+    "lemma": "Nachbarin",
+    "en": "neighbor (female)",
+    "bytes": 43760,
+    "sourceQuery": "neighbor Nachbarin photo"
+  },
+  "noun-kollege": {
+    "file": "kollege.webp",
+    "lemma": "Kollege",
+    "en": "colleague (male)",
+    "bytes": 16328,
+    "sourceQuery": "colleague Kollege photo"
+  },
+  "noun-kollegin": {
+    "file": "kollegin.webp",
+    "lemma": "Kollegin",
+    "en": "colleague (female)",
+    "bytes": 22424,
+    "sourceQuery": "colleague Kollegin photo"
+  },
+  "noun-chef": {
+    "file": "chef.webp",
+    "lemma": "Chef",
+    "en": "boss (male)",
+    "bytes": 19016,
+    "sourceQuery": "boss Chef photo"
+  },
+  "noun-chefin": {
+    "file": "chefin.webp",
+    "lemma": "Chefin",
+    "en": "boss (female)",
+    "bytes": 19016,
+    "sourceQuery": "boss Chefin photo"
+  },
+  "noun-gast": {
+    "file": "gast.webp",
+    "lemma": "Gast",
+    "en": "guest",
+    "bytes": 19534,
+    "sourceQuery": "guest Gast photo"
+  },
+  "noun-kunde": {
+    "file": "kunde.webp",
+    "lemma": "Kunde",
+    "en": "customer (male)",
+    "bytes": 11038,
+    "sourceQuery": "customer Kunde photo"
+  },
+  "noun-kundin": {
+    "file": "kundin.webp",
+    "lemma": "Kundin",
+    "en": "customer (female)",
+    "bytes": 27396,
+    "sourceQuery": "customer Kundin photo"
+  },
+  "noun-verkaeufer": {
+    "file": "verkaufer.webp",
+    "lemma": "Verkäufer",
+    "en": "salesman",
+    "bytes": 20176,
+    "sourceQuery": "salesman Verkäufer photo"
+  },
+  "noun-verkaeuferin": {
+    "file": "verkauferin.webp",
+    "lemma": "Verkäuferin",
+    "en": "saleswoman",
+    "bytes": 18034,
+    "sourceQuery": "saleswoman Verkäuferin photo"
+  },
+  "noun-polizist": {
+    "file": "polizist.webp",
+    "lemma": "Polizist",
+    "en": "police officer (male)",
+    "bytes": 23414,
+    "sourceQuery": "police officer Polizist photo"
+  },
+  "noun-koch": {
+    "file": "koch.webp",
+    "lemma": "Koch",
+    "en": "cook (male)",
+    "bytes": 16670,
+    "sourceQuery": "cook Koch photo"
+  },
+  "noun-koechin": {
+    "file": "kochin.webp",
+    "lemma": "Köchin",
+    "en": "cook (female)",
+    "bytes": 13052,
+    "sourceQuery": "cook Köchin photo"
+  },
+  "noun-kellner": {
+    "file": "kellner.webp",
+    "lemma": "Kellner",
+    "en": "waiter",
+    "bytes": 12676,
+    "sourceQuery": "waiter Kellner photo"
+  },
+  "noun-kellnerin": {
+    "file": "kellnerin.webp",
+    "lemma": "Kellnerin",
+    "en": "waitress",
+    "bytes": 10126,
+    "sourceQuery": "waitress Kellnerin photo"
+  },
+  "noun-name": {
+    "file": "name.webp",
+    "lemma": "Name",
+    "en": "name",
+    "bytes": 30752,
+    "sourceQuery": "name Name photo"
+  },
+  "noun-vorname": {
+    "file": "vorname.webp",
+    "lemma": "Vorname",
+    "en": "first name",
+    "bytes": 8836,
+    "sourceQuery": "first name Vorname photo"
+  },
+  "noun-nachname": {
+    "file": "nachname.webp",
+    "lemma": "Nachname",
+    "en": "last name",
+    "bytes": 21940,
+    "sourceQuery": "last name Nachname photo"
+  },
+  "noun-tante": {
+    "file": "tante.webp",
+    "lemma": "Tante",
+    "en": "aunt",
+    "bytes": 19198,
+    "sourceQuery": "aunt Tante photo"
+  },
+  "noun-opa": {
+    "file": "opa.webp",
+    "lemma": "Opa",
+    "en": "grandpa",
+    "bytes": 18544,
+    "sourceQuery": "grandpa Opa photo"
+  },
+  "noun-oma": {
+    "file": "oma.webp",
+    "lemma": "Oma",
+    "en": "grandma",
+    "bytes": 12992,
+    "sourceQuery": "grandma Oma photo"
+  },
+  "noun-haar": {
+    "file": "haar.webp",
+    "lemma": "Haar",
+    "en": "hair",
+    "bytes": 28110,
+    "sourceQuery": "hair Haar photo"
+  },
+  "noun-hals": {
+    "file": "hals.webp",
+    "lemma": "Hals",
+    "en": "neck",
+    "bytes": 21044,
+    "sourceQuery": "neck Hals photo"
+  },
+  "noun-arm": {
+    "file": "arm.webp",
+    "lemma": "Arm",
+    "en": "arm",
+    "bytes": 4970,
+    "sourceQuery": "arm Arm photo"
+  },
+  "noun-hand": {
+    "file": "hand.webp",
+    "lemma": "Hand",
+    "en": "hand",
+    "bytes": 6018,
+    "sourceQuery": "hand Hand photo"
+  },
+  "noun-finger": {
+    "file": "finger.webp",
+    "lemma": "Finger",
+    "en": "finger",
+    "bytes": 7732,
+    "sourceQuery": "finger Finger photo"
+  },
+  "noun-bein": {
+    "file": "bein.webp",
+    "lemma": "Bein",
+    "en": "leg",
+    "bytes": 15912,
+    "sourceQuery": "leg Bein photo"
+  },
+  "noun-fuss": {
+    "file": "fuss.webp",
+    "lemma": "Fuß",
+    "en": "foot",
+    "bytes": 15910,
+    "sourceQuery": "foot Fuß photo"
+  },
+  "noun-ruecken": {
+    "file": "rucken.webp",
+    "lemma": "Rücken",
+    "en": "back",
+    "bytes": 18962,
+    "sourceQuery": "back Rücken photo"
+  },
+  "noun-bauch": {
+    "file": "bauch.webp",
+    "lemma": "Bauch",
+    "en": "stomach",
+    "bytes": 24170,
+    "sourceQuery": "stomach Bauch photo"
+  },
+  "noun-kinderzimmer": {
+    "file": "kinderzimmer.webp",
+    "lemma": "Kinderzimmer",
+    "en": "children's room",
+    "bytes": 28454,
+    "sourceQuery": "children's room Kinderzimmer photo"
+  },
+  "noun-wand": {
+    "file": "wand.webp",
+    "lemma": "Wand",
+    "en": "wall",
+    "bytes": 22996,
+    "sourceQuery": "wall Wand photo"
+  },
+  "noun-boden": {
+    "file": "boden.webp",
+    "lemma": "Boden",
+    "en": "floor",
+    "bytes": 17202,
+    "sourceQuery": "floor Boden photo"
+  },
+  "noun-schluessel": {
+    "file": "schlussel.webp",
+    "lemma": "Schlüssel",
+    "en": "key",
+    "bytes": 15566,
+    "sourceQuery": "key Schlüssel photo"
+  },
+  "noun-tisch": {
+    "file": "tisch.webp",
+    "lemma": "Tisch",
+    "en": "table",
+    "bytes": 41046,
+    "sourceQuery": "table Tisch photo"
+  },
+  "noun-stuhl": {
+    "file": "stuhl.webp",
+    "lemma": "Stuhl",
+    "en": "chair",
+    "bytes": 4418,
+    "sourceQuery": "chair Stuhl photo"
+  },
+  "noun-bett": {
+    "file": "bett.webp",
+    "lemma": "Bett",
+    "en": "bed",
+    "bytes": 30786,
+    "sourceQuery": "bed Bett photo"
+  },
+  "noun-sofa": {
+    "file": "sofa.webp",
+    "lemma": "Sofa",
+    "en": "sofa",
+    "bytes": 23466,
+    "sourceQuery": "sofa Sofa photo"
+  },
+  "noun-schrank": {
+    "file": "schrank.webp",
+    "lemma": "Schrank",
+    "en": "cupboard",
+    "bytes": 23362,
+    "sourceQuery": "cupboard Schrank photo"
+  },
+  "noun-regal": {
+    "file": "regal.webp",
+    "lemma": "Regal",
+    "en": "shelf",
+    "bytes": 11170,
+    "sourceQuery": "shelf Regal photo"
+  },
+  "noun-lampe": {
+    "file": "lampe.webp",
+    "lemma": "Lampe",
+    "en": "lamp",
+    "bytes": 6860,
+    "sourceQuery": "lamp Lampe photo"
+  },
+  "noun-spiegel": {
+    "file": "spiegel.webp",
+    "lemma": "Spiegel",
+    "en": "mirror",
+    "bytes": 12908,
+    "sourceQuery": "mirror Spiegel photo"
+  },
+  "noun-kuehlschrank": {
+    "file": "kuhlschrank.webp",
+    "lemma": "Kühlschrank",
+    "en": "refrigerator",
+    "bytes": 19214,
+    "sourceQuery": "refrigerator Kühlschrank photo"
+  },
+  "noun-dusche": {
+    "file": "dusche.webp",
+    "lemma": "Dusche",
+    "en": "shower",
+    "bytes": 11728,
+    "sourceQuery": "shower Dusche photo"
+  },
+  "noun-salz": {
+    "file": "salz.webp",
+    "lemma": "Salz",
+    "en": "salt",
+    "bytes": 21436,
+    "sourceQuery": "salt Salz photo"
+  },
+  "noun-reis": {
+    "file": "reis.webp",
+    "lemma": "Reis",
+    "en": "rice",
+    "bytes": 15430,
+    "sourceQuery": "rice Reis photo"
+  },
+  "noun-nudel": {
+    "file": "nudel.webp",
+    "lemma": "Nudel",
+    "en": "noodle",
+    "bytes": 34468,
+    "sourceQuery": "noodle Nudel photo"
+  },
+  "noun-kartoffel": {
+    "file": "kartoffel.webp",
+    "lemma": "Kartoffel",
+    "en": "potato",
+    "bytes": 29868,
+    "sourceQuery": "potato Kartoffel photo"
+  },
+  "noun-gemuese": {
+    "file": "gemuse.webp",
+    "lemma": "Gemüse",
+    "en": "vegetables",
+    "bytes": 26632,
+    "sourceQuery": "vegetables Gemüse photo"
+  },
+  "noun-obst": {
+    "file": "obst.webp",
+    "lemma": "Obst",
+    "en": "fruit",
+    "bytes": 23932,
+    "sourceQuery": "fruit Obst photo"
+  },
+  "noun-apfel": {
+    "file": "apfel.webp",
+    "lemma": "Apfel",
+    "en": "apple",
+    "bytes": 19484,
+    "sourceQuery": "apple Apfel photo"
+  },
+  "noun-banane": {
+    "file": "banane.webp",
+    "lemma": "Banane",
+    "en": "banana",
+    "bytes": 7936,
+    "sourceQuery": "banana Banane photo"
+  },
+  "noun-orange": {
+    "file": "orange.webp",
+    "lemma": "Orange",
+    "en": "orange",
+    "bytes": 15604,
+    "sourceQuery": "orange Orange photo"
+  },
+  "noun-tomate": {
+    "file": "tomate.webp",
+    "lemma": "Tomate",
+    "en": "tomato",
+    "bytes": 19796,
+    "sourceQuery": "tomato Tomate photo"
+  },
+  "noun-zwiebel": {
+    "file": "zwiebel.webp",
+    "lemma": "Zwiebel",
+    "en": "onion",
+    "bytes": 25724,
+    "sourceQuery": "onion Zwiebel photo"
+  },
+  "noun-salat": {
+    "file": "salat.webp",
+    "lemma": "Salat",
+    "en": "salad",
+    "bytes": 25816,
+    "sourceQuery": "salad Salat photo"
+  },
+  "noun-suppe": {
+    "file": "suppe.webp",
+    "lemma": "Suppe",
+    "en": "soup",
+    "bytes": 14306,
+    "sourceQuery": "soup Suppe photo"
+  },
+  "noun-kuchen": {
+    "file": "kuchen.webp",
+    "lemma": "Kuchen",
+    "en": "cake",
+    "bytes": 22394,
+    "sourceQuery": "cake Kuchen photo"
+  },
+  "noun-schokolade": {
+    "file": "schokolade.webp",
+    "lemma": "Schokolade",
+    "en": "chocolate",
+    "bytes": 15550,
+    "sourceQuery": "chocolate Schokolade photo"
+  },
+  "noun-eis": {
+    "file": "eis.webp",
+    "lemma": "Eis",
+    "en": "ice cream",
+    "bytes": 18704,
+    "sourceQuery": "ice cream Eis photo"
+  },
+  "noun-pizza": {
+    "file": "pizza.webp",
+    "lemma": "Pizza",
+    "en": "pizza",
+    "bytes": 23522,
+    "sourceQuery": "pizza Pizza photo"
+  },
+  "noun-glas": {
+    "file": "glas.webp",
+    "lemma": "Glas",
+    "en": "glass",
+    "bytes": 7836,
+    "sourceQuery": "glass Glas photo"
+  },
+  "noun-flasche": {
+    "file": "flasche.webp",
+    "lemma": "Flasche",
+    "en": "bottle",
+    "bytes": 12412,
+    "sourceQuery": "bottle Flasche photo"
+  },
+  "noun-tasse": {
+    "file": "tasse.webp",
+    "lemma": "Tasse",
+    "en": "cup",
+    "bytes": 6716,
+    "sourceQuery": "cup Tasse photo"
+  },
+  "noun-teller": {
+    "file": "teller.webp",
+    "lemma": "Teller",
+    "en": "plate",
+    "bytes": 20402,
+    "sourceQuery": "plate Teller photo"
+  },
+  "noun-loeffel": {
+    "file": "loffel.webp",
+    "lemma": "Löffel",
+    "en": "spoon",
+    "bytes": 44670,
+    "sourceQuery": "spoon Löffel photo"
+  },
+  "noun-gabel": {
+    "file": "gabel.webp",
+    "lemma": "Gabel",
+    "en": "fork",
+    "bytes": 3494,
+    "sourceQuery": "fork Gabel photo"
+  },
+  "noun-messer": {
+    "file": "messer.webp",
+    "lemma": "Messer",
+    "en": "knife",
+    "bytes": 54478,
+    "sourceQuery": "knife Messer photo"
+  },
+  "noun-rock": {
+    "file": "rock.webp",
+    "lemma": "Rock",
+    "en": "skirt",
+    "bytes": 7050,
+    "sourceQuery": "skirt Rock photo"
+  },
+  "noun-schuh": {
+    "file": "schuh.webp",
+    "lemma": "Schuh",
+    "en": "shoe",
+    "bytes": 11250,
+    "sourceQuery": "shoe Schuh photo"
+  },
+  "noun-socke": {
+    "file": "socke.webp",
+    "lemma": "Socke",
+    "en": "sock",
+    "bytes": 27166,
+    "sourceQuery": "sock Socke photo"
+  },
+  "noun-muetze": {
+    "file": "mutze.webp",
+    "lemma": "Mütze",
+    "en": "cap",
+    "bytes": 9818,
+    "sourceQuery": "cap Mütze photo"
+  },
+  "noun-brille": {
+    "file": "brille.webp",
+    "lemma": "Brille",
+    "en": "glasses",
+    "bytes": 14968,
+    "sourceQuery": "glasses Brille photo"
+  },
+  "noun-tasche": {
+    "file": "tasche.webp",
+    "lemma": "Tasche",
+    "en": "bag",
+    "bytes": 13446,
+    "sourceQuery": "bag Tasche photo"
+  },
+  "noun-nebenkosten": {
+    "file": "nebenkosten.webp",
+    "lemma": "Nebenkosten",
+    "en": "additional costs",
+    "bytes": 19806,
+    "sourceQuery": "additional costs Nebenkosten photo"
+  },
+  "noun-kaution": {
+    "file": "kaution.webp",
+    "lemma": "Kaution",
+    "en": "deposit",
+    "bytes": 9540,
+    "sourceQuery": "deposit Kaution photo"
+  },
+  "noun-mietvertrag": {
+    "file": "mietvertrag.webp",
+    "lemma": "Mietvertrag",
+    "en": "rental agreement",
+    "bytes": 13186,
+    "sourceQuery": "rental agreement Mietvertrag photo"
+  },
+  "noun-heizung": {
+    "file": "heizung.webp",
+    "lemma": "Heizung",
+    "en": "heating",
+    "bytes": 22472,
+    "sourceQuery": "heating Heizung photo"
+  },
+  "noun-licht": {
+    "file": "licht.webp",
+    "lemma": "Licht",
+    "en": "light",
+    "bytes": 14388,
+    "sourceQuery": "light Licht photo"
+  },
+  "noun-muell": {
+    "file": "mull.webp",
+    "lemma": "Müll",
+    "en": "garbage",
+    "bytes": 35242,
+    "sourceQuery": "garbage Müll photo"
+  },
+  "noun-waesche": {
+    "file": "wasche.webp",
+    "lemma": "Wäsche",
+    "en": "laundry",
+    "bytes": 27104,
+    "sourceQuery": "laundry Wäsche photo"
+  },
+  "noun-sache": {
+    "file": "sache.webp",
+    "lemma": "Sache",
+    "en": "thing",
+    "bytes": 23222,
+    "sourceQuery": "thing Sache photo"
+  },
+  "noun-geburtsdatum": {
+    "file": "geburtsdatum.webp",
+    "lemma": "Geburtsdatum",
+    "en": "date of birth",
+    "bytes": 14102,
+    "sourceQuery": "date of birth Geburtsdatum photo"
+  },
+  "noun-beispiel": {
+    "file": "beispiel.webp",
+    "lemma": "Beispiel",
+    "en": "example",
+    "bytes": 12014,
+    "sourceQuery": "example Beispiel photo"
+  },
+  "noun-loesung": {
+    "file": "losung.webp",
+    "lemma": "Lösung",
+    "en": "solution",
+    "bytes": 8064,
+    "sourceQuery": "solution Lösung photo"
+  },
+  "noun-idee": {
+    "file": "idee.webp",
+    "lemma": "Idee",
+    "en": "idea",
+    "bytes": 14750,
+    "sourceQuery": "idea Idee photo"
+  },
+  "noun-grund": {
+    "file": "grund.webp",
+    "lemma": "Grund",
+    "en": "reason",
+    "bytes": 46874,
+    "sourceQuery": "reason Grund photo"
+  },
+  "noun-fehler": {
+    "file": "fehler.webp",
+    "lemma": "Fehler",
+    "en": "mistake",
+    "bytes": 6550,
+    "sourceQuery": "mistake Fehler photo"
+  },
+  "noun-meinung": {
+    "file": "meinung.webp",
+    "lemma": "Meinung",
+    "en": "opinion",
+    "bytes": 9678,
+    "sourceQuery": "opinion Meinung photo"
+  },
+  "noun-gespraech": {
+    "file": "gesprach.webp",
+    "lemma": "Gespräch",
+    "en": "conversation",
+    "bytes": 16300,
+    "sourceQuery": "conversation Gespräch photo"
+  },
+  "noun-satz": {
+    "file": "satz.webp",
+    "lemma": "Satz",
+    "en": "sentence",
+    "bytes": 8128,
+    "sourceQuery": "sentence Satz photo"
+  },
+  "noun-text": {
+    "file": "text.webp",
+    "lemma": "Text",
+    "en": "text",
+    "bytes": 9074,
+    "sourceQuery": "text Text photo"
+  },
+  "noun-geschichte": {
+    "file": "geschichte.webp",
+    "lemma": "Geschichte",
+    "en": "story",
+    "bytes": 19916,
+    "sourceQuery": "story Geschichte photo"
+  },
+  "noun-zahl": {
+    "file": "zahl.webp",
+    "lemma": "Zahl",
+    "en": "number",
+    "bytes": 16436,
+    "sourceQuery": "number Zahl photo"
+  },
+  "noun-art": {
+    "file": "art.webp",
+    "lemma": "Art",
+    "en": "kind",
+    "bytes": 36458,
+    "sourceQuery": "kind Art photo"
+  },
+  "noun-teil": {
+    "file": "teil.webp",
+    "lemma": "Teil",
+    "en": "part",
+    "bytes": 19490,
+    "sourceQuery": "part Teil photo"
+  },
+  "noun-ende": {
+    "file": "ende.webp",
+    "lemma": "Ende",
+    "en": "end",
+    "bytes": 12060,
+    "sourceQuery": "end Ende photo"
+  },
+  "noun-anfang": {
+    "file": "anfang.webp",
+    "lemma": "Anfang",
+    "en": "beginning",
+    "bytes": 29896,
+    "sourceQuery": "beginning Anfang photo"
+  },
+  "noun-seite": {
+    "file": "seite.webp",
+    "lemma": "Seite",
+    "en": "side",
+    "bytes": 8334,
+    "sourceQuery": "side Seite photo"
+  },
+  "noun-stueck": {
+    "file": "stuck.webp",
+    "lemma": "Stück",
+    "en": "piece",
+    "bytes": 40494,
+    "sourceQuery": "piece Stück photo"
+  },
+  "noun-unterschied": {
+    "file": "unterschied.webp",
+    "lemma": "Unterschied",
+    "en": "difference",
+    "bytes": 27750,
+    "sourceQuery": "difference Unterschied photo"
+  },
+  "noun-moeglichkeit": {
+    "file": "moglichkeit.webp",
+    "lemma": "Möglichkeit",
+    "en": "possibility",
+    "bytes": 18578,
+    "sourceQuery": "possibility Möglichkeit photo"
+  },
+  "noun-ziel": {
+    "file": "ziel.webp",
+    "lemma": "Ziel",
+    "en": "goal",
+    "bytes": 11896,
+    "sourceQuery": "goal Ziel photo"
+  },
+  "noun-plan": {
+    "file": "plan.webp",
+    "lemma": "Plan",
+    "en": "plan",
+    "bytes": 17236,
+    "sourceQuery": "plan Plan photo"
+  },
+  "noun-thema": {
+    "file": "thema.webp",
+    "lemma": "Thema",
+    "en": "topic",
+    "bytes": 15744,
+    "sourceQuery": "topic Thema photo"
+  },
+  "noun-bild": {
+    "file": "bild.webp",
+    "lemma": "Bild",
+    "en": "picture",
+    "bytes": 16888,
+    "sourceQuery": "picture Bild photo"
+  },
+  "noun-foto": {
+    "file": "foto.webp",
+    "lemma": "Foto",
+    "en": "photo",
+    "bytes": 16434,
+    "sourceQuery": "photo Foto photo"
+  },
+  "noun-groesse": {
+    "file": "grosse.webp",
+    "lemma": "Größe",
+    "en": "size",
+    "bytes": 3530,
+    "sourceQuery": "size Größe photo"
+  },
+  "noun-liebe": {
+    "file": "liebe.webp",
+    "lemma": "Liebe",
+    "en": "love",
+    "bytes": 5490,
+    "sourceQuery": "love Liebe photo"
+  },
+  "noun-joghurt": {
+    "file": "joghurt.webp",
+    "lemma": "Joghurt",
+    "en": "yogurt",
+    "bytes": 9780,
+    "sourceQuery": "yogurt Joghurt photo"
+  },
+  "noun-pommes": {
+    "file": "pommes.webp",
+    "lemma": "Pommes",
+    "en": "french fries",
+    "bytes": 19066,
+    "sourceQuery": "french fries Pommes photo"
+  },
+  "noun-durst": {
+    "file": "durst.webp",
+    "lemma": "Durst",
+    "en": "thirst",
+    "bytes": 16766,
+    "sourceQuery": "thirst Durst photo"
+  },
+  "noun-appetit": {
+    "file": "appetit.webp",
+    "lemma": "Appetit",
+    "en": "appetite",
+    "bytes": 40814,
+    "sourceQuery": "appetite Appetit photo"
+  },
+  "noun-rezept": {
+    "file": "rezept.webp",
+    "lemma": "Rezept",
+    "en": "recipe",
+    "bytes": 35988,
+    "sourceQuery": "recipe Rezept photo"
+  },
+  "noun-caf": {
+    "file": "cafe.webp",
+    "lemma": "Café",
+    "en": "café",
+    "bytes": 19938,
+    "sourceQuery": "café Café photo"
+  },
+  "noun-tuete": {
+    "file": "tute.webp",
+    "lemma": "Tüte",
+    "en": "bag (paper/plastic)",
+    "bytes": 16146,
+    "sourceQuery": "bag Tüte photo"
+  },
+  "noun-kilo": {
+    "file": "kilo.webp",
+    "lemma": "Kilo",
+    "en": "kilo",
+    "bytes": 17180,
+    "sourceQuery": "kilo Kilo photo"
+  },
+  "noun-liter": {
+    "file": "liter.webp",
+    "lemma": "Liter",
+    "en": "liter",
+    "bytes": 5274,
+    "sourceQuery": "liter Liter photo"
+  },
+  "noun-lebensmittel": {
+    "file": "lebensmittel.webp",
+    "lemma": "Lebensmittel",
+    "en": "groceries",
+    "bytes": 34462,
+    "sourceQuery": "groceries Lebensmittel photo"
+  },
+  "noun-baeckerei": {
+    "file": "backerei.webp",
+    "lemma": "Bäckerei",
+    "en": "bakery",
+    "bytes": 34114,
+    "sourceQuery": "bakery Bäckerei photo"
+  },
+  "noun-markt": {
+    "file": "markt.webp",
+    "lemma": "Markt",
+    "en": "market",
+    "bytes": 39946,
+    "sourceQuery": "market Markt photo"
+  },
+  "noun-einkauf": {
+    "file": "einkauf.webp",
+    "lemma": "Einkauf",
+    "en": "purchase",
+    "bytes": 18366,
+    "sourceQuery": "purchase Einkauf photo"
+  },
+  "noun-angebot": {
+    "file": "angebot.webp",
+    "lemma": "Angebot",
+    "en": "offer",
+    "bytes": 11168,
+    "sourceQuery": "offer Angebot photo"
+  },
+  "noun-rabatt": {
+    "file": "rabatt.webp",
+    "lemma": "Rabatt",
+    "en": "discount",
+    "bytes": 19766,
+    "sourceQuery": "discount Rabatt photo"
+  },
+  "noun-cent": {
+    "file": "cent.webp",
+    "lemma": "Cent",
+    "en": "cent",
+    "bytes": 19768,
+    "sourceQuery": "cent Cent photo"
+  },
+  "noun-bargeld": {
+    "file": "bargeld.webp",
+    "lemma": "Bargeld",
+    "en": "cash",
+    "bytes": 36470,
+    "sourceQuery": "cash Bargeld photo"
+  },
+  "noun-kreditkarte": {
+    "file": "kreditkarte.webp",
+    "lemma": "Kreditkarte",
+    "en": "credit card",
+    "bytes": 19764,
+    "sourceQuery": "credit card Kreditkarte photo"
+  },
+  "noun-ueberweisung": {
+    "file": "uberweisung.webp",
+    "lemma": "Überweisung",
+    "en": "bank transfer",
+    "bytes": 22802,
+    "sourceQuery": "bank transfer Überweisung photo"
+  },
+  "noun-geldautomat": {
+    "file": "geldautomat.webp",
+    "lemma": "Geldautomat",
+    "en": "ATM",
+    "bytes": 13140,
+    "sourceQuery": "ATM Geldautomat photo"
+  },
+  "noun-steuer": {
+    "file": "steuer.webp",
+    "lemma": "Steuer",
+    "en": "tax",
+    "bytes": 22364,
+    "sourceQuery": "tax Steuer photo"
+  },
+  "noun-versicherung": {
+    "file": "versicherung.webp",
+    "lemma": "Versicherung",
+    "en": "insurance",
+    "bytes": 9984,
+    "sourceQuery": "insurance Versicherung photo"
+  },
+  "noun-kosten": {
+    "file": "kosten.webp",
+    "lemma": "Kosten",
+    "en": "costs",
+    "bytes": 4280,
+    "sourceQuery": "costs Kosten photo"
+  },
+  "noun-geschenk": {
+    "file": "geschenk.webp",
+    "lemma": "Geschenk",
+    "en": "gift",
+    "bytes": 13248,
+    "sourceQuery": "gift Geschenk photo"
+  },
+  "noun-oeffnungszeit": {
+    "file": "offnungszeit.webp",
+    "lemma": "Öffnungszeit",
+    "en": "opening hours",
+    "bytes": 24344,
+    "sourceQuery": "opening hours Öffnungszeit photo"
+  },
+  "noun-strassenbahn": {
+    "file": "strassenbahn.webp",
+    "lemma": "Straßenbahn",
+    "en": "tram",
+    "bytes": 27026,
+    "sourceQuery": "tram Straßenbahn photo"
+  },
+  "noun-s-bahn": {
+    "file": "s-bahn.webp",
+    "lemma": "S-Bahn",
+    "en": "suburban train",
+    "bytes": 47330,
+    "sourceQuery": "suburban train S-Bahn photo"
+  },
+  "noun-bahn": {
+    "file": "bahn.webp",
+    "lemma": "Bahn",
+    "en": "railway",
+    "bytes": 36222,
+    "sourceQuery": "railway Bahn photo"
+  },
+  "noun-flugzeug": {
+    "file": "flugzeug.webp",
+    "lemma": "Flugzeug",
+    "en": "airplane",
+    "bytes": 14620,
+    "sourceQuery": "airplane Flugzeug photo"
+  },
+  "noun-taxi": {
+    "file": "taxi.webp",
+    "lemma": "Taxi",
+    "en": "taxi",
+    "bytes": 28368,
+    "sourceQuery": "taxi Taxi photo"
+  },
+  "noun-hauptbahnhof": {
+    "file": "hauptbahnhof.webp",
+    "lemma": "Hauptbahnhof",
+    "en": "main station",
+    "bytes": 30760,
+    "sourceQuery": "main station Hauptbahnhof photo"
+  },
+  "noun-flughafen": {
+    "file": "flughafen.webp",
+    "lemma": "Flughafen",
+    "en": "airport",
+    "bytes": 26270,
+    "sourceQuery": "airport Flughafen photo"
+  },
+  "noun-bahnsteig": {
+    "file": "bahnsteig.webp",
+    "lemma": "Bahnsteig",
+    "en": "platform",
+    "bytes": 38886,
+    "sourceQuery": "platform Bahnsteig photo"
+  },
+  "noun-gleis": {
+    "file": "gleis.webp",
+    "lemma": "Gleis",
+    "en": "track",
+    "bytes": 57030,
+    "sourceQuery": "track Gleis photo"
+  },
+  "noun-fahrschein": {
+    "file": "fahrschein.webp",
+    "lemma": "Fahrschein",
+    "en": "ticket (transport)",
+    "bytes": 33526,
+    "sourceQuery": "ticket Fahrschein photo"
+  },
+  "noun-ticket": {
+    "file": "ticket.webp",
+    "lemma": "Ticket",
+    "en": "ticket",
+    "bytes": 12950,
+    "sourceQuery": "ticket Ticket photo"
+  },
+  "noun-fahrplan": {
+    "file": "fahrplan.webp",
+    "lemma": "Fahrplan",
+    "en": "timetable",
+    "bytes": 30010,
+    "sourceQuery": "timetable Fahrplan photo"
+  },
+  "noun-abfahrt": {
+    "file": "abfahrt.webp",
+    "lemma": "Abfahrt",
+    "en": "departure",
+    "bytes": 35128,
+    "sourceQuery": "departure Abfahrt photo"
+  },
+  "noun-ankunft": {
+    "file": "ankunft.webp",
+    "lemma": "Ankunft",
+    "en": "arrival",
+    "bytes": 5614,
+    "sourceQuery": "arrival Ankunft photo"
+  },
+  "noun-verbindung": {
+    "file": "verbindung.webp",
+    "lemma": "Verbindung",
+    "en": "connection",
+    "bytes": 41274,
+    "sourceQuery": "connection Verbindung photo"
+  },
+  "noun-fuehrerschein": {
+    "file": "fuhrerschein.webp",
+    "lemma": "Führerschein",
+    "en": "driver's license",
+    "bytes": 20976,
+    "sourceQuery": "driver's license Führerschein photo"
+  },
+  "noun-stau": {
+    "file": "stau.webp",
+    "lemma": "Stau",
+    "en": "traffic jam",
+    "bytes": 34528,
+    "sourceQuery": "traffic jam Stau photo"
+  },
+  "noun-verkehr": {
+    "file": "verkehr.webp",
+    "lemma": "Verkehr",
+    "en": "traffic",
+    "bytes": 51516,
+    "sourceQuery": "traffic Verkehr photo"
+  },
+  "noun-ampel": {
+    "file": "ampel.webp",
+    "lemma": "Ampel",
+    "en": "traffic light",
+    "bytes": 15740,
+    "sourceQuery": "traffic light Ampel photo"
+  },
+  "noun-kreuzung": {
+    "file": "kreuzung.webp",
+    "lemma": "Kreuzung",
+    "en": "intersection",
+    "bytes": 41450,
+    "sourceQuery": "intersection Kreuzung photo"
+  },
+  "noun-ecke": {
+    "file": "ecke.webp",
+    "lemma": "Ecke",
+    "en": "corner",
+    "bytes": 15956,
+    "sourceQuery": "corner Ecke photo"
+  },
+  "noun-parkplatz": {
+    "file": "parkplatz.webp",
+    "lemma": "Parkplatz",
+    "en": "parking space",
+    "bytes": 15130,
+    "sourceQuery": "parking space Parkplatz photo"
+  },
+  "noun-unfall": {
+    "file": "unfall.webp",
+    "lemma": "Unfall",
+    "en": "accident",
+    "bytes": 27568,
+    "sourceQuery": "accident Unfall photo"
+  },
+  "noun-gepaeck": {
+    "file": "gepack.webp",
+    "lemma": "Gepäck",
+    "en": "luggage",
+    "bytes": 13686,
+    "sourceQuery": "luggage Gepäck photo"
+  },
+  "noun-reservierung": {
+    "file": "reservierung.webp",
+    "lemma": "Reservierung",
+    "en": "reservation",
+    "bytes": 4670,
+    "sourceQuery": "reservation Reservierung photo"
+  },
+  "noun-ferien": {
+    "file": "ferien.webp",
+    "lemma": "Ferien",
+    "en": "school holidays",
+    "bytes": 18590,
+    "sourceQuery": "school holidays Ferien photo"
+  },
+  "noun-ausflug": {
+    "file": "ausflug.webp",
+    "lemma": "Ausflug",
+    "en": "excursion",
+    "bytes": 34958,
+    "sourceQuery": "excursion Ausflug photo"
+  },
+  "noun-pass": {
+    "file": "pass.webp",
+    "lemma": "Pass",
+    "en": "passport",
+    "bytes": 14700,
+    "sourceQuery": "passport Pass photo"
+  },
+  "noun-reisepass": {
+    "file": "reisepass.webp",
+    "lemma": "Reisepass",
+    "en": "passport",
+    "bytes": 10548,
+    "sourceQuery": "passport Reisepass photo"
+  },
+  "noun-ausland": {
+    "file": "ausland.webp",
+    "lemma": "Ausland",
+    "en": "abroad",
+    "bytes": 25172,
+    "sourceQuery": "abroad Ausland photo"
+  },
+  "noun-sehenswuerdigkeit": {
+    "file": "sehenswurdigkeit.webp",
+    "lemma": "Sehenswürdigkeit",
+    "en": "sight",
+    "bytes": 13396,
+    "sourceQuery": "sight Sehenswürdigkeit photo"
+  },
+  "noun-museum": {
+    "file": "museum.webp",
+    "lemma": "Museum",
+    "en": "museum",
+    "bytes": 22896,
+    "sourceQuery": "museum Museum photo"
+  },
+  "noun-strand": {
+    "file": "strand.webp",
+    "lemma": "Strand",
+    "en": "beach",
+    "bytes": 25870,
+    "sourceQuery": "beach Strand photo"
+  },
+  "noun-meer": {
+    "file": "meer.webp",
+    "lemma": "Meer",
+    "en": "sea",
+    "bytes": 19576,
+    "sourceQuery": "sea Meer photo"
+  },
+  "noun-berg": {
+    "file": "berg.webp",
+    "lemma": "Berg",
+    "en": "mountain",
+    "bytes": 38804,
+    "sourceQuery": "mountain Berg photo"
+  },
+  "noun-dorf": {
+    "file": "dorf.webp",
+    "lemma": "Dorf",
+    "en": "village",
+    "bytes": 25302,
+    "sourceQuery": "village Dorf photo"
+  },
+  "noun-zentrum": {
+    "file": "zentrum.webp",
+    "lemma": "Zentrum",
+    "en": "center",
+    "bytes": 32828,
+    "sourceQuery": "center Zentrum photo"
+  },
+  "noun-polizei": {
+    "file": "polizei.webp",
+    "lemma": "Polizei",
+    "en": "police",
+    "bytes": 24674,
+    "sourceQuery": "police Polizei photo"
+  },
+  "noun-brief": {
+    "file": "brief.webp",
+    "lemma": "Brief",
+    "en": "letter",
+    "bytes": 5972,
+    "sourceQuery": "letter Brief photo"
+  },
+  "noun-universitaet": {
+    "file": "universitat.webp",
+    "lemma": "Universität",
+    "en": "university",
+    "bytes": 30088,
+    "sourceQuery": "university Universität photo"
+  },
+  "noun-bibliothek": {
+    "file": "bibliothek.webp",
+    "lemma": "Bibliothek",
+    "en": "library",
+    "bytes": 48712,
+    "sourceQuery": "library Bibliothek photo"
+  },
+  "noun-kino": {
+    "file": "kino.webp",
+    "lemma": "Kino",
+    "en": "cinema",
+    "bytes": 11030,
+    "sourceQuery": "cinema Kino photo"
+  },
+  "noun-konzert": {
+    "file": "konzert.webp",
+    "lemma": "Konzert",
+    "en": "concert",
+    "bytes": 10014,
+    "sourceQuery": "concert Konzert photo"
+  },
+  "noun-fitnessstudio": {
+    "file": "fitnessstudio.webp",
+    "lemma": "Fitnessstudio",
+    "en": "gym",
+    "bytes": 21016,
+    "sourceQuery": "gym Fitnessstudio photo"
+  },
+  "noun-eingang": {
+    "file": "eingang.webp",
+    "lemma": "Eingang",
+    "en": "entrance",
+    "bytes": 19748,
+    "sourceQuery": "entrance Eingang photo"
+  },
+  "noun-ausgang": {
+    "file": "ausgang.webp",
+    "lemma": "Ausgang",
+    "en": "exit",
+    "bytes": 18184,
+    "sourceQuery": "exit Ausgang photo"
+  },
+  "noun-richtung": {
+    "file": "richtung.webp",
+    "lemma": "Richtung",
+    "en": "direction",
+    "bytes": 13856,
+    "sourceQuery": "direction Richtung photo"
+  },
+  "noun-ort": {
+    "file": "ort.webp",
+    "lemma": "Ort",
+    "en": "place",
+    "bytes": 21574,
+    "sourceQuery": "place Ort photo"
+  },
+  "noun-kilometer": {
+    "file": "kilometer.webp",
+    "lemma": "Kilometer",
+    "en": "kilometer",
+    "bytes": 6658,
+    "sourceQuery": "kilometer Kilometer photo"
+  },
+  "noun-meter": {
+    "file": "meter.webp",
+    "lemma": "Meter",
+    "en": "meter",
+    "bytes": 19768,
+    "sourceQuery": "meter Meter photo"
+  },
+  "noun-stelle": {
+    "file": "stelle.webp",
+    "lemma": "Stelle",
+    "en": "position",
+    "bytes": 29072,
+    "sourceQuery": "position Stelle photo"
+  },
+  "noun-mitarbeiter": {
+    "file": "mitarbeiter.webp",
+    "lemma": "Mitarbeiter",
+    "en": "employee (male)",
+    "bytes": 15108,
+    "sourceQuery": "employee Mitarbeiter photo"
+  },
+  "noun-arbeitsplatz": {
+    "file": "arbeitsplatz.webp",
+    "lemma": "Arbeitsplatz",
+    "en": "workplace",
+    "bytes": 25516,
+    "sourceQuery": "workplace Arbeitsplatz photo"
+  },
+  "noun-arbeitszeit": {
+    "file": "arbeitszeit.webp",
+    "lemma": "Arbeitszeit",
+    "en": "working hours",
+    "bytes": 16668,
+    "sourceQuery": "working hours Arbeitszeit photo"
+  },
+  "noun-feierabend": {
+    "file": "feierabend.webp",
+    "lemma": "Feierabend",
+    "en": "end of the workday",
+    "bytes": 11926,
+    "sourceQuery": "end of the workday Feierabend photo"
+  },
+  "noun-vertrag": {
+    "file": "vertrag.webp",
+    "lemma": "Vertrag",
+    "en": "contract",
+    "bytes": 27914,
+    "sourceQuery": "contract Vertrag photo"
+  },
+  "noun-bewerbung": {
+    "file": "bewerbung.webp",
+    "lemma": "Bewerbung",
+    "en": "job application",
+    "bytes": 4926,
+    "sourceQuery": "job application Bewerbung photo"
+  },
+  "noun-lebenslauf": {
+    "file": "lebenslauf.webp",
+    "lemma": "Lebenslauf",
+    "en": "CV",
+    "bytes": 14092,
+    "sourceQuery": "CV Lebenslauf photo"
+  },
+  "noun-vorstellungsgespraech": {
+    "file": "vorstellungsgesprach.webp",
+    "lemma": "Vorstellungsgespräch",
+    "en": "job interview",
+    "bytes": 14416,
+    "sourceQuery": "job interview Vorstellungsgespräch photo"
+  },
+  "noun-erfahrung": {
+    "file": "erfahrung.webp",
+    "lemma": "Erfahrung",
+    "en": "experience",
+    "bytes": 21480,
+    "sourceQuery": "experience Erfahrung photo"
+  },
+  "noun-ausbildung": {
+    "file": "ausbildung.webp",
+    "lemma": "Ausbildung",
+    "en": "vocational training",
+    "bytes": 25646,
+    "sourceQuery": "vocational training Ausbildung photo"
+  },
+  "noun-besprechung": {
+    "file": "besprechung.webp",
+    "lemma": "Besprechung",
+    "en": "meeting",
+    "bytes": 19202,
+    "sourceQuery": "meeting Besprechung photo"
+  },
+  "noun-projekt": {
+    "file": "projekt.webp",
+    "lemma": "Projekt",
+    "en": "project",
+    "bytes": 28512,
+    "sourceQuery": "project Projekt photo"
+  },
+  "noun-team": {
+    "file": "team.webp",
+    "lemma": "Team",
+    "en": "team",
+    "bytes": 22914,
+    "sourceQuery": "team Team photo"
+  },
+  "noun-friseur": {
+    "file": "friseur.webp",
+    "lemma": "Friseur",
+    "en": "hairdresser (male)",
+    "bytes": 11176,
+    "sourceQuery": "hairdresser Friseur photo"
+  },
+  "noun-unterlagen": {
+    "file": "unterlagen.webp",
+    "lemma": "Unterlagen",
+    "en": "documents",
+    "bytes": 19248,
+    "sourceQuery": "documents Unterlagen photo"
+  },
+  "noun-antrag": {
+    "file": "antrag.webp",
+    "lemma": "Antrag",
+    "en": "application",
+    "bytes": 10128,
+    "sourceQuery": "application Antrag photo"
+  },
+  "noun-unterschrift": {
+    "file": "unterschrift.webp",
+    "lemma": "Unterschrift",
+    "en": "signature",
+    "bytes": 5682,
+    "sourceQuery": "signature Unterschrift photo"
+  },
+  "noun-aufenthaltserlaubnis": {
+    "file": "aufenthaltserlaubnis.webp",
+    "lemma": "Aufenthaltserlaubnis",
+    "en": "residence permit",
+    "bytes": 28156,
+    "sourceQuery": "residence permit Aufenthaltserlaubnis photo"
+  },
+  "noun-homeoffice": {
+    "file": "homeoffice.webp",
+    "lemma": "Homeoffice",
+    "en": "home office",
+    "bytes": 27346,
+    "sourceQuery": "home office Homeoffice photo"
+  },
+  "noun-hausaufgabe": {
+    "file": "hausaufgabe.webp",
+    "lemma": "Hausaufgabe",
+    "en": "homework",
+    "bytes": 19844,
+    "sourceQuery": "homework Hausaufgabe photo"
+  },
+  "noun-test": {
+    "file": "test.webp",
+    "lemma": "Test",
+    "en": "test",
+    "bytes": 25064,
+    "sourceQuery": "test Test photo"
+  },
+  "noun-note": {
+    "file": "note.webp",
+    "lemma": "Note",
+    "en": "grade",
+    "bytes": 5150,
+    "sourceQuery": "grade Note photo"
+  },
+  "noun-studium": {
+    "file": "studium.webp",
+    "lemma": "Studium",
+    "en": "studies",
+    "bytes": 23430,
+    "sourceQuery": "studies Studium photo"
+  },
+  "noun-fach": {
+    "file": "fach.webp",
+    "lemma": "Fach",
+    "en": "subject",
+    "bytes": 11456,
+    "sourceQuery": "subject Fach photo"
+  },
+  "noun-englisch": {
+    "file": "englisch.webp",
+    "lemma": "Englisch",
+    "en": "English (language)",
+    "bytes": 15078,
+    "sourceQuery": "English Englisch photo"
+  },
+  "noun-grammatik": {
+    "file": "grammatik.webp",
+    "lemma": "Grammatik",
+    "en": "grammar",
+    "bytes": 13358,
+    "sourceQuery": "grammar Grammatik photo"
+  },
+  "noun-woerterbuch": {
+    "file": "worterbuch.webp",
+    "lemma": "Wörterbuch",
+    "en": "dictionary",
+    "bytes": 18822,
+    "sourceQuery": "dictionary Wörterbuch photo"
+  },
+  "noun-stift": {
+    "file": "stift.webp",
+    "lemma": "Stift",
+    "en": "pen",
+    "bytes": 12444,
+    "sourceQuery": "pen Stift photo"
+  },
+  "noun-papier": {
+    "file": "papier.webp",
+    "lemma": "Papier",
+    "en": "paper",
+    "bytes": 22020,
+    "sourceQuery": "paper Papier photo"
+  },
+  "noun-zeitung": {
+    "file": "zeitung.webp",
+    "lemma": "Zeitung",
+    "en": "newspaper",
+    "bytes": 31152,
+    "sourceQuery": "newspaper Zeitung photo"
+  },
+  "noun-kindergarten": {
+    "file": "kindergarten.webp",
+    "lemma": "Kindergarten",
+    "en": "kindergarten",
+    "bytes": 15266,
+    "sourceQuery": "kindergarten Kindergarten photo"
+  },
+  "noun-uebung": {
+    "file": "ubung.webp",
+    "lemma": "Übung",
+    "en": "exercise",
+    "bytes": 27066,
+    "sourceQuery": "exercise Übung photo"
+  },
+  "noun-bedeutung": {
+    "file": "bedeutung.webp",
+    "lemma": "Bedeutung",
+    "en": "meaning",
+    "bytes": 28124,
+    "sourceQuery": "meaning Bedeutung photo"
+  },
+  "noun-krankheit": {
+    "file": "krankheit.webp",
+    "lemma": "Krankheit",
+    "en": "illness",
+    "bytes": 29066,
+    "sourceQuery": "illness Krankheit photo"
+  },
+  "noun-grippe": {
+    "file": "grippe.webp",
+    "lemma": "Grippe",
+    "en": "flu",
+    "bytes": 26782,
+    "sourceQuery": "flu Grippe photo"
+  },
+  "noun-erkaeltung": {
+    "file": "erkaltung.webp",
+    "lemma": "Erkältung",
+    "en": "cold",
+    "bytes": 16234,
+    "sourceQuery": "cold Erkältung photo"
+  },
+  "noun-husten": {
+    "file": "husten.webp",
+    "lemma": "Husten",
+    "en": "cough",
+    "bytes": 9374,
+    "sourceQuery": "cough Husten photo"
+  },
+  "noun-kopfschmerzen": {
+    "file": "kopfschmerzen.webp",
+    "lemma": "Kopfschmerzen",
+    "en": "headache",
+    "bytes": 14808,
+    "sourceQuery": "headache Kopfschmerzen photo"
+  },
+  "noun-medikament": {
+    "file": "medikament.webp",
+    "lemma": "Medikament",
+    "en": "medication",
+    "bytes": 15494,
+    "sourceQuery": "medication Medikament photo"
+  },
+  "noun-tablette": {
+    "file": "tablette.webp",
+    "lemma": "Tablette",
+    "en": "tablet",
+    "bytes": 12818,
+    "sourceQuery": "tablet Tablette photo"
+  },
+  "noun-praxis": {
+    "file": "praxis.webp",
+    "lemma": "Praxis",
+    "en": "doctor's office",
+    "bytes": 15298,
+    "sourceQuery": "doctor's office Praxis photo"
+  },
+  "noun-zahnarzt": {
+    "file": "zahnarzt.webp",
+    "lemma": "Zahnarzt",
+    "en": "dentist (male)",
+    "bytes": 12168,
+    "sourceQuery": "dentist Zahnarzt photo"
+  },
+  "noun-notfall": {
+    "file": "notfall.webp",
+    "lemma": "Notfall",
+    "en": "emergency",
+    "bytes": 33942,
+    "sourceQuery": "emergency Notfall photo"
+  },
+  "noun-krankenkasse": {
+    "file": "krankenkasse.webp",
+    "lemma": "Krankenkasse",
+    "en": "health insurance company",
+    "bytes": 15150,
+    "sourceQuery": "health insurance company Krankenkasse photo"
+  },
+  "noun-krankenversicherung": {
+    "file": "krankenversicherung.webp",
+    "lemma": "Krankenversicherung",
+    "en": "health insurance",
+    "bytes": 15136,
+    "sourceQuery": "health insurance Krankenversicherung photo"
+  },
+  "noun-stress": {
+    "file": "stress.webp",
+    "lemma": "Stress",
+    "en": "stress",
+    "bytes": 24730,
+    "sourceQuery": "stress Stress photo"
+  },
+  "noun-jeans": {
+    "file": "jeans.webp",
+    "lemma": "Jeans",
+    "en": "jeans",
+    "bytes": 71308,
+    "sourceQuery": "jeans Jeans photo"
+  },
+  "noun-t-shirt": {
+    "file": "t-shirt.webp",
+    "lemma": "T-Shirt",
+    "en": "T-shirt",
+    "bytes": 30866,
+    "sourceQuery": "T-shirt T-Shirt photo"
+  },
+  "noun-pullover": {
+    "file": "pullover.webp",
+    "lemma": "Pullover",
+    "en": "sweater",
+    "bytes": 28064,
+    "sourceQuery": "sweater Pullover photo"
+  },
+  "noun-regenschirm": {
+    "file": "regenschirm.webp",
+    "lemma": "Regenschirm",
+    "en": "umbrella",
+    "bytes": 39940,
+    "sourceQuery": "umbrella Regenschirm photo"
+  },
+  "noun-smartphone": {
+    "file": "smartphone.webp",
+    "lemma": "Smartphone",
+    "en": "smartphone",
+    "bytes": 10148,
+    "sourceQuery": "smartphone Smartphone photo"
+  },
+  "noun-anruf": {
+    "file": "anruf.webp",
+    "lemma": "Anruf",
+    "en": "phone call",
+    "bytes": 6856,
+    "sourceQuery": "phone call Anruf photo"
+  },
+  "noun-webseite": {
+    "file": "webseite.webp",
+    "lemma": "Webseite",
+    "en": "website",
+    "bytes": 10582,
+    "sourceQuery": "website Webseite photo"
+  },
+  "noun-laptop": {
+    "file": "laptop.webp",
+    "lemma": "Laptop",
+    "en": "laptop",
+    "bytes": 13408,
+    "sourceQuery": "laptop Laptop photo"
+  },
+  "noun-fernseher": {
+    "file": "fernseher.webp",
+    "lemma": "Fernseher",
+    "en": "television set",
+    "bytes": 10748,
+    "sourceQuery": "television set Fernseher photo"
+  },
+  "noun-programm": {
+    "file": "programm.webp",
+    "lemma": "Programm",
+    "en": "program",
+    "bytes": 11140,
+    "sourceQuery": "program Programm photo"
+  },
+  "noun-nachrichten": {
+    "file": "nachrichten.webp",
+    "lemma": "Nachrichten",
+    "en": "news (broadcast)",
+    "bytes": 12338,
+    "sourceQuery": "news Nachrichten photo"
+  },
+  "noun-einladung": {
+    "file": "einladung.webp",
+    "lemma": "Einladung",
+    "en": "invitation",
+    "bytes": 28220,
+    "sourceQuery": "invitation Einladung photo"
+  },
+  "noun-party": {
+    "file": "party.webp",
+    "lemma": "Party",
+    "en": "party",
+    "bytes": 42140,
+    "sourceQuery": "party Party photo"
+  },
+  "noun-uhrzeit": {
+    "file": "uhrzeit.webp",
+    "lemma": "Uhrzeit",
+    "en": "time (of day)",
+    "bytes": 59796,
+    "sourceQuery": "time Uhrzeit photo"
+  },
+  "noun-vormittag": {
+    "file": "vormittag.webp",
+    "lemma": "Vormittag",
+    "en": "late morning",
+    "bytes": 32130,
+    "sourceQuery": "late morning Vormittag photo"
+  },
+  "noun-mittag": {
+    "file": "mittag.webp",
+    "lemma": "Mittag",
+    "en": "noon",
+    "bytes": 33754,
+    "sourceQuery": "noon Mittag photo"
+  },
+  "noun-dienstag": {
+    "file": "dienstag.webp",
+    "lemma": "Dienstag",
+    "en": "Tuesday",
+    "bytes": 45818,
+    "sourceQuery": "Tuesday Dienstag photo"
+  },
+  "noun-mittwoch": {
+    "file": "mittwoch.webp",
+    "lemma": "Mittwoch",
+    "en": "Wednesday",
+    "bytes": 19110,
+    "sourceQuery": "Wednesday Mittwoch photo"
+  },
+  "noun-donnerstag": {
+    "file": "donnerstag.webp",
+    "lemma": "Donnerstag",
+    "en": "Thursday",
+    "bytes": 37356,
+    "sourceQuery": "Thursday Donnerstag photo"
+  },
+  "noun-freitag": {
+    "file": "freitag.webp",
+    "lemma": "Freitag",
+    "en": "Friday",
+    "bytes": 40730,
+    "sourceQuery": "Friday Freitag photo"
+  },
+  "noun-samstag": {
+    "file": "samstag.webp",
+    "lemma": "Samstag",
+    "en": "Saturday",
+    "bytes": 13704,
+    "sourceQuery": "Saturday Samstag photo"
+  },
+  "noun-sonntag": {
+    "file": "sonntag.webp",
+    "lemma": "Sonntag",
+    "en": "Sunday",
+    "bytes": 6832,
+    "sourceQuery": "Sunday Sonntag photo"
+  },
+  "noun-fruehling": {
+    "file": "fruhling.webp",
+    "lemma": "Frühling",
+    "en": "spring",
+    "bytes": 63878,
+    "sourceQuery": "spring Frühling photo"
+  },
+  "noun-herbst": {
+    "file": "herbst.webp",
+    "lemma": "Herbst",
+    "en": "autumn",
+    "bytes": 62738,
+    "sourceQuery": "autumn Herbst photo"
+  },
+  "noun-feiertag": {
+    "file": "feiertag.webp",
+    "lemma": "Feiertag",
+    "en": "public holiday",
+    "bytes": 25258,
+    "sourceQuery": "public holiday Feiertag photo"
+  },
+  "noun-weihnachten": {
+    "file": "weihnachten.webp",
+    "lemma": "Weihnachten",
+    "en": "Christmas",
+    "bytes": 29208,
+    "sourceQuery": "Christmas Weihnachten photo"
+  },
+  "noun-zukunft": {
+    "file": "zukunft.webp",
+    "lemma": "Zukunft",
+    "en": "future",
+    "bytes": 33520,
+    "sourceQuery": "future Zukunft photo"
+  },
+  "noun-schnee": {
+    "file": "schnee.webp",
+    "lemma": "Schnee",
+    "en": "snow",
+    "bytes": 19626,
+    "sourceQuery": "snow Schnee photo"
+  },
+  "noun-wind": {
+    "file": "wind.webp",
+    "lemma": "Wind",
+    "en": "wind",
+    "bytes": 24584,
+    "sourceQuery": "wind Wind photo"
+  },
+  "noun-temperatur": {
+    "file": "temperatur.webp",
+    "lemma": "Temperatur",
+    "en": "temperature",
+    "bytes": 23104,
+    "sourceQuery": "temperature Temperatur photo"
+  },
+  "noun-grad": {
+    "file": "grad.webp",
+    "lemma": "Grad",
+    "en": "degree",
+    "bytes": 20586,
+    "sourceQuery": "degree Grad photo"
+  },
+  "noun-natur": {
+    "file": "natur.webp",
+    "lemma": "Natur",
+    "en": "nature",
+    "bytes": 49120,
+    "sourceQuery": "nature Natur photo"
+  },
+  "noun-umwelt": {
+    "file": "umwelt.webp",
+    "lemma": "Umwelt",
+    "en": "environment",
+    "bytes": 27206,
+    "sourceQuery": "environment Umwelt photo"
+  },
+  "noun-pflanze": {
+    "file": "pflanze.webp",
+    "lemma": "Pflanze",
+    "en": "plant",
+    "bytes": 13366,
+    "sourceQuery": "plant Pflanze photo"
+  },
+  "noun-fluss": {
+    "file": "fluss.webp",
+    "lemma": "Fluss",
+    "en": "river",
+    "bytes": 10004,
+    "sourceQuery": "river Fluss photo"
+  },
+  "noun-see": {
+    "file": "see.webp",
+    "lemma": "See",
+    "en": "lake",
+    "bytes": 26022,
+    "sourceQuery": "lake See photo"
+  },
+  "noun-luft": {
+    "file": "luft.webp",
+    "lemma": "Luft",
+    "en": "air",
+    "bytes": 21302,
+    "sourceQuery": "air Luft photo"
+  },
+  "noun-welt": {
+    "file": "welt.webp",
+    "lemma": "Welt",
+    "en": "world",
+    "bytes": 19226,
+    "sourceQuery": "world Welt photo"
+  },
+  "noun-haustier": {
+    "file": "haustier.webp",
+    "lemma": "Haustier",
+    "en": "pet",
+    "bytes": 7634,
+    "sourceQuery": "pet Haustier photo"
+  },
+  "noun-vogel": {
+    "file": "vogel.webp",
+    "lemma": "Vogel",
+    "en": "bird",
+    "bytes": 10096,
+    "sourceQuery": "bird Vogel photo"
+  },
+  "noun-spaziergang": {
+    "file": "spaziergang.webp",
+    "lemma": "Spaziergang",
+    "en": "walk",
+    "bytes": 60526,
+    "sourceQuery": "walk Spaziergang photo"
+  },
+  "noun-eintritt": {
+    "file": "eintritt.webp",
+    "lemma": "Eintritt",
+    "en": "admission",
+    "bytes": 28456,
+    "sourceQuery": "admission Eintritt photo"
+  },
+  "noun-freude": {
+    "file": "freude.webp",
+    "lemma": "Freude",
+    "en": "joy",
+    "bytes": 7782,
+    "sourceQuery": "joy Freude photo"
+  },
+  "noun-angst": {
+    "file": "angst.webp",
+    "lemma": "Angst",
+    "en": "fear",
+    "bytes": 40020,
+    "sourceQuery": "fear Angst photo"
+  },
+  "noun-sorge": {
+    "file": "sorge.webp",
+    "lemma": "Sorge",
+    "en": "worry",
+    "bytes": 11300,
+    "sourceQuery": "worry Sorge photo"
+  },
+  "noun-ueberraschung": {
+    "file": "uberraschung.webp",
+    "lemma": "Überraschung",
+    "en": "surprise",
+    "bytes": 24060,
+    "sourceQuery": "surprise Überraschung photo"
+  },
+  "noun-gefuehl": {
+    "file": "gefuhl.webp",
+    "lemma": "Gefühl",
+    "en": "feeling",
+    "bytes": 7666,
+    "sourceQuery": "feeling Gefühl photo"
+  },
+  "noun-geduld": {
+    "file": "geduld.webp",
+    "lemma": "Geduld",
+    "en": "patience",
+    "bytes": 45396,
+    "sourceQuery": "patience Geduld photo"
+  },
+  "noun-beziehung": {
+    "file": "beziehung.webp",
+    "lemma": "Beziehung",
+    "en": "relationship",
+    "bytes": 16458,
+    "sourceQuery": "relationship Beziehung photo"
+  },
+  "noun-freundschaft": {
+    "file": "freundschaft.webp",
+    "lemma": "Freundschaft",
+    "en": "friendship",
+    "bytes": 17178,
+    "sourceQuery": "friendship Freundschaft photo"
+  },
+  "noun-lust": {
+    "file": "lust.webp",
+    "lemma": "Lust",
+    "en": "desire",
+    "bytes": 17450,
+    "sourceQuery": "desire Lust photo"
+  },
+  "noun-interesse": {
+    "file": "interesse.webp",
+    "lemma": "Interesse",
+    "en": "interest",
+    "bytes": 12548,
+    "sourceQuery": "interest Interesse photo"
+  },
+  "noun-erfolg": {
+    "file": "erfolg.webp",
+    "lemma": "Erfolg",
+    "en": "success",
+    "bytes": 20758,
+    "sourceQuery": "success Erfolg photo"
+  },
+  "noun-alltag": {
+    "file": "alltag.webp",
+    "lemma": "Alltag",
+    "en": "everyday life",
+    "bytes": 53364,
+    "sourceQuery": "everyday life Alltag photo"
+  },
+  "noun-ergebnis": {
+    "file": "ergebnis.webp",
+    "lemma": "Ergebnis",
+    "en": "result",
+    "bytes": 12908,
+    "sourceQuery": "result Ergebnis photo"
+  },
+  "noun-entscheidung": {
+    "file": "entscheidung.webp",
+    "lemma": "Entscheidung",
+    "en": "decision",
+    "bytes": 5470,
+    "sourceQuery": "decision Entscheidung photo"
+  },
+  "noun-regel": {
+    "file": "regel.webp",
+    "lemma": "Regel",
+    "en": "rule",
+    "bytes": 34442,
+    "sourceQuery": "rule Regel photo"
+  },
+  "noun-tipp": {
+    "file": "tipp.webp",
+    "lemma": "Tipp",
+    "en": "tip",
+    "bytes": 3188,
+    "sourceQuery": "tip Tipp photo"
+  },
+  "noun-dank": {
+    "file": "dank.webp",
+    "lemma": "Dank",
+    "en": "thanks",
+    "bytes": 44448,
+    "sourceQuery": "thanks Dank photo"
+  },
+  "noun-gruss": {
+    "file": "gruss.webp",
+    "lemma": "Gruß",
+    "en": "greeting",
+    "bytes": 12330,
+    "sourceQuery": "greeting Gruß photo"
+  },
+  "noun-sprechstunde": {
+    "file": "sprechstunde.webp",
+    "lemma": "Sprechstunde",
+    "en": "consultation hours",
+    "bytes": 20842,
+    "sourceQuery": "consultation hours Sprechstunde photo"
+  },
+  "noun-pfand": {
+    "file": "pfand.webp",
+    "lemma": "Pfand",
+    "en": "deposit (on bottles)",
+    "bytes": 18822,
+    "sourceQuery": "deposit Pfand photo"
+  },
+  "noun-auslaender": {
+    "file": "auslander.webp",
+    "lemma": "Ausländer",
+    "en": "foreigner (male)",
+    "bytes": 38704,
+    "sourceQuery": "foreigner Ausländer photo"
+  },
+  "noun-grossvater": {
+    "file": "grossvater.webp",
+    "lemma": "Großvater",
+    "en": "grandfather",
+    "bytes": 25856,
+    "sourceQuery": "grandfather Großvater photo"
+  },
+  "noun-grossmutter": {
+    "file": "grossmutter.webp",
+    "lemma": "Großmutter",
+    "en": "grandmother",
+    "bytes": 16288,
+    "sourceQuery": "grandmother Großmutter photo"
+  },
+  "noun-grosseltern": {
+    "file": "grosseltern.webp",
+    "lemma": "Großeltern",
+    "en": "grandparents",
+    "bytes": 27728,
+    "sourceQuery": "grandparents Großeltern photo"
+  },
+  "noun-cousin": {
+    "file": "cousin.webp",
+    "lemma": "Cousin",
+    "en": "cousin (male)",
+    "bytes": 28826,
+    "sourceQuery": "cousin Cousin photo"
+  },
+  "noun-cousine": {
+    "file": "cousine.webp",
+    "lemma": "Cousine",
+    "en": "cousin (female)",
+    "bytes": 31070,
+    "sourceQuery": "cousin Cousine photo"
+  },
+  "noun-ehemann": {
+    "file": "ehemann.webp",
+    "lemma": "Ehemann",
+    "en": "husband",
+    "bytes": 14996,
+    "sourceQuery": "husband Ehemann photo"
+  },
+  "noun-ehefrau": {
+    "file": "ehefrau.webp",
+    "lemma": "Ehefrau",
+    "en": "wife",
+    "bytes": 14996,
+    "sourceQuery": "wife Ehefrau photo"
+  },
+  "noun-ehepaar": {
+    "file": "ehepaar.webp",
+    "lemma": "Ehepaar",
+    "en": "married couple",
+    "bytes": 16744,
+    "sourceQuery": "married couple Ehepaar photo"
+  },
+  "noun-partner": {
+    "file": "partner.webp",
+    "lemma": "Partner",
+    "en": "partner (male)",
+    "bytes": 17732,
+    "sourceQuery": "partner Partner photo"
+  },
+  "noun-partnerin": {
+    "file": "partnerin.webp",
+    "lemma": "Partnerin",
+    "en": "partner (female)",
+    "bytes": 13320,
+    "sourceQuery": "partner Partnerin photo"
+  },
+  "noun-herz": {
+    "file": "herz.webp",
+    "lemma": "Herz",
+    "en": "heart",
+    "bytes": 5750,
+    "sourceQuery": "heart Herz photo"
+  },
+  "noun-aufzug": {
+    "file": "aufzug.webp",
+    "lemma": "Aufzug",
+    "en": "elevator",
+    "bytes": 10096,
+    "sourceQuery": "elevator Aufzug photo"
+  },
+  "noun-decke": {
+    "file": "decke.webp",
+    "lemma": "Decke",
+    "en": "ceiling",
+    "bytes": 9184,
+    "sourceQuery": "ceiling Decke photo"
+  },
+  "noun-teppich": {
+    "file": "teppich.webp",
+    "lemma": "Teppich",
+    "en": "carpet",
+    "bytes": 39908,
+    "sourceQuery": "carpet Teppich photo"
+  },
+  "noun-herd": {
+    "file": "herd.webp",
+    "lemma": "Herd",
+    "en": "stove",
+    "bytes": 25724,
+    "sourceQuery": "stove Herd photo"
+  },
+  "noun-handtuch": {
+    "file": "handtuch.webp",
+    "lemma": "Handtuch",
+    "en": "towel",
+    "bytes": 24434,
+    "sourceQuery": "towel Handtuch photo"
+  },
+  "noun-miete": {
+    "file": "miete.webp",
+    "lemma": "Miete",
+    "en": "rent",
+    "bytes": 22348,
+    "sourceQuery": "rent Miete photo"
+  },
+  "noun-vermieter": {
+    "file": "vermieter.webp",
+    "lemma": "Vermieter",
+    "en": "landlord",
+    "bytes": 11288,
+    "sourceQuery": "landlord Vermieter photo"
+  },
+  "noun-erdgeschoss": {
+    "file": "erdgeschoss.webp",
+    "lemma": "Erdgeschoss",
+    "en": "ground floor",
+    "bytes": 45772,
+    "sourceQuery": "ground floor Erdgeschoss photo"
+  },
+  "noun-stock": {
+    "file": "stock.webp",
+    "lemma": "Stock",
+    "en": "floor",
+    "bytes": 11396,
+    "sourceQuery": "floor Stock photo"
+  },
+  "noun-karotte": {
+    "file": "karotte.webp",
+    "lemma": "Karotte",
+    "en": "carrot",
+    "bytes": 22782,
+    "sourceQuery": "carrot Karotte photo"
+  },
+  "noun-haehnchen": {
+    "file": "hahnchen.webp",
+    "lemma": "Hähnchen",
+    "en": "chicken",
+    "bytes": 12192,
+    "sourceQuery": "chicken Hähnchen photo"
+  },
+  "noun-hut": {
+    "file": "hut.webp",
+    "lemma": "Hut",
+    "en": "hat",
+    "bytes": 11126,
+    "sourceQuery": "hat Hut photo"
+  },
+  "noun-keller": {
+    "file": "keller.webp",
+    "lemma": "Keller",
+    "en": "basement",
+    "bytes": 36042,
+    "sourceQuery": "basement Keller photo"
+  },
+  "noun-mieter": {
+    "file": "mieter.webp",
+    "lemma": "Mieter",
+    "en": "tenant (male)",
+    "bytes": 11050,
+    "sourceQuery": "tenant Mieter photo"
+  },
+  "noun-strom": {
+    "file": "strom.webp",
+    "lemma": "Strom",
+    "en": "electricity",
+    "bytes": 19394,
+    "sourceQuery": "electricity Strom photo"
+  },
+  "noun-moebel": {
+    "file": "mobel.webp",
+    "lemma": "Möbel",
+    "en": "furniture",
+    "bytes": 17868,
+    "sourceQuery": "furniture Möbel photo"
+  },
+  "noun-waschmaschine": {
+    "file": "waschmaschine.webp",
+    "lemma": "Waschmaschine",
+    "en": "washing machine",
+    "bytes": 9820,
+    "sourceQuery": "washing machine Waschmaschine photo"
+  },
+  "noun-backofen": {
+    "file": "backofen.webp",
+    "lemma": "Backofen",
+    "en": "oven",
+    "bytes": 20296,
+    "sourceQuery": "oven Backofen photo"
+  },
+  "noun-spuelmaschine": {
+    "file": "spulmaschine.webp",
+    "lemma": "Spülmaschine",
+    "en": "dishwasher",
+    "bytes": 32680,
+    "sourceQuery": "dishwasher Spülmaschine photo"
+  },
+  "noun-seife": {
+    "file": "seife.webp",
+    "lemma": "Seife",
+    "en": "soap",
+    "bytes": 8088,
+    "sourceQuery": "soap Seife photo"
+  },
+  "noun-zahnbuerste": {
+    "file": "zahnburste.webp",
+    "lemma": "Zahnbürste",
+    "en": "toothbrush",
+    "bytes": 9994,
+    "sourceQuery": "toothbrush Zahnbürste photo"
+  },
+  "noun-zahnpasta": {
+    "file": "zahnpasta.webp",
+    "lemma": "Zahnpasta",
+    "en": "toothpaste",
+    "bytes": 30256,
+    "sourceQuery": "toothpaste Zahnpasta photo"
+  },
+  "noun-muelleimer": {
+    "file": "mulleimer.webp",
+    "lemma": "Mülleimer",
+    "en": "trash can",
+    "bytes": 21004,
+    "sourceQuery": "trash can Mülleimer photo"
+  },
+  "noun-umzug": {
+    "file": "umzug.webp",
+    "lemma": "Umzug",
+    "en": "move (relocation)",
+    "bytes": 40256,
+    "sourceQuery": "move Umzug photo"
+  },
+  "noun-hausnummer": {
+    "file": "hausnummer.webp",
+    "lemma": "Hausnummer",
+    "en": "house number",
+    "bytes": 53586,
+    "sourceQuery": "house number Hausnummer photo"
+  },
+  "noun-postleitzahl": {
+    "file": "postleitzahl.webp",
+    "lemma": "Postleitzahl",
+    "en": "postal code",
+    "bytes": 23362,
+    "sourceQuery": "postal code Postleitzahl photo"
+  },
+  "noun-briefkasten": {
+    "file": "briefkasten.webp",
+    "lemma": "Briefkasten",
+    "en": "mailbox",
+    "bytes": 21950,
+    "sourceQuery": "mailbox Briefkasten photo"
+  },
+  "noun-steckdose": {
+    "file": "steckdose.webp",
+    "lemma": "Steckdose",
+    "en": "power outlet",
+    "bytes": 4530,
+    "sourceQuery": "power outlet Steckdose photo"
+  },
+  "noun-staubsauger": {
+    "file": "staubsauger.webp",
+    "lemma": "Staubsauger",
+    "en": "vacuum cleaner",
+    "bytes": 8302,
+    "sourceQuery": "vacuum cleaner Staubsauger photo"
+  },
+  "noun-ding": {
+    "file": "ding.webp",
+    "lemma": "Ding",
+    "en": "thing",
+    "bytes": 31264,
+    "sourceQuery": "thing Ding photo"
+  },
+  "noun-alter": {
+    "file": "alter.webp",
+    "lemma": "Alter",
+    "en": "age",
+    "bytes": 11688,
+    "sourceQuery": "age Alter photo"
+  },
+  "noun-geburtsort": {
+    "file": "geburtsort.webp",
+    "lemma": "Geburtsort",
+    "en": "place of birth",
+    "bytes": 33678,
+    "sourceQuery": "place of birth Geburtsort photo"
+  },
+  "noun-staatsangehoerigkeit": {
+    "file": "staatsangehorigkeit.webp",
+    "lemma": "Staatsangehörigkeit",
+    "en": "nationality",
+    "bytes": 9312,
+    "sourceQuery": "nationality Staatsangehörigkeit photo"
+  },
+  "noun-familienstand": {
+    "file": "familienstand.webp",
+    "lemma": "Familienstand",
+    "en": "marital status",
+    "bytes": 14848,
+    "sourceQuery": "marital status Familienstand photo"
+  },
+  "noun-handynummer": {
+    "file": "handynummer.webp",
+    "lemma": "Handynummer",
+    "en": "mobile number",
+    "bytes": 11382,
+    "sourceQuery": "mobile number Handynummer photo"
+  },
+  "noun-wunsch": {
+    "file": "wunsch.webp",
+    "lemma": "Wunsch",
+    "en": "wish",
+    "bytes": 25840,
+    "sourceQuery": "wish Wunsch photo"
+  },
+  "noun-mitte": {
+    "file": "mitte.webp",
+    "lemma": "Mitte",
+    "en": "middle",
+    "bytes": 28256,
+    "sourceQuery": "middle Mitte photo"
+  },
+  "noun-paar": {
+    "file": "paar.webp",
+    "lemma": "Paar",
+    "en": "pair",
+    "bytes": 31870,
+    "sourceQuery": "pair Paar photo"
+  },
+  "noun-chance": {
+    "file": "chance.webp",
+    "lemma": "Chance",
+    "en": "chance",
+    "bytes": 12820,
+    "sourceQuery": "chance Chance photo"
+  },
+  "noun-haelfte": {
+    "file": "halfte.webp",
+    "lemma": "Hälfte",
+    "en": "half",
+    "bytes": 19264,
+    "sourceQuery": "half Hälfte photo"
+  },
+  "noun-zeichen": {
+    "file": "zeichen.webp",
+    "lemma": "Zeichen",
+    "en": "sign",
+    "bytes": 17886,
+    "sourceQuery": "sign Zeichen photo"
+  },
+  "noun-form": {
+    "file": "form.webp",
+    "lemma": "Form",
+    "en": "shape",
+    "bytes": 3930,
+    "sourceQuery": "shape Form photo"
+  },
+  "noun-gewicht": {
+    "file": "gewicht.webp",
+    "lemma": "Gewicht",
+    "en": "weight",
+    "bytes": 17044,
+    "sourceQuery": "weight Gewicht photo"
+  },
+  "noun-qualitaet": {
+    "file": "qualitat.webp",
+    "lemma": "Qualität",
+    "en": "quality",
+    "bytes": 13272,
+    "sourceQuery": "quality Qualität photo"
+  },
+  "noun-mama": {
+    "file": "mama.webp",
+    "lemma": "Mama",
+    "en": "mom",
+    "bytes": 17860,
+    "sourceQuery": "mom Mama photo"
+  },
+  "noun-papa": {
+    "file": "papa.webp",
+    "lemma": "Papa",
+    "en": "dad",
+    "bytes": 12518,
+    "sourceQuery": "dad Papa photo"
+  },
+  "noun-erwachsene": {
+    "file": "erwachsene.webp",
+    "lemma": "Erwachsene",
+    "en": "adult",
+    "bytes": 10728,
+    "sourceQuery": "adult Erwachsene photo"
+  },
+  "noun-hochzeit": {
+    "file": "hochzeit.webp",
+    "lemma": "Hochzeit",
+    "en": "wedding",
+    "bytes": 15352,
+    "sourceQuery": "wedding Hochzeit photo"
+  },
+  "noun-verwandte": {
+    "file": "verwandte.webp",
+    "lemma": "Verwandte",
+    "en": "relative",
+    "bytes": 7788,
+    "sourceQuery": "relative Verwandte photo"
+  },
+  "noun-bekannte": {
+    "file": "bekannte.webp",
+    "lemma": "Bekannte",
+    "en": "acquaintance",
+    "bytes": 14624,
+    "sourceQuery": "acquaintance Bekannte photo"
+  },
+  "noun-streit": {
+    "file": "streit.webp",
+    "lemma": "Streit",
+    "en": "argument",
+    "bytes": 20100,
+    "sourceQuery": "argument Streit photo"
+  },
+  "noun-schinken": {
+    "file": "schinken.webp",
+    "lemma": "Schinken",
+    "en": "ham",
+    "bytes": 27628,
+    "sourceQuery": "ham Schinken photo"
+  },
+  "noun-schweinefleisch": {
+    "file": "schweinefleisch.webp",
+    "lemma": "Schweinefleisch",
+    "en": "pork",
+    "bytes": 11994,
+    "sourceQuery": "pork Schweinefleisch photo"
+  },
+  "noun-marmelade": {
+    "file": "marmelade.webp",
+    "lemma": "Marmelade",
+    "en": "jam",
+    "bytes": 25450,
+    "sourceQuery": "jam Marmelade photo"
+  },
+  "noun-pfeffer": {
+    "file": "pfeffer.webp",
+    "lemma": "Pfeffer",
+    "en": "pepper",
+    "bytes": 18734,
+    "sourceQuery": "pepper Pfeffer photo"
+  },
+  "noun-mehl": {
+    "file": "mehl.webp",
+    "lemma": "Mehl",
+    "en": "flour",
+    "bytes": 30130,
+    "sourceQuery": "flour Mehl photo"
+  },
+  "noun-oel": {
+    "file": "ol.webp",
+    "lemma": "Öl",
+    "en": "oil",
+    "bytes": 10564,
+    "sourceQuery": "oil Öl photo"
+  },
+  "noun-sosse": {
+    "file": "sosse.webp",
+    "lemma": "Soße",
+    "en": "sauce",
+    "bytes": 27664,
+    "sourceQuery": "sauce Soße photo"
+  },
+  "noun-keks": {
+    "file": "keks.webp",
+    "lemma": "Keks",
+    "en": "cookie",
+    "bytes": 19048,
+    "sourceQuery": "cookie Keks photo"
+  },
+  "noun-nachtisch": {
+    "file": "nachtisch.webp",
+    "lemma": "Nachtisch",
+    "en": "dessert",
+    "bytes": 29886,
+    "sourceQuery": "dessert Nachtisch photo"
+  },
+  "noun-vorspeise": {
+    "file": "vorspeise.webp",
+    "lemma": "Vorspeise",
+    "en": "starter",
+    "bytes": 21092,
+    "sourceQuery": "starter Vorspeise photo"
+  },
+  "noun-hauptgericht": {
+    "file": "hauptgericht.webp",
+    "lemma": "Hauptgericht",
+    "en": "main course",
+    "bytes": 19950,
+    "sourceQuery": "main course Hauptgericht photo"
+  },
+  "noun-gericht": {
+    "file": "gericht.webp",
+    "lemma": "Gericht",
+    "en": "dish",
+    "bytes": 25176,
+    "sourceQuery": "dish Gericht photo"
+  },
+  "noun-zitrone": {
+    "file": "zitrone.webp",
+    "lemma": "Zitrone",
+    "en": "lemon",
+    "bytes": 18490,
+    "sourceQuery": "lemon Zitrone photo"
+  },
+  "noun-erdbeere": {
+    "file": "erdbeere.webp",
+    "lemma": "Erdbeere",
+    "en": "strawberry",
+    "bytes": 40870,
+    "sourceQuery": "strawberry Erdbeere photo"
+  },
+  "noun-gurke": {
+    "file": "gurke.webp",
+    "lemma": "Gurke",
+    "en": "cucumber",
+    "bytes": 32478,
+    "sourceQuery": "cucumber Gurke photo"
+  },
+  "noun-knoblauch": {
+    "file": "knoblauch.webp",
+    "lemma": "Knoblauch",
+    "en": "garlic",
+    "bytes": 8504,
+    "sourceQuery": "garlic Knoblauch photo"
+  },
+  "noun-paprika": {
+    "file": "paprika.webp",
+    "lemma": "Paprika",
+    "en": "bell pepper",
+    "bytes": 9472,
+    "sourceQuery": "bell pepper Paprika photo"
+  },
+  "noun-pilz": {
+    "file": "pilz.webp",
+    "lemma": "Pilz",
+    "en": "mushroom",
+    "bytes": 21694,
+    "sourceQuery": "mushroom Pilz photo"
+  },
+  "noun-nuss": {
+    "file": "nuss.webp",
+    "lemma": "Nuss",
+    "en": "nut",
+    "bytes": 34242,
+    "sourceQuery": "nut Nuss photo"
+  },
+  "noun-limonade": {
+    "file": "limonade.webp",
+    "lemma": "Limonade",
+    "en": "lemonade",
+    "bytes": 11274,
+    "sourceQuery": "lemonade Limonade photo"
+  },
+  "noun-cola": {
+    "file": "cola.webp",
+    "lemma": "Cola",
+    "en": "cola",
+    "bytes": 41394,
+    "sourceQuery": "cola Cola photo"
+  },
+  "noun-mineralwasser": {
+    "file": "mineralwasser.webp",
+    "lemma": "Mineralwasser",
+    "en": "mineral water",
+    "bytes": 13572,
+    "sourceQuery": "mineral water Mineralwasser photo"
+  },
+  "noun-geschmack": {
+    "file": "geschmack.webp",
+    "lemma": "Geschmack",
+    "en": "taste",
+    "bytes": 8266,
+    "sourceQuery": "taste Geschmack photo"
+  },
+  "noun-zutat": {
+    "file": "zutat.webp",
+    "lemma": "Zutat",
+    "en": "ingredient",
+    "bytes": 41398,
+    "sourceQuery": "ingredient Zutat photo"
+  },
+  "noun-kantine": {
+    "file": "kantine.webp",
+    "lemma": "Kantine",
+    "en": "canteen",
+    "bytes": 27064,
+    "sourceQuery": "canteen Kantine photo"
+  },
+  "noun-trinkgeld": {
+    "file": "trinkgeld.webp",
+    "lemma": "Trinkgeld",
+    "en": "tip",
+    "bytes": 15156,
+    "sourceQuery": "tip Trinkgeld photo"
+  },
+  "noun-besteck": {
+    "file": "besteck.webp",
+    "lemma": "Besteck",
+    "en": "cutlery",
+    "bytes": 17274,
+    "sourceQuery": "cutlery Besteck photo"
+  },
+  "noun-topf": {
+    "file": "topf.webp",
+    "lemma": "Topf",
+    "en": "pot",
+    "bytes": 29798,
+    "sourceQuery": "pot Topf photo"
+  },
+  "noun-pfanne": {
+    "file": "pfanne.webp",
+    "lemma": "Pfanne",
+    "en": "frying pan",
+    "bytes": 6096,
+    "sourceQuery": "frying pan Pfanne photo"
+  },
+  "noun-packung": {
+    "file": "packung.webp",
+    "lemma": "Packung",
+    "en": "package",
+    "bytes": 16034,
+    "sourceQuery": "package Packung photo"
+  },
+  "noun-gramm": {
+    "file": "gramm.webp",
+    "lemma": "Gramm",
+    "en": "gram",
+    "bytes": 37512,
+    "sourceQuery": "gram Gramm photo"
+  },
+  "noun-scheibe": {
+    "file": "scheibe.webp",
+    "lemma": "Scheibe",
+    "en": "slice",
+    "bytes": 29690,
+    "sourceQuery": "slice Scheibe photo"
+  },
+  "noun-allergie": {
+    "file": "allergie.webp",
+    "lemma": "Allergie",
+    "en": "allergy",
+    "bytes": 8456,
+    "sourceQuery": "allergy Allergie photo"
+  },
+  "noun-laden": {
+    "file": "laden.webp",
+    "lemma": "Laden",
+    "en": "shop",
+    "bytes": 30360,
+    "sourceQuery": "shop Laden photo"
+  },
+  "noun-kaufhaus": {
+    "file": "kaufhaus.webp",
+    "lemma": "Kaufhaus",
+    "en": "department store",
+    "bytes": 38832,
+    "sourceQuery": "department store Kaufhaus photo"
+  },
+  "noun-einkaufszentrum": {
+    "file": "einkaufszentrum.webp",
+    "lemma": "Einkaufszentrum",
+    "en": "shopping mall",
+    "bytes": 39098,
+    "sourceQuery": "shopping mall Einkaufszentrum photo"
+  },
+  "noun-drogerie": {
+    "file": "drogerie.webp",
+    "lemma": "Drogerie",
+    "en": "drugstore (toiletries)",
+    "bytes": 29544,
+    "sourceQuery": "drugstore Drogerie photo"
+  },
+  "noun-einkaufswagen": {
+    "file": "einkaufswagen.webp",
+    "lemma": "Einkaufswagen",
+    "en": "shopping cart",
+    "bytes": 8880,
+    "sourceQuery": "shopping cart Einkaufswagen photo"
+  },
+  "noun-sonderangebot": {
+    "file": "sonderangebot.webp",
+    "lemma": "Sonderangebot",
+    "en": "special offer",
+    "bytes": 12136,
+    "sourceQuery": "special offer Sonderangebot photo"
+  },
+  "noun-quittung": {
+    "file": "quittung.webp",
+    "lemma": "Quittung",
+    "en": "receipt",
+    "bytes": 34226,
+    "sourceQuery": "receipt Quittung photo"
+  },
+  "noun-kassenbon": {
+    "file": "kassenbon.webp",
+    "lemma": "Kassenbon",
+    "en": "receipt (till)",
+    "bytes": 23308,
+    "sourceQuery": "receipt Kassenbon photo"
+  },
+  "noun-garantie": {
+    "file": "garantie.webp",
+    "lemma": "Garantie",
+    "en": "warranty",
+    "bytes": 42328,
+    "sourceQuery": "warranty Garantie photo"
+  },
+  "noun-produkt": {
+    "file": "produkt.webp",
+    "lemma": "Produkt",
+    "en": "product",
+    "bytes": 8588,
+    "sourceQuery": "product Produkt photo"
+  },
+  "noun-muenze": {
+    "file": "munze.webp",
+    "lemma": "Münze",
+    "en": "coin",
+    "bytes": 48934,
+    "sourceQuery": "coin Münze photo"
+  },
+  "noun-girokonto": {
+    "file": "girokonto.webp",
+    "lemma": "Girokonto",
+    "en": "checking account",
+    "bytes": 10234,
+    "sourceQuery": "checking account Girokonto photo"
+  },
+  "noun-pin": {
+    "file": "pin.webp",
+    "lemma": "PIN",
+    "en": "PIN",
+    "bytes": 34812,
+    "sourceQuery": "PIN PIN photo"
+  },
+  "noun-lohn": {
+    "file": "lohn.webp",
+    "lemma": "Lohn",
+    "en": "wage",
+    "bytes": 19232,
+    "sourceQuery": "wage Lohn photo"
+  },
+  "noun-gebuehr": {
+    "file": "gebuhr.webp",
+    "lemma": "Gebühr",
+    "en": "fee",
+    "bytes": 25712,
+    "sourceQuery": "fee Gebühr photo"
+  },
+  "noun-wechselgeld": {
+    "file": "wechselgeld.webp",
+    "lemma": "Wechselgeld",
+    "en": "change (money)",
+    "bytes": 6632,
+    "sourceQuery": "change Wechselgeld photo"
+  },
+  "noun-kleingeld": {
+    "file": "kleingeld.webp",
+    "lemma": "Kleingeld",
+    "en": "small change",
+    "bytes": 32472,
+    "sourceQuery": "small change Kleingeld photo"
+  },
+  "noun-automat": {
+    "file": "automat.webp",
+    "lemma": "Automat",
+    "en": "vending machine",
+    "bytes": 24016,
+    "sourceQuery": "vending machine Automat photo"
+  },
+  "noun-einkaufsliste": {
+    "file": "einkaufsliste.webp",
+    "lemma": "Einkaufsliste",
+    "en": "shopping list",
+    "bytes": 19360,
+    "sourceQuery": "shopping list Einkaufsliste photo"
+  },
+  "noun-wagen": {
+    "file": "wagen.webp",
+    "lemma": "Wagen",
+    "en": "car",
+    "bytes": 19348,
+    "sourceQuery": "car Wagen photo"
+  },
+  "noun-fahrer": {
+    "file": "fahrer.webp",
+    "lemma": "Fahrer",
+    "en": "driver (male)",
+    "bytes": 27768,
+    "sourceQuery": "driver Fahrer photo"
+  },
+  "noun-autobahn": {
+    "file": "autobahn.webp",
+    "lemma": "Autobahn",
+    "en": "highway",
+    "bytes": 22752,
+    "sourceQuery": "highway Autobahn photo"
+  },
+  "noun-bruecke": {
+    "file": "brucke.webp",
+    "lemma": "Brücke",
+    "en": "bridge",
+    "bytes": 21904,
+    "sourceQuery": "bridge Brücke photo"
+  },
+  "noun-tankstelle": {
+    "file": "tankstelle.webp",
+    "lemma": "Tankstelle",
+    "en": "gas station",
+    "bytes": 28628,
+    "sourceQuery": "gas station Tankstelle photo"
+  },
+  "noun-benzin": {
+    "file": "benzin.webp",
+    "lemma": "Benzin",
+    "en": "gasoline",
+    "bytes": 16966,
+    "sourceQuery": "gasoline Benzin photo"
+  },
+  "noun-werkstatt": {
+    "file": "werkstatt.webp",
+    "lemma": "Werkstatt",
+    "en": "workshop",
+    "bytes": 33226,
+    "sourceQuery": "workshop Werkstatt photo"
+  },
+  "noun-radweg": {
+    "file": "radweg.webp",
+    "lemma": "Radweg",
+    "en": "bike path",
+    "bytes": 29190,
+    "sourceQuery": "bike path Radweg photo"
+  },
+  "noun-fussgaengerzone": {
+    "file": "fussgangerzone.webp",
+    "lemma": "Fußgängerzone",
+    "en": "pedestrian zone",
+    "bytes": 32898,
+    "sourceQuery": "pedestrian zone Fußgängerzone photo"
+  },
+  "noun-rucksack": {
+    "file": "rucksack.webp",
+    "lemma": "Rucksack",
+    "en": "backpack",
+    "bytes": 14506,
+    "sourceQuery": "backpack Rucksack photo"
+  },
+  "noun-sitzplatz": {
+    "file": "sitzplatz.webp",
+    "lemma": "Sitzplatz",
+    "en": "seat",
+    "bytes": 11316,
+    "sourceQuery": "seat Sitzplatz photo"
+  },
+  "noun-uebernachtung": {
+    "file": "ubernachtung.webp",
+    "lemma": "Übernachtung",
+    "en": "overnight stay",
+    "bytes": 15302,
+    "sourceQuery": "overnight stay Übernachtung photo"
+  },
+  "noun-empfang": {
+    "file": "empfang.webp",
+    "lemma": "Empfang",
+    "en": "reception",
+    "bytes": 16284,
+    "sourceQuery": "reception Empfang photo"
+  },
+  "noun-visum": {
+    "file": "visum.webp",
+    "lemma": "Visum",
+    "en": "visa",
+    "bytes": 10572,
+    "sourceQuery": "visa Visum photo"
+  },
+  "noun-heimat": {
+    "file": "heimat.webp",
+    "lemma": "Heimat",
+    "en": "home",
+    "bytes": 27412,
+    "sourceQuery": "home Heimat photo"
+  },
+  "noun-hauptstadt": {
+    "file": "hauptstadt.webp",
+    "lemma": "Hauptstadt",
+    "en": "capital city",
+    "bytes": 21624,
+    "sourceQuery": "capital city Hauptstadt photo"
+  },
+  "noun-stadtplan": {
+    "file": "stadtplan.webp",
+    "lemma": "Stadtplan",
+    "en": "city map",
+    "bytes": 60524,
+    "sourceQuery": "city map Stadtplan photo"
+  },
+  "noun-insel": {
+    "file": "insel.webp",
+    "lemma": "Insel",
+    "en": "island",
+    "bytes": 26616,
+    "sourceQuery": "island Insel photo"
+  },
+  "noun-reiseziel": {
+    "file": "reiseziel.webp",
+    "lemma": "Reiseziel",
+    "en": "travel destination",
+    "bytes": 18740,
+    "sourceQuery": "travel destination Reiseziel photo"
+  },
+  "noun-tourist": {
+    "file": "tourist.webp",
+    "lemma": "Tourist",
+    "en": "tourist",
+    "bytes": 22394,
+    "sourceQuery": "tourist Tourist photo"
+  },
+  "noun-wanderung": {
+    "file": "wanderung.webp",
+    "lemma": "Wanderung",
+    "en": "hike",
+    "bytes": 55530,
+    "sourceQuery": "hike Wanderung photo"
+  },
+  "noun-innenstadt": {
+    "file": "innenstadt.webp",
+    "lemma": "Innenstadt",
+    "en": "city center",
+    "bytes": 34620,
+    "sourceQuery": "city center Innenstadt photo"
+  },
+  "noun-stadtteil": {
+    "file": "stadtteil.webp",
+    "lemma": "Stadtteil",
+    "en": "district",
+    "bytes": 34256,
+    "sourceQuery": "district Stadtteil photo"
+  },
+  "noun-viertel": {
+    "file": "viertel.webp",
+    "lemma": "Viertel",
+    "en": "quarter",
+    "bytes": 30812,
+    "sourceQuery": "quarter Viertel photo"
+  },
+  "noun-gebaeude": {
+    "file": "gebaude.webp",
+    "lemma": "Gebäude",
+    "en": "building",
+    "bytes": 35886,
+    "sourceQuery": "building Gebäude photo"
+  },
+  "noun-marktplatz": {
+    "file": "marktplatz.webp",
+    "lemma": "Marktplatz",
+    "en": "market square",
+    "bytes": 35624,
+    "sourceQuery": "market square Marktplatz photo"
+  },
+  "noun-spielplatz": {
+    "file": "spielplatz.webp",
+    "lemma": "Spielplatz",
+    "en": "playground",
+    "bytes": 37790,
+    "sourceQuery": "playground Spielplatz photo"
+  },
+  "noun-rathaus": {
+    "file": "rathaus.webp",
+    "lemma": "Rathaus",
+    "en": "town hall",
+    "bytes": 31034,
+    "sourceQuery": "town hall Rathaus photo"
+  },
+  "noun-behoerde": {
+    "file": "behorde.webp",
+    "lemma": "Behörde",
+    "en": "authority",
+    "bytes": 33676,
+    "sourceQuery": "authority Behörde photo"
+  },
+  "noun-amt": {
+    "file": "amt.webp",
+    "lemma": "Amt",
+    "en": "office",
+    "bytes": 16992,
+    "sourceQuery": "office Amt photo"
+  },
+  "noun-feuerwehr": {
+    "file": "feuerwehr.webp",
+    "lemma": "Feuerwehr",
+    "en": "fire department",
+    "bytes": 26170,
+    "sourceQuery": "fire department Feuerwehr photo"
+  },
+  "noun-briefmarke": {
+    "file": "briefmarke.webp",
+    "lemma": "Briefmarke",
+    "en": "stamp",
+    "bytes": 62102,
+    "sourceQuery": "stamp Briefmarke photo"
+  },
+  "noun-postkarte": {
+    "file": "postkarte.webp",
+    "lemma": "Postkarte",
+    "en": "postcard",
+    "bytes": 9634,
+    "sourceQuery": "postcard Postkarte photo"
+  },
+  "noun-kirche": {
+    "file": "kirche.webp",
+    "lemma": "Kirche",
+    "en": "church",
+    "bytes": 42656,
+    "sourceQuery": "church Kirche photo"
+  },
+  "noun-theater": {
+    "file": "theater.webp",
+    "lemma": "Theater",
+    "en": "theater",
+    "bytes": 17834,
+    "sourceQuery": "theater Theater photo"
+  },
+  "noun-schwimmbad": {
+    "file": "schwimmbad.webp",
+    "lemma": "Schwimmbad",
+    "en": "swimming pool",
+    "bytes": 34184,
+    "sourceQuery": "swimming pool Schwimmbad photo"
+  },
+  "noun-zoo": {
+    "file": "zoo.webp",
+    "lemma": "Zoo",
+    "en": "zoo",
+    "bytes": 46674,
+    "sourceQuery": "zoo Zoo photo"
+  },
+  "noun-norden": {
+    "file": "norden.webp",
+    "lemma": "Norden",
+    "en": "north",
+    "bytes": 18872,
+    "sourceQuery": "north Norden photo"
+  },
+  "noun-sueden": {
+    "file": "suden.webp",
+    "lemma": "Süden",
+    "en": "south",
+    "bytes": 49298,
+    "sourceQuery": "south Süden photo"
+  },
+  "noun-osten": {
+    "file": "osten.webp",
+    "lemma": "Osten",
+    "en": "east",
+    "bytes": 43048,
+    "sourceQuery": "east Osten photo"
+  },
+  "noun-westen": {
+    "file": "westen.webp",
+    "lemma": "Westen",
+    "en": "west",
+    "bytes": 26446,
+    "sourceQuery": "west Westen photo"
+  },
+  "noun-entfernung": {
+    "file": "entfernung.webp",
+    "lemma": "Entfernung",
+    "en": "distance",
+    "bytes": 33608,
+    "sourceQuery": "distance Entfernung photo"
+  },
+  "noun-umgebung": {
+    "file": "umgebung.webp",
+    "lemma": "Umgebung",
+    "en": "surroundings",
+    "bytes": 75068,
+    "sourceQuery": "surroundings Umgebung photo"
+  },
+  "noun-unternehmen": {
+    "file": "unternehmen.webp",
+    "lemma": "Unternehmen",
+    "en": "company",
+    "bytes": 28512,
+    "sourceQuery": "company Unternehmen photo"
+  },
+  "noun-mitarbeiterin": {
+    "file": "mitarbeiterin.webp",
+    "lemma": "Mitarbeiterin",
+    "en": "employee (female)",
+    "bytes": 9428,
+    "sourceQuery": "employee Mitarbeiterin photo"
+  },
+  "noun-arbeitgeber": {
+    "file": "arbeitgeber.webp",
+    "lemma": "Arbeitgeber",
+    "en": "employer",
+    "bytes": 19726,
+    "sourceQuery": "employer Arbeitgeber photo"
+  },
+  "noun-ueberstunde": {
+    "file": "uberstunde.webp",
+    "lemma": "Überstunde",
+    "en": "overtime hour",
+    "bytes": 21150,
+    "sourceQuery": "overtime hour Überstunde photo"
+  },
+  "noun-mittagspause": {
+    "file": "mittagspause.webp",
+    "lemma": "Mittagspause",
+    "en": "lunch break",
+    "bytes": 12730,
+    "sourceQuery": "lunch break Mittagspause photo"
+  },
+  "noun-schicht": {
+    "file": "schicht.webp",
+    "lemma": "Schicht",
+    "en": "shift",
+    "bytes": 17022,
+    "sourceQuery": "shift Schicht photo"
+  },
+  "noun-kuendigung": {
+    "file": "kundigung.webp",
+    "lemma": "Kündigung",
+    "en": "notice",
+    "bytes": 24114,
+    "sourceQuery": "notice Kündigung photo"
+  },
+  "noun-praktikum": {
+    "file": "praktikum.webp",
+    "lemma": "Praktikum",
+    "en": "internship",
+    "bytes": 14762,
+    "sourceQuery": "internship Praktikum photo"
+  },
+  "noun-sitzung": {
+    "file": "sitzung.webp",
+    "lemma": "Sitzung",
+    "en": "meeting",
+    "bytes": 28878,
+    "sourceQuery": "meeting Sitzung photo"
+  },
+  "noun-abteilung": {
+    "file": "abteilung.webp",
+    "lemma": "Abteilung",
+    "en": "department",
+    "bytes": 13830,
+    "sourceQuery": "department Abteilung photo"
+  },
+  "noun-krankenschwester": {
+    "file": "krankenschwester.webp",
+    "lemma": "Krankenschwester",
+    "en": "nurse (female)",
+    "bytes": 10914,
+    "sourceQuery": "nurse Krankenschwester photo"
+  },
+  "noun-ingenieur": {
+    "file": "ingenieur.webp",
+    "lemma": "Ingenieur",
+    "en": "engineer (male)",
+    "bytes": 17112,
+    "sourceQuery": "engineer Ingenieur photo"
+  },
+  "noun-programmierer": {
+    "file": "programmierer.webp",
+    "lemma": "Programmierer",
+    "en": "programmer",
+    "bytes": 23742,
+    "sourceQuery": "programmer Programmierer photo"
+  },
+  "noun-friseurin": {
+    "file": "friseurin.webp",
+    "lemma": "Friseurin",
+    "en": "hairdresser (female)",
+    "bytes": 11176,
+    "sourceQuery": "hairdresser Friseurin photo"
+  },
+  "noun-handwerker": {
+    "file": "handwerker.webp",
+    "lemma": "Handwerker",
+    "en": "craftsman",
+    "bytes": 19368,
+    "sourceQuery": "craftsman Handwerker photo"
+  },
+  "noun-hausmeister": {
+    "file": "hausmeister.webp",
+    "lemma": "Hausmeister",
+    "en": "caretaker",
+    "bytes": 13444,
+    "sourceQuery": "caretaker Hausmeister photo"
+  },
+  "noun-anwalt": {
+    "file": "anwalt.webp",
+    "lemma": "Anwalt",
+    "en": "lawyer (male)",
+    "bytes": 12172,
+    "sourceQuery": "lawyer Anwalt photo"
+  },
+  "noun-verkehrsmittel": {
+    "file": "verkehrsmittel.webp",
+    "lemma": "Verkehrsmittel",
+    "en": "means of transport",
+    "bytes": 25928,
+    "sourceQuery": "means of transport Verkehrsmittel photo"
+  },
+  "noun-drucker": {
+    "file": "drucker.webp",
+    "lemma": "Drucker",
+    "en": "printer",
+    "bytes": 9108,
+    "sourceQuery": "printer Drucker photo"
+  },
+  "noun-rente": {
+    "file": "rente.webp",
+    "lemma": "Rente",
+    "en": "pension",
+    "bytes": 19016,
+    "sourceQuery": "pension Rente photo"
+  },
+  "noun-urlaubstag": {
+    "file": "urlaubstag.webp",
+    "lemma": "Urlaubstag",
+    "en": "vacation day",
+    "bytes": 14634,
+    "sourceQuery": "vacation day Urlaubstag photo"
+  },
+  "noun-zeugnis": {
+    "file": "zeugnis.webp",
+    "lemma": "Zeugnis",
+    "en": "certificate",
+    "bytes": 8798,
+    "sourceQuery": "certificate Zeugnis photo"
+  },
+  "noun-abschluss": {
+    "file": "abschluss.webp",
+    "lemma": "Abschluss",
+    "en": "degree",
+    "bytes": 17964,
+    "sourceQuery": "degree Abschluss photo"
+  },
+  "noun-mathe": {
+    "file": "mathe.webp",
+    "lemma": "Mathe",
+    "en": "math",
+    "bytes": 36142,
+    "sourceQuery": "math Mathe photo"
+  },
+  "noun-heft": {
+    "file": "heft.webp",
+    "lemma": "Heft",
+    "en": "notebook",
+    "bytes": 22814,
+    "sourceQuery": "notebook Heft photo"
+  },
+  "noun-kugelschreiber": {
+    "file": "kugelschreiber.webp",
+    "lemma": "Kugelschreiber",
+    "en": "ballpoint pen",
+    "bytes": 8860,
+    "sourceQuery": "ballpoint pen Kugelschreiber photo"
+  },
+  "noun-bleistift": {
+    "file": "bleistift.webp",
+    "lemma": "Bleistift",
+    "en": "pencil",
+    "bytes": 12142,
+    "sourceQuery": "pencil Bleistift photo"
+  },
+  "noun-blatt": {
+    "file": "blatt.webp",
+    "lemma": "Blatt",
+    "en": "sheet",
+    "bytes": 19146,
+    "sourceQuery": "sheet Blatt photo"
+  },
+  "noun-tafel": {
+    "file": "tafel.webp",
+    "lemma": "Tafel",
+    "en": "blackboard",
+    "bytes": 1276,
+    "sourceQuery": "blackboard Tafel photo"
+  },
+  "noun-zeitschrift": {
+    "file": "zeitschrift.webp",
+    "lemma": "Zeitschrift",
+    "en": "magazine",
+    "bytes": 27168,
+    "sourceQuery": "magazine Zeitschrift photo"
+  },
+  "noun-hochschule": {
+    "file": "hochschule.webp",
+    "lemma": "Hochschule",
+    "en": "college",
+    "bytes": 43178,
+    "sourceQuery": "college Hochschule photo"
+  },
+  "noun-volkshochschule": {
+    "file": "volkshochschule.webp",
+    "lemma": "Volkshochschule",
+    "en": "adult education centre",
+    "bytes": 24154,
+    "sourceQuery": "adult education centre Volkshochschule photo"
+  },
+  "noun-auslaenderbehoerde": {
+    "file": "auslanderbehorde.webp",
+    "lemma": "Ausländerbehörde",
+    "en": "immigration office",
+    "bytes": 20796,
+    "sourceQuery": "immigration office Ausländerbehörde photo"
+  },
+  "noun-lektion": {
+    "file": "lektion.webp",
+    "lemma": "Lektion",
+    "en": "lesson (unit)",
+    "bytes": 20430,
+    "sourceQuery": "lesson Lektion photo"
+  },
+  "noun-aussprache": {
+    "file": "aussprache.webp",
+    "lemma": "Aussprache",
+    "en": "pronunciation",
+    "bytes": 12916,
+    "sourceQuery": "pronunciation Aussprache photo"
+  },
+  "noun-uebersetzung": {
+    "file": "ubersetzung.webp",
+    "lemma": "Übersetzung",
+    "en": "translation",
+    "bytes": 12732,
+    "sourceQuery": "translation Übersetzung photo"
+  },
+  "noun-schnupfen": {
+    "file": "schnupfen.webp",
+    "lemma": "Schnupfen",
+    "en": "runny nose",
+    "bytes": 6660,
+    "sourceQuery": "runny nose Schnupfen photo"
+  },
+  "noun-bauchschmerzen": {
+    "file": "bauchschmerzen.webp",
+    "lemma": "Bauchschmerzen",
+    "en": "stomachache",
+    "bytes": 5540,
+    "sourceQuery": "stomachache Bauchschmerzen photo"
+  },
+  "noun-halsschmerzen": {
+    "file": "halsschmerzen.webp",
+    "lemma": "Halsschmerzen",
+    "en": "sore throat",
+    "bytes": 13020,
+    "sourceQuery": "sore throat Halsschmerzen photo"
+  },
+  "noun-zahnschmerzen": {
+    "file": "zahnschmerzen.webp",
+    "lemma": "Zahnschmerzen",
+    "en": "toothache",
+    "bytes": 10156,
+    "sourceQuery": "toothache Zahnschmerzen photo"
+  },
+  "noun-rueckenschmerzen": {
+    "file": "ruckenschmerzen.webp",
+    "lemma": "Rückenschmerzen",
+    "en": "back pain",
+    "bytes": 27400,
+    "sourceQuery": "back pain Rückenschmerzen photo"
+  },
+  "noun-impfung": {
+    "file": "impfung.webp",
+    "lemma": "Impfung",
+    "en": "vaccination",
+    "bytes": 15006,
+    "sourceQuery": "vaccination Impfung photo"
+  },
+  "noun-untersuchung": {
+    "file": "untersuchung.webp",
+    "lemma": "Untersuchung",
+    "en": "examination",
+    "bytes": 19278,
+    "sourceQuery": "examination Untersuchung photo"
+  },
+  "noun-behandlung": {
+    "file": "behandlung.webp",
+    "lemma": "Behandlung",
+    "en": "treatment",
+    "bytes": 11178,
+    "sourceQuery": "treatment Behandlung photo"
+  },
+  "noun-wartezimmer": {
+    "file": "wartezimmer.webp",
+    "lemma": "Wartezimmer",
+    "en": "waiting room",
+    "bytes": 22466,
+    "sourceQuery": "waiting room Wartezimmer photo"
+  },
+  "noun-patient": {
+    "file": "patient.webp",
+    "lemma": "Patient",
+    "en": "patient (male)",
+    "bytes": 17208,
+    "sourceQuery": "patient Patient photo"
+  },
+  "noun-hausarzt": {
+    "file": "hausarzt.webp",
+    "lemma": "Hausarzt",
+    "en": "family doctor",
+    "bytes": 20184,
+    "sourceQuery": "family doctor Hausarzt photo"
+  },
+  "noun-krankenwagen": {
+    "file": "krankenwagen.webp",
+    "lemma": "Krankenwagen",
+    "en": "ambulance",
+    "bytes": 38796,
+    "sourceQuery": "ambulance Krankenwagen photo"
+  },
+  "noun-gesundheitskarte": {
+    "file": "gesundheitskarte.webp",
+    "lemma": "Gesundheitskarte",
+    "en": "health insurance card",
+    "bytes": 15246,
+    "sourceQuery": "health insurance card Gesundheitskarte photo"
+  },
+  "noun-krankschreibung": {
+    "file": "krankschreibung.webp",
+    "lemma": "Krankschreibung",
+    "en": "sick leave certificate",
+    "bytes": 18884,
+    "sourceQuery": "sick leave certificate Krankschreibung photo"
+  },
+  "noun-schlaf": {
+    "file": "schlaf.webp",
+    "lemma": "Schlaf",
+    "en": "sleep",
+    "bytes": 15196,
+    "sourceQuery": "sleep Schlaf photo"
+  },
+  "noun-schulter": {
+    "file": "schulter.webp",
+    "lemma": "Schulter",
+    "en": "shoulder",
+    "bytes": 13764,
+    "sourceQuery": "shoulder Schulter photo"
+  },
+  "noun-knie": {
+    "file": "knie.webp",
+    "lemma": "Knie",
+    "en": "knee",
+    "bytes": 22718,
+    "sourceQuery": "knee Knie photo"
+  },
+  "noun-brust": {
+    "file": "brust.webp",
+    "lemma": "Brust",
+    "en": "chest",
+    "bytes": 16560,
+    "sourceQuery": "chest Brust photo"
+  },
+  "noun-magen": {
+    "file": "magen.webp",
+    "lemma": "Magen",
+    "en": "stomach",
+    "bytes": 24170,
+    "sourceQuery": "stomach Magen photo"
+  },
+  "noun-haut": {
+    "file": "haut.webp",
+    "lemma": "Haut",
+    "en": "skin",
+    "bytes": 17368,
+    "sourceQuery": "skin Haut photo"
+  },
+  "noun-blut": {
+    "file": "blut.webp",
+    "lemma": "Blut",
+    "en": "blood",
+    "bytes": 15898,
+    "sourceQuery": "blood Blut photo"
+  },
+  "noun-stimme": {
+    "file": "stimme.webp",
+    "lemma": "Stimme",
+    "en": "voice",
+    "bytes": 6402,
+    "sourceQuery": "voice Stimme photo"
+  },
+  "noun-bluse": {
+    "file": "bluse.webp",
+    "lemma": "Bluse",
+    "en": "blouse",
+    "bytes": 12142,
+    "sourceQuery": "blouse Bluse photo"
+  },
+  "noun-anzug": {
+    "file": "anzug.webp",
+    "lemma": "Anzug",
+    "en": "suit",
+    "bytes": 5004,
+    "sourceQuery": "suit Anzug photo"
+  },
+  "noun-stiefel": {
+    "file": "stiefel.webp",
+    "lemma": "Stiefel",
+    "en": "boot",
+    "bytes": 12866,
+    "sourceQuery": "boot Stiefel photo"
+  },
+  "noun-schal": {
+    "file": "schal.webp",
+    "lemma": "Schal",
+    "en": "scarf",
+    "bytes": 21788,
+    "sourceQuery": "scarf Schal photo"
+  },
+  "noun-handschuh": {
+    "file": "handschuh.webp",
+    "lemma": "Handschuh",
+    "en": "glove",
+    "bytes": 21232,
+    "sourceQuery": "glove Handschuh photo"
+  },
+  "noun-sonnenbrille": {
+    "file": "sonnenbrille.webp",
+    "lemma": "Sonnenbrille",
+    "en": "sunglasses",
+    "bytes": 10720,
+    "sourceQuery": "sunglasses Sonnenbrille photo"
+  },
+  "noun-geldbeutel": {
+    "file": "geldbeutel.webp",
+    "lemma": "Geldbeutel",
+    "en": "wallet",
+    "bytes": 23542,
+    "sourceQuery": "wallet Geldbeutel photo"
+  },
+  "noun-umkleidekabine": {
+    "file": "umkleidekabine.webp",
+    "lemma": "Umkleidekabine",
+    "en": "fitting room",
+    "bytes": 15646,
+    "sourceQuery": "fitting room Umkleidekabine photo"
+  },
+  "noun-schuhgroesse": {
+    "file": "schuhgrosse.webp",
+    "lemma": "Schuhgröße",
+    "en": "shoe size",
+    "bytes": 8720,
+    "sourceQuery": "shoe size Schuhgröße photo"
+  },
+  "noun-sms": {
+    "file": "sms.webp",
+    "lemma": "SMS",
+    "en": "text message",
+    "bytes": 14670,
+    "sourceQuery": "text message SMS photo"
+  },
+  "noun-tablet": {
+    "file": "tablet.webp",
+    "lemma": "Tablet",
+    "en": "tablet",
+    "bytes": 13774,
+    "sourceQuery": "tablet Tablet photo"
+  },
+  "noun-bildschirm": {
+    "file": "bildschirm.webp",
+    "lemma": "Bildschirm",
+    "en": "screen",
+    "bytes": 6684,
+    "sourceQuery": "screen Bildschirm photo"
+  },
+  "noun-kabel": {
+    "file": "kabel.webp",
+    "lemma": "Kabel",
+    "en": "cable",
+    "bytes": 6970,
+    "sourceQuery": "cable Kabel photo"
+  },
+  "noun-ladegeraet": {
+    "file": "ladegerat.webp",
+    "lemma": "Ladegerät",
+    "en": "charger",
+    "bytes": 12566,
+    "sourceQuery": "charger Ladegerät photo"
+  },
+  "noun-akku": {
+    "file": "akku.webp",
+    "lemma": "Akku",
+    "en": "battery (rechargeable)",
+    "bytes": 24782,
+    "sourceQuery": "battery Akku photo"
+  },
+  "noun-fernbedienung": {
+    "file": "fernbedienung.webp",
+    "lemma": "Fernbedienung",
+    "en": "remote control",
+    "bytes": 12136,
+    "sourceQuery": "remote control Fernbedienung photo"
+  },
+  "noun-radio": {
+    "file": "radio.webp",
+    "lemma": "Radio",
+    "en": "radio",
+    "bytes": 34402,
+    "sourceQuery": "radio Radio photo"
+  },
+  "noun-kamera": {
+    "file": "kamera.webp",
+    "lemma": "Kamera",
+    "en": "camera",
+    "bytes": 28150,
+    "sourceQuery": "camera Kamera photo"
+  },
+  "noun-datei": {
+    "file": "datei.webp",
+    "lemma": "Datei",
+    "en": "file",
+    "bytes": 2944,
+    "sourceQuery": "file Datei photo"
+  },
+  "noun-video": {
+    "file": "video.webp",
+    "lemma": "Video",
+    "en": "video",
+    "bytes": 15608,
+    "sourceQuery": "video Video photo"
+  },
+  "noun-lied": {
+    "file": "lied.webp",
+    "lemma": "Lied",
+    "en": "song",
+    "bytes": 11136,
+    "sourceQuery": "song Lied photo"
+  },
+  "noun-netz": {
+    "file": "netz.webp",
+    "lemma": "Netz",
+    "en": "network",
+    "bytes": 41274,
+    "sourceQuery": "network Netz photo"
+  },
+  "noun-reparatur": {
+    "file": "reparatur.webp",
+    "lemma": "Reparatur",
+    "en": "repair",
+    "bytes": 31222,
+    "sourceQuery": "repair Reparatur photo"
+  },
+  "noun-geraet": {
+    "file": "gerat.webp",
+    "lemma": "Gerät",
+    "en": "device",
+    "bytes": 9638,
+    "sourceQuery": "device Gerät photo"
+  },
+  "noun-fest": {
+    "file": "fest.webp",
+    "lemma": "Fest",
+    "en": "celebration",
+    "bytes": 15290,
+    "sourceQuery": "celebration Fest photo"
+  },
+  "noun-feier": {
+    "file": "feier.webp",
+    "lemma": "Feier",
+    "en": "celebration",
+    "bytes": 25064,
+    "sourceQuery": "celebration Feier photo"
+  },
+  "noun-sekunde": {
+    "file": "sekunde.webp",
+    "lemma": "Sekunde",
+    "en": "second",
+    "bytes": 32468,
+    "sourceQuery": "second Sekunde photo"
+  },
+  "noun-viertelstunde": {
+    "file": "viertelstunde.webp",
+    "lemma": "Viertelstunde",
+    "en": "quarter of an hour",
+    "bytes": 7370,
+    "sourceQuery": "quarter of an hour Viertelstunde photo"
+  },
+  "noun-jahreszeit": {
+    "file": "jahreszeit.webp",
+    "lemma": "Jahreszeit",
+    "en": "season",
+    "bytes": 63200,
+    "sourceQuery": "season Jahreszeit photo"
+  },
+  "noun-januar": {
+    "file": "januar.webp",
+    "lemma": "Januar",
+    "en": "January",
+    "bytes": 38934,
+    "sourceQuery": "January Januar photo"
+  },
+  "noun-februar": {
+    "file": "februar.webp",
+    "lemma": "Februar",
+    "en": "February",
+    "bytes": 23814,
+    "sourceQuery": "February Februar photo"
+  },
+  "noun-maerz": {
+    "file": "marz.webp",
+    "lemma": "März",
+    "en": "March",
+    "bytes": 31360,
+    "sourceQuery": "March März photo"
+  },
+  "noun-april": {
+    "file": "april.webp",
+    "lemma": "April",
+    "en": "April",
+    "bytes": 32658,
+    "sourceQuery": "April April photo"
+  },
+  "noun-mai": {
+    "file": "mai.webp",
+    "lemma": "Mai",
+    "en": "May",
+    "bytes": 16924,
+    "sourceQuery": "May Mai photo"
+  },
+  "noun-juni": {
+    "file": "juni.webp",
+    "lemma": "Juni",
+    "en": "June",
+    "bytes": 19680,
+    "sourceQuery": "June Juni photo"
+  },
+  "noun-juli": {
+    "file": "juli.webp",
+    "lemma": "Juli",
+    "en": "July",
+    "bytes": 23540,
+    "sourceQuery": "July Juli photo"
+  },
+  "noun-august": {
+    "file": "august.webp",
+    "lemma": "August",
+    "en": "August",
+    "bytes": 18254,
+    "sourceQuery": "August August photo"
+  },
+  "noun-september": {
+    "file": "september.webp",
+    "lemma": "September",
+    "en": "September",
+    "bytes": 44986,
+    "sourceQuery": "September September photo"
+  },
+  "noun-oktober": {
+    "file": "oktober.webp",
+    "lemma": "Oktober",
+    "en": "October",
+    "bytes": 70472,
+    "sourceQuery": "October Oktober photo"
+  },
+  "noun-november": {
+    "file": "november.webp",
+    "lemma": "November",
+    "en": "November",
+    "bytes": 30684,
+    "sourceQuery": "November November photo"
+  },
+  "noun-dezember": {
+    "file": "dezember.webp",
+    "lemma": "Dezember",
+    "en": "December",
+    "bytes": 57524,
+    "sourceQuery": "December Dezember photo"
+  },
+  "noun-silvester": {
+    "file": "silvester.webp",
+    "lemma": "Silvester",
+    "en": "New Year's Eve",
+    "bytes": 45050,
+    "sourceQuery": "New Year's Eve Silvester photo"
+  },
+  "noun-augenblick": {
+    "file": "augenblick.webp",
+    "lemma": "Augenblick",
+    "en": "moment",
+    "bytes": 13774,
+    "sourceQuery": "moment Augenblick photo"
+  },
+  "noun-vergangenheit": {
+    "file": "vergangenheit.webp",
+    "lemma": "Vergangenheit",
+    "en": "past",
+    "bytes": 37474,
+    "sourceQuery": "past Vergangenheit photo"
+  },
+  "noun-verabredung": {
+    "file": "verabredung.webp",
+    "lemma": "Verabredung",
+    "en": "date",
+    "bytes": 16302,
+    "sourceQuery": "date Verabredung photo"
+  },
+  "noun-kalender": {
+    "file": "kalender.webp",
+    "lemma": "Kalender",
+    "en": "calendar",
+    "bytes": 26422,
+    "sourceQuery": "calendar Kalender photo"
+  },
+  "noun-wecker": {
+    "file": "wecker.webp",
+    "lemma": "Wecker",
+    "en": "alarm clock",
+    "bytes": 8528,
+    "sourceQuery": "alarm clock Wecker photo"
+  },
+  "noun-frist": {
+    "file": "frist.webp",
+    "lemma": "Frist",
+    "en": "deadline",
+    "bytes": 17942,
+    "sourceQuery": "deadline Frist photo"
+  },
+  "noun-wolke": {
+    "file": "wolke.webp",
+    "lemma": "Wolke",
+    "en": "cloud",
+    "bytes": 9648,
+    "sourceQuery": "cloud Wolke photo"
+  },
+  "noun-himmel": {
+    "file": "himmel.webp",
+    "lemma": "Himmel",
+    "en": "sky",
+    "bytes": 8130,
+    "sourceQuery": "sky Himmel photo"
+  },
+  "noun-gewitter": {
+    "file": "gewitter.webp",
+    "lemma": "Gewitter",
+    "en": "thunderstorm",
+    "bytes": 11082,
+    "sourceQuery": "thunderstorm Gewitter photo"
+  },
+  "noun-sturm": {
+    "file": "sturm.webp",
+    "lemma": "Sturm",
+    "en": "storm",
+    "bytes": 8410,
+    "sourceQuery": "storm Sturm photo"
+  },
+  "noun-hitze": {
+    "file": "hitze.webp",
+    "lemma": "Hitze",
+    "en": "heat",
+    "bytes": 36906,
+    "sourceQuery": "heat Hitze photo"
+  },
+  "noun-kaelte": {
+    "file": "kalte.webp",
+    "lemma": "Kälte",
+    "en": "cold",
+    "bytes": 17852,
+    "sourceQuery": "cold Kälte photo"
+  },
+  "noun-wettervorhersage": {
+    "file": "wettervorhersage.webp",
+    "lemma": "Wettervorhersage",
+    "en": "weather forecast",
+    "bytes": 14664,
+    "sourceQuery": "weather forecast Wettervorhersage photo"
+  },
+  "noun-feld": {
+    "file": "feld.webp",
+    "lemma": "Feld",
+    "en": "field",
+    "bytes": 19426,
+    "sourceQuery": "field Feld photo"
+  },
+  "noun-erde": {
+    "file": "erde.webp",
+    "lemma": "Erde",
+    "en": "earth",
+    "bytes": 34772,
+    "sourceQuery": "earth Erde photo"
+  },
+  "noun-feuer": {
+    "file": "feuer.webp",
+    "lemma": "Feuer",
+    "en": "fire",
+    "bytes": 17282,
+    "sourceQuery": "fire Feuer photo"
+  },
+  "noun-stern": {
+    "file": "stern.webp",
+    "lemma": "Stern",
+    "en": "star",
+    "bytes": 21282,
+    "sourceQuery": "star Stern photo"
+  },
+  "noun-pferd": {
+    "file": "pferd.webp",
+    "lemma": "Pferd",
+    "en": "horse",
+    "bytes": 24602,
+    "sourceQuery": "horse Pferd photo"
+  },
+  "noun-kuh": {
+    "file": "kuh.webp",
+    "lemma": "Kuh",
+    "en": "cow",
+    "bytes": 23952,
+    "sourceQuery": "cow Kuh photo"
+  },
+  "noun-ball": {
+    "file": "ball.webp",
+    "lemma": "Ball",
+    "en": "ball",
+    "bytes": 23950,
+    "sourceQuery": "ball Ball photo"
+  },
+  "noun-verein": {
+    "file": "verein.webp",
+    "lemma": "Verein",
+    "en": "club",
+    "bytes": 29818,
+    "sourceQuery": "club Verein photo"
+  },
+  "noun-mannschaft": {
+    "file": "mannschaft.webp",
+    "lemma": "Mannschaft",
+    "en": "team (sports)",
+    "bytes": 36554,
+    "sourceQuery": "team Mannschaft photo"
+  },
+  "noun-training": {
+    "file": "training.webp",
+    "lemma": "Training",
+    "en": "training",
+    "bytes": 16162,
+    "sourceQuery": "training Training photo"
+  },
+  "noun-trainer": {
+    "file": "trainer.webp",
+    "lemma": "Trainer",
+    "en": "coach (male)",
+    "bytes": 11890,
+    "sourceQuery": "coach Trainer photo"
+  },
+  "noun-schwimmen": {
+    "file": "schwimmen.webp",
+    "lemma": "Schwimmen",
+    "en": "swimming",
+    "bytes": 18044,
+    "sourceQuery": "swimming Schwimmen photo"
+  },
+  "noun-radfahren": {
+    "file": "radfahren.webp",
+    "lemma": "Radfahren",
+    "en": "cycling",
+    "bytes": 34460,
+    "sourceQuery": "cycling Radfahren photo"
+  },
+  "noun-roman": {
+    "file": "roman.webp",
+    "lemma": "Roman",
+    "en": "novel",
+    "bytes": 36532,
+    "sourceQuery": "novel Roman photo"
+  },
+  "noun-ausstellung": {
+    "file": "ausstellung.webp",
+    "lemma": "Ausstellung",
+    "en": "exhibition",
+    "bytes": 14060,
+    "sourceQuery": "exhibition Ausstellung photo"
+  },
+  "noun-hoffnung": {
+    "file": "hoffnung.webp",
+    "lemma": "Hoffnung",
+    "en": "hope",
+    "bytes": 7954,
+    "sourceQuery": "hope Hoffnung photo"
+  },
+  "noun-stimmung": {
+    "file": "stimmung.webp",
+    "lemma": "Stimmung",
+    "en": "mood",
+    "bytes": 8008,
+    "sourceQuery": "mood Stimmung photo"
+  },
+  "noun-laune": {
+    "file": "laune.webp",
+    "lemma": "Laune",
+    "en": "mood",
+    "bytes": 24440,
+    "sourceQuery": "mood Laune photo"
+  },
+  "noun-aerger": {
+    "file": "arger.webp",
+    "lemma": "Ärger",
+    "en": "anger",
+    "bytes": 13696,
+    "sourceQuery": "anger Ärger photo"
+  },
+  "noun-respekt": {
+    "file": "respekt.webp",
+    "lemma": "Respekt",
+    "en": "respect",
+    "bytes": 21104,
+    "sourceQuery": "respect Respekt photo"
+  },
+  "noun-vertrauen": {
+    "file": "vertrauen.webp",
+    "lemma": "Vertrauen",
+    "en": "trust",
+    "bytes": 52572,
+    "sourceQuery": "trust Vertrauen photo"
+  },
+  "noun-kontakt": {
+    "file": "kontakt.webp",
+    "lemma": "Kontakt",
+    "en": "contact",
+    "bytes": 5568,
+    "sourceQuery": "contact Kontakt photo"
+  },
+  "noun-muehe": {
+    "file": "muhe.webp",
+    "lemma": "Mühe",
+    "en": "effort",
+    "bytes": 27874,
+    "sourceQuery": "effort Mühe photo"
+  },
+  "noun-wahrheit": {
+    "file": "wahrheit.webp",
+    "lemma": "Wahrheit",
+    "en": "truth",
+    "bytes": 22622,
+    "sourceQuery": "truth Wahrheit photo"
+  },
+  "noun-traum": {
+    "file": "traum.webp",
+    "lemma": "Traum",
+    "en": "dream",
+    "bytes": 15624,
+    "sourceQuery": "dream Traum photo"
+  },
+  "noun-gewohnheit": {
+    "file": "gewohnheit.webp",
+    "lemma": "Gewohnheit",
+    "en": "habit",
+    "bytes": 5278,
+    "sourceQuery": "habit Gewohnheit photo"
+  },
+  "noun-tagesablauf": {
+    "file": "tagesablauf.webp",
+    "lemma": "Tagesablauf",
+    "en": "daily routine",
+    "bytes": 14990,
+    "sourceQuery": "daily routine Tagesablauf photo"
+  },
+  "noun-haushalt": {
+    "file": "haushalt.webp",
+    "lemma": "Haushalt",
+    "en": "household",
+    "bytes": 18148,
+    "sourceQuery": "household Haushalt photo"
+  },
+  "noun-bescheid": {
+    "file": "bescheid.webp",
+    "lemma": "Bescheid",
+    "en": "notification",
+    "bytes": 15076,
+    "sourceQuery": "notification Bescheid photo"
+  },
+  "noun-bescheinigung": {
+    "file": "bescheinigung.webp",
+    "lemma": "Bescheinigung",
+    "en": "certificate",
+    "bytes": 31068,
+    "sourceQuery": "certificate Bescheinigung photo"
+  },
+  "noun-wahl": {
+    "file": "wahl.webp",
+    "lemma": "Wahl",
+    "en": "choice",
+    "bytes": 16218,
+    "sourceQuery": "choice Wahl photo"
+  },
+  "noun-gesetz": {
+    "file": "gesetz.webp",
+    "lemma": "Gesetz",
+    "en": "law",
+    "bytes": 11536,
+    "sourceQuery": "law Gesetz photo"
+  },
+  "noun-recht": {
+    "file": "recht.webp",
+    "lemma": "Recht",
+    "en": "right",
+    "bytes": 16954,
+    "sourceQuery": "right Recht photo"
+  },
+  "noun-pflicht": {
+    "file": "pflicht.webp",
+    "lemma": "Pflicht",
+    "en": "duty",
+    "bytes": 8154,
+    "sourceQuery": "duty Pflicht photo"
+  },
+  "noun-hinweis": {
+    "file": "hinweis.webp",
+    "lemma": "Hinweis",
+    "en": "hint",
+    "bytes": 6688,
+    "sourceQuery": "hint Hinweis photo"
+  },
+  "noun-rat": {
+    "file": "rat.webp",
+    "lemma": "Rat",
+    "en": "advice",
+    "bytes": 20208,
+    "sourceQuery": "advice Rat photo"
+  },
+  "noun-vorschlag": {
+    "file": "vorschlag.webp",
+    "lemma": "Vorschlag",
+    "en": "suggestion",
+    "bytes": 19942,
+    "sourceQuery": "suggestion Vorschlag photo"
+  },
+  "noun-bitte": {
+    "file": "bitte.webp",
+    "lemma": "Bitte",
+    "en": "request",
+    "bytes": 13160,
+    "sourceQuery": "request Bitte photo"
+  },
+  "noun-entschuldigung": {
+    "file": "entschuldigung.webp",
+    "lemma": "Entschuldigung",
+    "en": "apology",
+    "bytes": 12690,
+    "sourceQuery": "apology Entschuldigung photo"
+  },
+  "noun-beschwerde": {
+    "file": "beschwerde.webp",
+    "lemma": "Beschwerde",
+    "en": "complaint",
+    "bytes": 6062,
+    "sourceQuery": "complaint Beschwerde photo"
+  },
+  "noun-politik": {
+    "file": "politik.webp",
+    "lemma": "Politik",
+    "en": "politics",
+    "bytes": 42456,
+    "sourceQuery": "politics Politik photo"
+  },
+  "noun-kultur": {
+    "file": "kultur.webp",
+    "lemma": "Kultur",
+    "en": "culture",
+    "bytes": 20614,
+    "sourceQuery": "culture Kultur photo"
+  },
+  "noun-tradition": {
+    "file": "tradition.webp",
+    "lemma": "Tradition",
+    "en": "tradition",
+    "bytes": 25194,
+    "sourceQuery": "tradition Tradition photo"
+  },
+  "noun-wartezeit": {
+    "file": "wartezeit.webp",
+    "lemma": "Wartezeit",
+    "en": "waiting time",
+    "bytes": 27484,
+    "sourceQuery": "waiting time Wartezeit photo"
+  },
+  "noun-schalter": {
+    "file": "schalter.webp",
+    "lemma": "Schalter",
+    "en": "counter",
+    "bytes": 25428,
+    "sourceQuery": "counter Schalter photo"
+  },
+  "noun-muelltrennung": {
+    "file": "mulltrennung.webp",
+    "lemma": "Mülltrennung",
+    "en": "waste separation",
+    "bytes": 27856,
+    "sourceQuery": "waste separation Mülltrennung photo"
+  },
+  "noun-menge": {
+    "file": "menge.webp",
+    "lemma": "Menge",
+    "en": "amount",
+    "bytes": 18226,
+    "sourceQuery": "amount Menge photo"
+  },
+  "noun-prozent": {
+    "file": "prozent.webp",
+    "lemma": "Prozent",
+    "en": "percent",
+    "bytes": 10728,
+    "sourceQuery": "percent Prozent photo"
+  },
+  "noun-wohngemeinschaft": {
+    "file": "wohngemeinschaft.webp",
+    "lemma": "Wohngemeinschaft",
+    "en": "shared apartment",
+    "bytes": 21146,
+    "sourceQuery": "shared apartment Wohngemeinschaft photo"
+  },
+  "noun-mietwohnung": {
+    "file": "mietwohnung.webp",
+    "lemma": "Mietwohnung",
+    "en": "rental apartment",
+    "bytes": 30720,
+    "sourceQuery": "rental apartment Mietwohnung photo"
+  },
+  "noun-shampoo": {
+    "file": "shampoo.webp",
+    "lemma": "Shampoo",
+    "en": "shampoo",
+    "bytes": 18984,
+    "sourceQuery": "shampoo Shampoo photo"
+  },
+  "noun-kindheit": {
+    "file": "kindheit.webp",
+    "lemma": "Kindheit",
+    "en": "childhood",
+    "bytes": 16352,
+    "sourceQuery": "childhood Kindheit photo"
+  },
+  "noun-schild": {
+    "file": "schild.webp",
+    "lemma": "Schild",
+    "en": "sign",
+    "bytes": 9120,
+    "sourceQuery": "sign Schild photo"
+  },
+  "noun-werbung": {
+    "file": "werbung.webp",
+    "lemma": "Werbung",
+    "en": "advertising",
+    "bytes": 29038,
+    "sourceQuery": "advertising Werbung photo"
+  },
+  "noun-gutschein": {
+    "file": "gutschein.webp",
+    "lemma": "Gutschein",
+    "en": "voucher",
+    "bytes": 26164,
+    "sourceQuery": "voucher Gutschein photo"
+  },
+  "noun-schlange": {
+    "file": "schlange.webp",
+    "lemma": "Schlange",
+    "en": "queue",
+    "bytes": 43404,
+    "sourceQuery": "queue Schlange photo"
+  },
+  "noun-wohnort": {
+    "file": "wohnort.webp",
+    "lemma": "Wohnort",
+    "en": "place of residence",
+    "bytes": 30080,
+    "sourceQuery": "place of residence Wohnort photo"
+  },
+  "noun-dach": {
+    "file": "dach.webp",
+    "lemma": "Dach",
+    "en": "roof",
+    "bytes": 25840,
+    "sourceQuery": "roof Dach photo"
+  },
+  "noun-mieterin": {
+    "file": "mieterin.webp",
+    "lemma": "Mieterin",
+    "en": "tenant (female)",
+    "bytes": 16776,
+    "sourceQuery": "tenant Mieterin photo"
+  },
+  "noun-sessel": {
+    "file": "sessel.webp",
+    "lemma": "Sessel",
+    "en": "armchair",
+    "bytes": 11084,
+    "sourceQuery": "armchair Sessel photo"
+  },
+  "noun-vorhang": {
+    "file": "vorhang.webp",
+    "lemma": "Vorhang",
+    "en": "curtain",
+    "bytes": 22976,
+    "sourceQuery": "curtain Vorhang photo"
+  },
+  "noun-kissen": {
+    "file": "kissen.webp",
+    "lemma": "Kissen",
+    "en": "pillow",
+    "bytes": 30342,
+    "sourceQuery": "pillow Kissen photo"
+  },
+  "noun-badewanne": {
+    "file": "badewanne.webp",
+    "lemma": "Badewanne",
+    "en": "bathtub",
+    "bytes": 19938,
+    "sourceQuery": "bathtub Badewanne photo"
+  },
+  "noun-klingel": {
+    "file": "klingel.webp",
+    "lemma": "Klingel",
+    "en": "doorbell",
+    "bytes": 5112,
+    "sourceQuery": "doorbell Klingel photo"
+  },
+  "noun-gluehbirne": {
+    "file": "gluhbirne.webp",
+    "lemma": "Glühbirne",
+    "en": "light bulb",
+    "bytes": 5414,
+    "sourceQuery": "light bulb Glühbirne photo"
+  },
+  "noun-putzmittel": {
+    "file": "putzmittel.webp",
+    "lemma": "Putzmittel",
+    "en": "cleaning product",
+    "bytes": 19198,
+    "sourceQuery": "cleaning product Putzmittel photo"
+  },
+  "noun-auskunft": {
+    "file": "auskunft.webp",
+    "lemma": "Auskunft",
+    "en": "information",
+    "bytes": 3954,
+    "sourceQuery": "information Auskunft photo"
+  },
+  "noun-gegenteil": {
+    "file": "gegenteil.webp",
+    "lemma": "Gegenteil",
+    "en": "opposite",
+    "bytes": 8678,
+    "sourceQuery": "opposite Gegenteil photo"
+  },
+  "noun-zufall": {
+    "file": "zufall.webp",
+    "lemma": "Zufall",
+    "en": "coincidence",
+    "bytes": 12678,
+    "sourceQuery": "coincidence Zufall photo"
+  },
+  "noun-enkel": {
+    "file": "enkel.webp",
+    "lemma": "Enkel",
+    "en": "grandson",
+    "bytes": 16052,
+    "sourceQuery": "grandson Enkel photo"
+  },
+  "noun-jugendlicher": {
+    "file": "jugendlicher.webp",
+    "lemma": "Jugendlicher",
+    "en": "teenager",
+    "bytes": 24386,
+    "sourceQuery": "teenager Jugendlicher photo"
+  },
+  "noun-schwiegermutter": {
+    "file": "schwiegermutter.webp",
+    "lemma": "Schwiegermutter",
+    "en": "mother-in-law",
+    "bytes": 16928,
+    "sourceQuery": "mother-in-law Schwiegermutter photo"
+  },
+  "noun-nichte": {
+    "file": "nichte.webp",
+    "lemma": "Nichte",
+    "en": "niece",
+    "bytes": 8014,
+    "sourceQuery": "niece Nichte photo"
+  },
+  "noun-neffe": {
+    "file": "neffe.webp",
+    "lemma": "Neffe",
+    "en": "nephew",
+    "bytes": 9554,
+    "sourceQuery": "nephew Neffe photo"
+  },
+  "noun-zwilling": {
+    "file": "zwilling.webp",
+    "lemma": "Zwilling",
+    "en": "twin",
+    "bytes": 22904,
+    "sourceQuery": "twin Zwilling photo"
+  },
+  "noun-fremde": {
+    "file": "fremde.webp",
+    "lemma": "Fremde",
+    "en": "stranger",
+    "bytes": 8116,
+    "sourceQuery": "stranger Fremde photo"
+  },
+  "noun-single": {
+    "file": "single.webp",
+    "lemma": "Single",
+    "en": "single (person)",
+    "bytes": 11346,
+    "sourceQuery": "single Single photo"
+  },
+  "noun-mahlzeit": {
+    "file": "mahlzeit.webp",
+    "lemma": "Mahlzeit",
+    "en": "meal",
+    "bytes": 30970,
+    "sourceQuery": "meal Mahlzeit photo"
+  },
+  "noun-rindfleisch": {
+    "file": "rindfleisch.webp",
+    "lemma": "Rindfleisch",
+    "en": "beef",
+    "bytes": 31582,
+    "sourceQuery": "beef Rindfleisch photo"
+  },
+  "noun-sahne": {
+    "file": "sahne.webp",
+    "lemma": "Sahne",
+    "en": "cream",
+    "bytes": 5376,
+    "sourceQuery": "cream Sahne photo"
+  },
+  "noun-honig": {
+    "file": "honig.webp",
+    "lemma": "Honig",
+    "en": "honey",
+    "bytes": 19854,
+    "sourceQuery": "honey Honig photo"
+  },
+  "noun-essig": {
+    "file": "essig.webp",
+    "lemma": "Essig",
+    "en": "vinegar",
+    "bytes": 32342,
+    "sourceQuery": "vinegar Essig photo"
+  },
+  "noun-torte": {
+    "file": "torte.webp",
+    "lemma": "Torte",
+    "en": "layer cake",
+    "bytes": 29470,
+    "sourceQuery": "layer cake Torte photo"
+  },
+  "noun-snack": {
+    "file": "snack.webp",
+    "lemma": "Snack",
+    "en": "snack",
+    "bytes": 36578,
+    "sourceQuery": "snack Snack photo"
+  },
+  "noun-birne": {
+    "file": "birne.webp",
+    "lemma": "Birne",
+    "en": "pear",
+    "bytes": 28272,
+    "sourceQuery": "pear Birne photo"
+  },
+  "noun-traube": {
+    "file": "traube.webp",
+    "lemma": "Traube",
+    "en": "grape",
+    "bytes": 26878,
+    "sourceQuery": "grape Traube photo"
+  },
+  "noun-kirsche": {
+    "file": "kirsche.webp",
+    "lemma": "Kirsche",
+    "en": "cherry",
+    "bytes": 19262,
+    "sourceQuery": "cherry Kirsche photo"
+  },
+  "noun-bohne": {
+    "file": "bohne.webp",
+    "lemma": "Bohne",
+    "en": "bean",
+    "bytes": 20684,
+    "sourceQuery": "bean Bohne photo"
+  },
+  "noun-erbse": {
+    "file": "erbse.webp",
+    "lemma": "Erbse",
+    "en": "pea",
+    "bytes": 39830,
+    "sourceQuery": "pea Erbse photo"
+  },
+  "noun-kneipe": {
+    "file": "kneipe.webp",
+    "lemma": "Kneipe",
+    "en": "pub",
+    "bytes": 42432,
+    "sourceQuery": "pub Kneipe photo"
+  },
+  "noun-schuessel": {
+    "file": "schussel.webp",
+    "lemma": "Schüssel",
+    "en": "bowl",
+    "bytes": 21974,
+    "sourceQuery": "bowl Schüssel photo"
+  },
+  "noun-serviette": {
+    "file": "serviette.webp",
+    "lemma": "Serviette",
+    "en": "napkin",
+    "bytes": 23284,
+    "sourceQuery": "napkin Serviette photo"
+  },
+  "noun-dose": {
+    "file": "dose.webp",
+    "lemma": "Dose",
+    "en": "can",
+    "bytes": 8278,
+    "sourceQuery": "can Dose photo"
+  },
+  "noun-diaet": {
+    "file": "diat.webp",
+    "lemma": "Diät",
+    "en": "diet",
+    "bytes": 25342,
+    "sourceQuery": "diet Diät photo"
+  },
+  "noun-vegetarier": {
+    "file": "vegetarier.webp",
+    "lemma": "Vegetarier",
+    "en": "vegetarian (male)",
+    "bytes": 35800,
+    "sourceQuery": "vegetarian Vegetarier photo"
+  },
+  "noun-metzgerei": {
+    "file": "metzgerei.webp",
+    "lemma": "Metzgerei",
+    "en": "butcher's shop",
+    "bytes": 29030,
+    "sourceQuery": "butcher's shop Metzgerei photo"
+  },
+  "noun-baecker": {
+    "file": "backer.webp",
+    "lemma": "Bäcker",
+    "en": "baker",
+    "bytes": 13058,
+    "sourceQuery": "baker Bäcker photo"
+  },
+  "noun-ware": {
+    "file": "ware.webp",
+    "lemma": "Ware",
+    "en": "goods",
+    "bytes": 36666,
+    "sourceQuery": "goods Ware photo"
+  },
+  "noun-schein": {
+    "file": "schein.webp",
+    "lemma": "Schein",
+    "en": "banknote",
+    "bytes": 34498,
+    "sourceQuery": "banknote Schein photo"
+  },
+  "noun-schulden": {
+    "file": "schulden.webp",
+    "lemma": "Schulden",
+    "en": "debts",
+    "bytes": 20648,
+    "sourceQuery": "debts Schulden photo"
+  },
+  "noun-umtausch": {
+    "file": "umtausch.webp",
+    "lemma": "Umtausch",
+    "en": "exchange (of goods)",
+    "bytes": 9748,
+    "sourceQuery": "exchange Umtausch photo"
+  },
+  "noun-motorrad": {
+    "file": "motorrad.webp",
+    "lemma": "Motorrad",
+    "en": "motorcycle",
+    "bytes": 20344,
+    "sourceQuery": "motorcycle Motorrad photo"
+  },
+  "noun-roller": {
+    "file": "roller.webp",
+    "lemma": "Roller",
+    "en": "scooter",
+    "bytes": 15764,
+    "sourceQuery": "scooter Roller photo"
+  },
+  "noun-schiff": {
+    "file": "schiff.webp",
+    "lemma": "Schiff",
+    "en": "ship",
+    "bytes": 14858,
+    "sourceQuery": "ship Schiff photo"
+  },
+  "noun-faehre": {
+    "file": "fahre.webp",
+    "lemma": "Fähre",
+    "en": "ferry",
+    "bytes": 24848,
+    "sourceQuery": "ferry Fähre photo"
+  },
+  "noun-umsteigen": {
+    "file": "umsteigen.webp",
+    "lemma": "Umsteigen",
+    "en": "transfer",
+    "bytes": 17898,
+    "sourceQuery": "transfer Umsteigen photo"
+  },
+  "noun-reifen": {
+    "file": "reifen.webp",
+    "lemma": "Reifen",
+    "en": "tire",
+    "bytes": 30756,
+    "sourceQuery": "tire Reifen photo"
+  },
+  "noun-geschwindigkeit": {
+    "file": "geschwindigkeit.webp",
+    "lemma": "Geschwindigkeit",
+    "en": "speed",
+    "bytes": 18832,
+    "sourceQuery": "speed Geschwindigkeit photo"
+  },
+  "noun-fussgaenger": {
+    "file": "fussganger.webp",
+    "lemma": "Fußgänger",
+    "en": "pedestrian",
+    "bytes": 44422,
+    "sourceQuery": "pedestrian Fußgänger photo"
+  },
+  "noun-kontrolle": {
+    "file": "kontrolle.webp",
+    "lemma": "Kontrolle",
+    "en": "check",
+    "bytes": 3100,
+    "sourceQuery": "check Kontrolle photo"
+  },
+  "noun-zoll": {
+    "file": "zoll.webp",
+    "lemma": "Zoll",
+    "en": "customs",
+    "bytes": 21676,
+    "sourceQuery": "customs Zoll photo"
+  },
+  "noun-tour": {
+    "file": "tour.webp",
+    "lemma": "Tour",
+    "en": "tour",
+    "bytes": 31858,
+    "sourceQuery": "tour Tour photo"
+  },
+  "noun-hostel": {
+    "file": "hostel.webp",
+    "lemma": "Hostel",
+    "en": "hostel",
+    "bytes": 17578,
+    "sourceQuery": "hostel Hostel photo"
+  },
+  "noun-pension": {
+    "file": "pension.webp",
+    "lemma": "Pension",
+    "en": "guesthouse",
+    "bytes": 24342,
+    "sourceQuery": "guesthouse Pension photo"
+  },
+  "noun-ferienwohnung": {
+    "file": "ferienwohnung.webp",
+    "lemma": "Ferienwohnung",
+    "en": "vacation rental",
+    "bytes": 37232,
+    "sourceQuery": "vacation rental Ferienwohnung photo"
+  },
+  "noun-zelt": {
+    "file": "zelt.webp",
+    "lemma": "Zelt",
+    "en": "tent",
+    "bytes": 15170,
+    "sourceQuery": "tent Zelt photo"
+  },
+  "noun-campingplatz": {
+    "file": "campingplatz.webp",
+    "lemma": "Campingplatz",
+    "en": "campsite",
+    "bytes": 40260,
+    "sourceQuery": "campsite Campingplatz photo"
+  },
+  "noun-reisefuehrer": {
+    "file": "reisefuhrer.webp",
+    "lemma": "Reiseführer",
+    "en": "travel guide",
+    "bytes": 25010,
+    "sourceQuery": "travel guide Reiseführer photo"
+  },
+  "noun-souvenir": {
+    "file": "souvenir.webp",
+    "lemma": "Souvenir",
+    "en": "souvenir",
+    "bytes": 34906,
+    "sourceQuery": "souvenir Souvenir photo"
+  },
+  "noun-landkarte": {
+    "file": "landkarte.webp",
+    "lemma": "Landkarte",
+    "en": "map",
+    "bytes": 23058,
+    "sourceQuery": "map Landkarte photo"
+  },
+  "noun-denkmal": {
+    "file": "denkmal.webp",
+    "lemma": "Denkmal",
+    "en": "monument",
+    "bytes": 15136,
+    "sourceQuery": "monument Denkmal photo"
+  },
+  "noun-brunnen": {
+    "file": "brunnen.webp",
+    "lemma": "Brunnen",
+    "en": "fountain",
+    "bytes": 47908,
+    "sourceQuery": "fountain Brunnen photo"
+  },
+  "noun-buergersteig": {
+    "file": "burgersteig.webp",
+    "lemma": "Bürgersteig",
+    "en": "sidewalk",
+    "bytes": 30788,
+    "sourceQuery": "sidewalk Bürgersteig photo"
+  },
+  "noun-arbeitnehmer": {
+    "file": "arbeitnehmer.webp",
+    "lemma": "Arbeitnehmer",
+    "en": "employee (legal)",
+    "bytes": 22690,
+    "sourceQuery": "employee Arbeitnehmer photo"
+  },
+  "noun-sekretaerin": {
+    "file": "sekretarin.webp",
+    "lemma": "Sekretärin",
+    "en": "secretary",
+    "bytes": 11012,
+    "sourceQuery": "secretary Sekretärin photo"
+  },
+  "noun-pfleger": {
+    "file": "pfleger.webp",
+    "lemma": "Pfleger",
+    "en": "nurse",
+    "bytes": 15836,
+    "sourceQuery": "nurse Pfleger photo"
+  },
+  "noun-ingenieurin": {
+    "file": "ingenieurin.webp",
+    "lemma": "Ingenieurin",
+    "en": "engineer (female)",
+    "bytes": 16950,
+    "sourceQuery": "engineer Ingenieurin photo"
+  },
+  "noun-elektriker": {
+    "file": "elektriker.webp",
+    "lemma": "Elektriker",
+    "en": "electrician",
+    "bytes": 23448,
+    "sourceQuery": "electrician Elektriker photo"
+  },
+  "noun-installateur": {
+    "file": "installateur.webp",
+    "lemma": "Installateur",
+    "en": "plumber",
+    "bytes": 20908,
+    "sourceQuery": "plumber Installateur photo"
+  },
+  "noun-journalist": {
+    "file": "journalist.webp",
+    "lemma": "Journalist",
+    "en": "journalist (male)",
+    "bytes": 10912,
+    "sourceQuery": "journalist Journalist photo"
+  },
+  "noun-kuenstler": {
+    "file": "kunstler.webp",
+    "lemma": "Künstler",
+    "en": "artist (male)",
+    "bytes": 30990,
+    "sourceQuery": "artist Künstler photo"
+  },
+  "noun-genehmigung": {
+    "file": "genehmigung.webp",
+    "lemma": "Genehmigung",
+    "en": "permit",
+    "bytes": 16816,
+    "sourceQuery": "permit Genehmigung photo"
+  },
+  "noun-arbeitslosigkeit": {
+    "file": "arbeitslosigkeit.webp",
+    "lemma": "Arbeitslosigkeit",
+    "en": "unemployment",
+    "bytes": 16298,
+    "sourceQuery": "unemployment Arbeitslosigkeit photo"
+  },
+  "noun-krankmeldung": {
+    "file": "krankmeldung.webp",
+    "lemma": "Krankmeldung",
+    "en": "sick note",
+    "bytes": 17256,
+    "sourceQuery": "sick note Krankmeldung photo"
+  },
+  "noun-kaffeepause": {
+    "file": "kaffeepause.webp",
+    "lemma": "Kaffeepause",
+    "en": "coffee break",
+    "bytes": 9972,
+    "sourceQuery": "coffee break Kaffeepause photo"
+  },
+  "noun-wissen": {
+    "file": "wissen.webp",
+    "lemma": "Wissen",
+    "en": "knowledge",
+    "bytes": 9538,
+    "sourceQuery": "knowledge Wissen photo"
+  },
+  "noun-wissenschaft": {
+    "file": "wissenschaft.webp",
+    "lemma": "Wissenschaft",
+    "en": "science",
+    "bytes": 21422,
+    "sourceQuery": "science Wissenschaft photo"
+  },
+  "noun-tropfen": {
+    "file": "tropfen.webp",
+    "lemma": "Tropfen",
+    "en": "drop",
+    "bytes": 8554,
+    "sourceQuery": "drop Tropfen photo"
+  },
+  "noun-salbe": {
+    "file": "salbe.webp",
+    "lemma": "Salbe",
+    "en": "ointment",
+    "bytes": 14040,
+    "sourceQuery": "ointment Salbe photo"
+  },
+  "noun-pflaster": {
+    "file": "pflaster.webp",
+    "lemma": "Pflaster",
+    "en": "band-aid",
+    "bytes": 4906,
+    "sourceQuery": "band-aid Pflaster photo"
+  },
+  "noun-verband": {
+    "file": "verband.webp",
+    "lemma": "Verband",
+    "en": "bandage",
+    "bytes": 9064,
+    "sourceQuery": "bandage Verband photo"
+  },
+  "noun-pyjama": {
+    "file": "pyjama.webp",
+    "lemma": "Pyjama",
+    "en": "pajamas",
+    "bytes": 20618,
+    "sourceQuery": "pajamas Pyjama photo"
+  },
+  "noun-unterwaesche": {
+    "file": "unterwasche.webp",
+    "lemma": "Unterwäsche",
+    "en": "underwear",
+    "bytes": 25846,
+    "sourceQuery": "underwear Unterwäsche photo"
+  },
+  "noun-sandale": {
+    "file": "sandale.webp",
+    "lemma": "Sandale",
+    "en": "sandal",
+    "bytes": 24620,
+    "sourceQuery": "sandal Sandale photo"
+  },
+  "noun-guertel": {
+    "file": "gurtel.webp",
+    "lemma": "Gürtel",
+    "en": "belt",
+    "bytes": 3318,
+    "sourceQuery": "belt Gürtel photo"
+  },
+  "noun-krawatte": {
+    "file": "krawatte.webp",
+    "lemma": "Krawatte",
+    "en": "tie",
+    "bytes": 29282,
+    "sourceQuery": "tie Krawatte photo"
+  },
+  "noun-ring": {
+    "file": "ring.webp",
+    "lemma": "Ring",
+    "en": "ring",
+    "bytes": 10564,
+    "sourceQuery": "ring Ring photo"
+  },
+  "noun-handtasche": {
+    "file": "handtasche.webp",
+    "lemma": "Handtasche",
+    "en": "handbag",
+    "bytes": 5856,
+    "sourceQuery": "handbag Handtasche photo"
+  },
+  "noun-material": {
+    "file": "material.webp",
+    "lemma": "Material",
+    "en": "material",
+    "bytes": 19518,
+    "sourceQuery": "material Material photo"
+  },
+  "noun-wolle": {
+    "file": "wolle.webp",
+    "lemma": "Wolle",
+    "en": "wool",
+    "bytes": 41544,
+    "sourceQuery": "wool Wolle photo"
+  },
+  "noun-baumwolle": {
+    "file": "baumwolle.webp",
+    "lemma": "Baumwolle",
+    "en": "cotton",
+    "bytes": 45958,
+    "sourceQuery": "cotton Baumwolle photo"
+  },
+  "noun-tastatur": {
+    "file": "tastatur.webp",
+    "lemma": "Tastatur",
+    "en": "keyboard",
+    "bytes": 9314,
+    "sourceQuery": "keyboard Tastatur photo"
+  },
+  "noun-maus": {
+    "file": "maus.webp",
+    "lemma": "Maus",
+    "en": "mouse",
+    "bytes": 11574,
+    "sourceQuery": "mouse Maus photo"
+  },
+  "noun-batterie": {
+    "file": "batterie.webp",
+    "lemma": "Batterie",
+    "en": "battery",
+    "bytes": 9568,
+    "sourceQuery": "battery Batterie photo"
+  },
+  "noun-ordner": {
+    "file": "ordner.webp",
+    "lemma": "Ordner",
+    "en": "folder",
+    "bytes": 17620,
+    "sourceQuery": "folder Ordner photo"
+  },
+  "noun-sendung": {
+    "file": "sendung.webp",
+    "lemma": "Sendung",
+    "en": "(TV/radio) show",
+    "bytes": 21118,
+    "sourceQuery": "show Sendung photo"
+  },
+  "noun-stoerung": {
+    "file": "storung.webp",
+    "lemma": "Störung",
+    "en": "disruption",
+    "bytes": 29586,
+    "sourceQuery": "disruption Störung photo"
+  },
+  "noun-maschine": {
+    "file": "maschine.webp",
+    "lemma": "Maschine",
+    "en": "machine",
+    "bytes": 20522,
+    "sourceQuery": "machine Maschine photo"
+  },
+  "noun-werkzeug": {
+    "file": "werkzeug.webp",
+    "lemma": "Werkzeug",
+    "en": "tool",
+    "bytes": 43580,
+    "sourceQuery": "tool Werkzeug photo"
+  },
+  "noun-schere": {
+    "file": "schere.webp",
+    "lemma": "Schere",
+    "en": "scissors",
+    "bytes": 5754,
+    "sourceQuery": "scissors Schere photo"
+  },
+  "noun-mitternacht": {
+    "file": "mitternacht.webp",
+    "lemma": "Mitternacht",
+    "en": "midnight",
+    "bytes": 38846,
+    "sourceQuery": "midnight Mitternacht photo"
+  },
+  "noun-ostern": {
+    "file": "ostern.webp",
+    "lemma": "Ostern",
+    "en": "Easter",
+    "bytes": 22580,
+    "sourceQuery": "Easter Ostern photo"
+  },
+  "noun-gegenwart": {
+    "file": "gegenwart.webp",
+    "lemma": "Gegenwart",
+    "en": "present",
+    "bytes": 11646,
+    "sourceQuery": "present Gegenwart photo"
+  },
+  "noun-jahrhundert": {
+    "file": "jahrhundert.webp",
+    "lemma": "Jahrhundert",
+    "en": "century",
+    "bytes": 86694,
+    "sourceQuery": "century Jahrhundert photo"
+  },
+  "noun-zeitraum": {
+    "file": "zeitraum.webp",
+    "lemma": "Zeitraum",
+    "en": "period of time",
+    "bytes": 10090,
+    "sourceQuery": "period of time Zeitraum photo"
+  },
+  "noun-nebel": {
+    "file": "nebel.webp",
+    "lemma": "Nebel",
+    "en": "fog",
+    "bytes": 19752,
+    "sourceQuery": "fog Nebel photo"
+  },
+  "noun-gras": {
+    "file": "gras.webp",
+    "lemma": "Gras",
+    "en": "grass",
+    "bytes": 27014,
+    "sourceQuery": "grass Gras photo"
+  },
+  "noun-wiese": {
+    "file": "wiese.webp",
+    "lemma": "Wiese",
+    "en": "meadow",
+    "bytes": 27126,
+    "sourceQuery": "meadow Wiese photo"
+  },
+  "noun-huegel": {
+    "file": "hugel.webp",
+    "lemma": "Hügel",
+    "en": "hill",
+    "bytes": 19332,
+    "sourceQuery": "hill Hügel photo"
+  },
+  "noun-stein": {
+    "file": "stein.webp",
+    "lemma": "Stein",
+    "en": "stone",
+    "bytes": 31112,
+    "sourceQuery": "stone Stein photo"
+  },
+  "noun-sand": {
+    "file": "sand.webp",
+    "lemma": "Sand",
+    "en": "sand",
+    "bytes": 33582,
+    "sourceQuery": "sand Sand photo"
+  },
+  "noun-mond": {
+    "file": "mond.webp",
+    "lemma": "Mond",
+    "en": "moon",
+    "bytes": 17432,
+    "sourceQuery": "moon Mond photo"
+  },
+  "noun-sonnenschein": {
+    "file": "sonnenschein.webp",
+    "lemma": "Sonnenschein",
+    "en": "sunshine",
+    "bytes": 25742,
+    "sourceQuery": "sunshine Sonnenschein photo"
+  },
+  "noun-muellabfuhr": {
+    "file": "mullabfuhr.webp",
+    "lemma": "Müllabfuhr",
+    "en": "garbage collection",
+    "bytes": 32436,
+    "sourceQuery": "garbage collection Müllabfuhr photo"
+  },
+  "noun-schwein": {
+    "file": "schwein.webp",
+    "lemma": "Schwein",
+    "en": "pig",
+    "bytes": 12772,
+    "sourceQuery": "pig Schwein photo"
+  },
+  "noun-schaf": {
+    "file": "schaf.webp",
+    "lemma": "Schaf",
+    "en": "sheep",
+    "bytes": 24276,
+    "sourceQuery": "sheep Schaf photo"
+  },
+  "noun-huhn": {
+    "file": "huhn.webp",
+    "lemma": "Huhn",
+    "en": "chicken (animal)",
+    "bytes": 41004,
+    "sourceQuery": "chicken Huhn photo"
+  },
+  "noun-hase": {
+    "file": "hase.webp",
+    "lemma": "Hase",
+    "en": "hare",
+    "bytes": 25610,
+    "sourceQuery": "hare Hase photo"
+  },
+  "noun-kaninchen": {
+    "file": "kaninchen.webp",
+    "lemma": "Kaninchen",
+    "en": "rabbit",
+    "bytes": 9516,
+    "sourceQuery": "rabbit Kaninchen photo"
+  },
+  "noun-insekt": {
+    "file": "insekt.webp",
+    "lemma": "Insekt",
+    "en": "insect",
+    "bytes": 9610,
+    "sourceQuery": "insect Insekt photo"
+  },
+  "noun-muecke": {
+    "file": "mucke.webp",
+    "lemma": "Mücke",
+    "en": "mosquito",
+    "bytes": 11042,
+    "sourceQuery": "mosquito Mücke photo"
+  },
+  "noun-biene": {
+    "file": "biene.webp",
+    "lemma": "Biene",
+    "en": "bee",
+    "bytes": 20782,
+    "sourceQuery": "bee Biene photo"
+  },
+  "noun-joggen": {
+    "file": "joggen.webp",
+    "lemma": "Joggen",
+    "en": "jogging",
+    "bytes": 19336,
+    "sourceQuery": "jogging Joggen photo"
+  },
+  "noun-skifahren": {
+    "file": "skifahren.webp",
+    "lemma": "Skifahren",
+    "en": "skiing",
+    "bytes": 43230,
+    "sourceQuery": "skiing Skifahren photo"
+  },
+  "noun-yoga": {
+    "file": "yoga.webp",
+    "lemma": "Yoga",
+    "en": "yoga",
+    "bytes": 19184,
+    "sourceQuery": "yoga Yoga photo"
+  },
+  "noun-gitarre": {
+    "file": "gitarre.webp",
+    "lemma": "Gitarre",
+    "en": "guitar",
+    "bytes": 6988,
+    "sourceQuery": "guitar Gitarre photo"
+  },
+  "noun-klavier": {
+    "file": "klavier.webp",
+    "lemma": "Klavier",
+    "en": "piano",
+    "bytes": 11482,
+    "sourceQuery": "piano Klavier photo"
+  },
+  "noun-instrument": {
+    "file": "instrument.webp",
+    "lemma": "Instrument",
+    "en": "instrument",
+    "bytes": 22404,
+    "sourceQuery": "instrument Instrument photo"
+  },
+  "noun-tanz": {
+    "file": "tanz.webp",
+    "lemma": "Tanz",
+    "en": "dance",
+    "bytes": 6982,
+    "sourceQuery": "dance Tanz photo"
+  },
+  "noun-spielzeug": {
+    "file": "spielzeug.webp",
+    "lemma": "Spielzeug",
+    "en": "toy",
+    "bytes": 20522,
+    "sourceQuery": "toy Spielzeug photo"
+  },
+  "noun-brettspiel": {
+    "file": "brettspiel.webp",
+    "lemma": "Brettspiel",
+    "en": "board game",
+    "bytes": 12750,
+    "sourceQuery": "board game Brettspiel photo"
+  },
+  "noun-wut": {
+    "file": "wut.webp",
+    "lemma": "Wut",
+    "en": "rage",
+    "bytes": 28894,
+    "sourceQuery": "rage Wut photo"
+  },
+  "noun-mut": {
+    "file": "mut.webp",
+    "lemma": "Mut",
+    "en": "courage",
+    "bytes": 7464,
+    "sourceQuery": "courage Mut photo"
+  },
+  "noun-muedigkeit": {
+    "file": "mudigkeit.webp",
+    "lemma": "Müdigkeit",
+    "en": "tiredness",
+    "bytes": 8804,
+    "sourceQuery": "tiredness Müdigkeit photo"
+  },
+  "noun-luege": {
+    "file": "luge.webp",
+    "lemma": "Lüge",
+    "en": "lie",
+    "bytes": 9950,
+    "sourceQuery": "lie Lüge photo"
+  },
+  "noun-witz": {
+    "file": "witz.webp",
+    "lemma": "Witz",
+    "en": "joke",
+    "bytes": 19516,
+    "sourceQuery": "joke Witz photo"
+  },
+  "noun-hausarbeit": {
+    "file": "hausarbeit.webp",
+    "lemma": "Hausarbeit",
+    "en": "housework",
+    "bytes": 16392,
+    "sourceQuery": "housework Hausarbeit photo"
+  },
+  "noun-einkaufen": {
+    "file": "einkaufen.webp",
+    "lemma": "Einkaufen",
+    "en": "shopping",
+    "bytes": 37476,
+    "sourceQuery": "shopping Einkaufen photo"
+  },
+  "noun-erlaubnis": {
+    "file": "erlaubnis.webp",
+    "lemma": "Erlaubnis",
+    "en": "permission",
+    "bytes": 12930,
+    "sourceQuery": "permission Erlaubnis photo"
+  },
+  "noun-verbot": {
+    "file": "verbot.webp",
+    "lemma": "Verbot",
+    "en": "ban",
+    "bytes": 9026,
+    "sourceQuery": "ban Verbot photo"
+  },
+  "noun-streik": {
+    "file": "streik.webp",
+    "lemma": "Streik",
+    "en": "strike",
+    "bytes": 39762,
+    "sourceQuery": "strike Streik photo"
+  },
+  "noun-wirtschaft": {
+    "file": "wirtschaft.webp",
+    "lemma": "Wirtschaft",
+    "en": "economy",
+    "bytes": 16158,
+    "sourceQuery": "economy Wirtschaft photo"
+  },
+  "noun-gesellschaft": {
+    "file": "gesellschaft.webp",
+    "lemma": "Gesellschaft",
+    "en": "society",
+    "bytes": 25252,
+    "sourceQuery": "society Gesellschaft photo"
+  },
+  "noun-zimmerpflanze": {
+    "file": "zimmerpflanze.webp",
+    "lemma": "Zimmerpflanze",
+    "en": "houseplant",
+    "bytes": 19552,
+    "sourceQuery": "houseplant Zimmerpflanze photo"
+  },
+  "noun-spritze": {
+    "file": "spritze.webp",
+    "lemma": "Spritze",
+    "en": "injection",
+    "bytes": 8086,
+    "sourceQuery": "injection Spritze photo"
+  },
+  "noun-thermometer": {
+    "file": "thermometer.webp",
+    "lemma": "Thermometer",
+    "en": "thermometer",
+    "bytes": 13140,
+    "sourceQuery": "thermometer Thermometer photo"
+  },
+  "noun-reihenfolge": {
+    "file": "reihenfolge.webp",
+    "lemma": "Reihenfolge",
+    "en": "order",
+    "bytes": 13394,
+    "sourceQuery": "order Reihenfolge photo"
+  },
+  "noun-wasserhahn": {
+    "file": "wasserhahn.webp",
+    "lemma": "Wasserhahn",
+    "en": "faucet",
+    "bytes": 13566,
+    "sourceQuery": "faucet Wasserhahn photo"
+  },
+  "noun-studentenwohnheim": {
+    "file": "studentenwohnheim.webp",
+    "lemma": "Studentenwohnheim",
+    "en": "student dormitory",
+    "bytes": 13096,
+    "sourceQuery": "student dormitory Studentenwohnheim photo"
+  },
+  "noun-jugend": {
+    "file": "jugend.webp",
+    "lemma": "Jugend",
+    "en": "youth",
+    "bytes": 18940,
+    "sourceQuery": "youth Jugend photo"
+  },
+  "noun-postbote": {
+    "file": "postbote.webp",
+    "lemma": "Postbote",
+    "en": "mail carrier",
+    "bytes": 27422,
+    "sourceQuery": "mail carrier Postbote photo"
+  },
+  "noun-zeitpunkt": {
+    "file": "zeitpunkt.webp",
+    "lemma": "Zeitpunkt",
+    "en": "point in time",
+    "bytes": 54486,
+    "sourceQuery": "point in time Zeitpunkt photo"
+  },
+  "noun-prospekt": {
+    "file": "prospekt.webp",
+    "lemma": "Prospekt",
+    "en": "brochure",
+    "bytes": 22084,
+    "sourceQuery": "brochure Prospekt photo"
+  },
+  "noun-abfall": {
+    "file": "abfall.webp",
+    "lemma": "Abfall",
+    "en": "waste",
+    "bytes": 30362,
+    "sourceQuery": "waste Abfall photo"
+  },
+  "noun-besen": {
+    "file": "besen.webp",
+    "lemma": "Besen",
+    "en": "broom",
+    "bytes": 11364,
+    "sourceQuery": "broom Besen photo"
+  },
+  "noun-schwager": {
+    "file": "schwager.webp",
+    "lemma": "Schwager",
+    "en": "brother-in-law",
+    "bytes": 28930,
+    "sourceQuery": "brother-in-law Schwager photo"
+  },
+  "noun-kochtopf": {
+    "file": "kochtopf.webp",
+    "lemma": "Kochtopf",
+    "en": "cooking pot",
+    "bytes": 17956,
+    "sourceQuery": "cooking pot Kochtopf photo"
+  },
+  "noun-wunschliste": {
+    "file": "wunschliste.webp",
+    "lemma": "Wunschliste",
+    "en": "wish list",
+    "bytes": 12788,
+    "sourceQuery": "wish list Wunschliste photo"
+  },
+  "noun-fahrerin": {
+    "file": "fahrerin.webp",
+    "lemma": "Fahrerin",
+    "en": "driver (female)",
+    "bytes": 21918,
+    "sourceQuery": "driver Fahrerin photo"
+  },
+  "noun-friedhof": {
+    "file": "friedhof.webp",
+    "lemma": "Friedhof",
+    "en": "cemetery",
+    "bytes": 55942,
+    "sourceQuery": "cemetery Friedhof photo"
+  },
+  "noun-putzfrau": {
+    "file": "putzfrau.webp",
+    "lemma": "Putzfrau",
+    "en": "cleaning lady",
+    "bytes": 12612,
+    "sourceQuery": "cleaning lady Putzfrau photo"
+  },
+  "noun-landwirt": {
+    "file": "landwirt.webp",
+    "lemma": "Landwirt",
+    "en": "farmer",
+    "bytes": 23156,
+    "sourceQuery": "farmer Landwirt photo"
+  },
+  "noun-strumpf": {
+    "file": "strumpf.webp",
+    "lemma": "Strumpf",
+    "en": "stocking",
+    "bytes": 14442,
+    "sourceQuery": "stocking Strumpf photo"
+  },
+  "noun-hammer": {
+    "file": "hammer.webp",
+    "lemma": "Hammer",
+    "en": "hammer",
+    "bytes": 15134,
+    "sourceQuery": "hammer Hammer photo"
+  },
+  "noun-kleber": {
+    "file": "kleber.webp",
+    "lemma": "Kleber",
+    "en": "glue",
+    "bytes": 16432,
+    "sourceQuery": "glue Kleber photo"
+  },
+  "noun-einladungskarte": {
+    "file": "einladungskarte.webp",
+    "lemma": "Einladungskarte",
+    "en": "invitation card",
+    "bytes": 14848,
+    "sourceQuery": "invitation card Einladungskarte photo"
+  },
+  "noun-baer": {
+    "file": "bar.webp",
+    "lemma": "Bär",
+    "en": "bear",
+    "bytes": 34446,
+    "sourceQuery": "bear Bär photo"
+  },
+  "noun-schmetterling": {
+    "file": "schmetterling.webp",
+    "lemma": "Schmetterling",
+    "en": "butterfly",
+    "bytes": 14234,
+    "sourceQuery": "butterfly Schmetterling photo"
+  },
+  "noun-malerei": {
+    "file": "malerei.webp",
+    "lemma": "Malerei",
+    "en": "painting",
+    "bytes": 41454,
+    "sourceQuery": "painting Malerei photo"
+  },
+  "noun-puppe": {
+    "file": "puppe.webp",
+    "lemma": "Puppe",
+    "en": "doll",
+    "bytes": 30334,
+    "sourceQuery": "doll Puppe photo"
+  },
+  "noun-kartenspiel": {
+    "file": "kartenspiel.webp",
+    "lemma": "Kartenspiel",
+    "en": "card game",
+    "bytes": 17514,
+    "sourceQuery": "card game Kartenspiel photo"
+  },
+  "noun-einsamkeit": {
+    "file": "einsamkeit.webp",
+    "lemma": "Einsamkeit",
+    "en": "loneliness",
+    "bytes": 4540,
+    "sourceQuery": "loneliness Einsamkeit photo"
+  },
+  "noun-morgenroutine": {
+    "file": "morgenroutine.webp",
+    "lemma": "Morgenroutine",
+    "en": "morning routine",
+    "bytes": 18490,
+    "sourceQuery": "morning routine Morgenroutine photo"
+  },
+  "noun-demonstration": {
+    "file": "demonstration.webp",
+    "lemma": "Demonstration",
+    "en": "demonstration",
+    "bytes": 46156,
+    "sourceQuery": "demonstration Demonstration photo"
+  },
+  "noun-religion": {
+    "file": "religion.webp",
+    "lemma": "Religion",
+    "en": "religion",
+    "bytes": 7762,
+    "sourceQuery": "religion Religion photo"
+  },
+  "noun-flaschenpfand": {
+    "file": "flaschenpfand.webp",
+    "lemma": "Flaschenpfand",
+    "en": "bottle deposit",
+    "bytes": 18822,
+    "sourceQuery": "bottle deposit Flaschenpfand photo"
+  },
+  "noun-sonderzeichen": {
+    "file": "sonderzeichen.webp",
+    "lemma": "Sonderzeichen",
+    "en": "special character",
+    "bytes": 8468,
+    "sourceQuery": "special character Sonderzeichen photo"
+  },
+  "noun-hilfsmittel": {
+    "file": "hilfsmittel.webp",
+    "lemma": "Hilfsmittel",
+    "en": "aid",
+    "bytes": 16974,
+    "sourceQuery": "aid Hilfsmittel photo"
+  },
+  "noun-kamm": {
+    "file": "kamm.webp",
+    "lemma": "Kamm",
+    "en": "comb",
+    "bytes": 35280,
+    "sourceQuery": "comb Kamm photo"
+  },
+  "noun-mittagsschlaf": {
+    "file": "mittagsschlaf.webp",
+    "lemma": "Mittagsschlaf",
+    "en": "nap",
+    "bytes": 18888,
+    "sourceQuery": "nap Mittagsschlaf photo"
+  },
+  "noun-betrag": {
+    "file": "betrag.webp",
+    "lemma": "Betrag",
+    "en": "amount",
+    "bytes": 8292,
+    "sourceQuery": "amount Betrag photo"
+  },
+  "noun-job": {
+    "file": "job.webp",
+    "lemma": "Job",
+    "en": "job",
+    "bytes": 15814,
+    "sourceQuery": "job Job photo"
+  },
+  "noun-wetter": {
+    "file": "wetter.webp",
+    "lemma": "Wetter",
+    "en": "weather",
+    "bytes": 12790,
+    "sourceQuery": "weather Wetter photo"
   }
 }
