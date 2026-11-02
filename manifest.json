@@ -1,0 +1,702 @@
+{
+  "noun-mann": {
+    "file": "mann.webp",
+    "lemma": "Mann",
+    "en": "man",
+    "bytes": 13890,
+    "sourceQuery": "man Mann photo"
+  },
+  "noun-kind": {
+    "file": "kind.webp",
+    "lemma": "Kind",
+    "en": "child",
+    "bytes": 18976,
+    "sourceQuery": "child Kind photo"
+  },
+  "noun-junge": {
+    "file": "junge.webp",
+    "lemma": "Junge",
+    "en": "boy",
+    "bytes": 14916,
+    "sourceQuery": "boy Junge photo"
+  },
+  "noun-maedchen": {
+    "file": "madchen.webp",
+    "lemma": "Mädchen",
+    "en": "girl",
+    "bytes": 10742,
+    "sourceQuery": "girl Mädchen photo"
+  },
+  "noun-freund": {
+    "file": "freund.webp",
+    "lemma": "Freund",
+    "en": "friend",
+    "bytes": 29234,
+    "sourceQuery": "friend Freund photo"
+  },
+  "noun-freundin": {
+    "file": "freundin.webp",
+    "lemma": "Freundin",
+    "en": "girlfriend",
+    "bytes": 21764,
+    "sourceQuery": "girlfriend Freundin photo"
+  },
+  "noun-mensch": {
+    "file": "mensch.webp",
+    "lemma": "Mensch",
+    "en": "person",
+    "bytes": 19114,
+    "sourceQuery": "person Mensch photo"
+  },
+  "noun-leute": {
+    "file": "leute.webp",
+    "lemma": "Leute",
+    "en": "people",
+    "bytes": 30420,
+    "sourceQuery": "people Leute photo"
+  },
+  "noun-herr": {
+    "file": "herr.webp",
+    "lemma": "Herr",
+    "en": "gentleman",
+    "bytes": 11462,
+    "sourceQuery": "gentleman Herr photo"
+  },
+  "noun-dame": {
+    "file": "dame.webp",
+    "lemma": "Dame",
+    "en": "lady",
+    "bytes": 18066,
+    "sourceQuery": "lady Dame photo"
+  },
+  "noun-baby": {
+    "file": "baby.webp",
+    "lemma": "Baby",
+    "en": "baby",
+    "bytes": 8660,
+    "sourceQuery": "baby Baby photo"
+  },
+  "noun-lehrer": {
+    "file": "lehrer.webp",
+    "lemma": "Lehrer",
+    "en": "teacher (male)",
+    "bytes": 12718,
+    "sourceQuery": "teacher (male) Lehrer photo"
+  },
+  "noun-lehrerin": {
+    "file": "lehrerin.webp",
+    "lemma": "Lehrerin",
+    "en": "teacher (female)",
+    "bytes": 17002,
+    "sourceQuery": "teacher (female) Lehrerin photo"
+  },
+  "noun-student": {
+    "file": "student.webp",
+    "lemma": "Student",
+    "en": "student (male)",
+    "bytes": 20478,
+    "sourceQuery": "student (male) Student photo"
+  },
+  "noun-studentin": {
+    "file": "studentin.webp",
+    "lemma": "Studentin",
+    "en": "student (female)",
+    "bytes": 14278,
+    "sourceQuery": "student (female) Studentin photo"
+  },
+  "noun-familie": {
+    "file": "familie.webp",
+    "lemma": "Familie",
+    "en": "family",
+    "bytes": 15358,
+    "sourceQuery": "family Familie photo"
+  },
+  "noun-eltern": {
+    "file": "eltern.webp",
+    "lemma": "Eltern",
+    "en": "parents",
+    "bytes": 21010,
+    "sourceQuery": "parents Eltern photo"
+  },
+  "noun-vater": {
+    "file": "vater.webp",
+    "lemma": "Vater",
+    "en": "father",
+    "bytes": 17194,
+    "sourceQuery": "father Vater photo"
+  },
+  "noun-mutter": {
+    "file": "mutter.webp",
+    "lemma": "Mutter",
+    "en": "mother",
+    "bytes": 15308,
+    "sourceQuery": "mother Mutter photo"
+  },
+  "noun-sohn": {
+    "file": "sohn.webp",
+    "lemma": "Sohn",
+    "en": "son",
+    "bytes": 22908,
+    "sourceQuery": "son Sohn photo"
+  },
+  "noun-tochter": {
+    "file": "tochter.webp",
+    "lemma": "Tochter",
+    "en": "daughter",
+    "bytes": 13194,
+    "sourceQuery": "daughter Tochter photo"
+  },
+  "noun-bruder": {
+    "file": "bruder.webp",
+    "lemma": "Bruder",
+    "en": "brother",
+    "bytes": 28140,
+    "sourceQuery": "brother Bruder photo"
+  },
+  "noun-schwester": {
+    "file": "schwester.webp",
+    "lemma": "Schwester",
+    "en": "sister",
+    "bytes": 27796,
+    "sourceQuery": "sister Schwester photo"
+  },
+  "noun-geschwister": {
+    "file": "geschwister.webp",
+    "lemma": "Geschwister",
+    "en": "siblings",
+    "bytes": 20132,
+    "sourceQuery": "siblings Geschwister photo"
+  },
+  "noun-onkel": {
+    "file": "onkel.webp",
+    "lemma": "Onkel",
+    "en": "uncle",
+    "bytes": 4104,
+    "sourceQuery": "uncle Onkel photo"
+  },
+  "noun-koerper": {
+    "file": "korper.webp",
+    "lemma": "Körper",
+    "en": "body",
+    "bytes": 12272,
+    "sourceQuery": "body Körper photo"
+  },
+  "noun-kopf": {
+    "file": "kopf.webp",
+    "lemma": "Kopf",
+    "en": "head",
+    "bytes": 46090,
+    "sourceQuery": "head Kopf photo"
+  },
+  "noun-gesicht": {
+    "file": "gesicht.webp",
+    "lemma": "Gesicht",
+    "en": "face",
+    "bytes": 13304,
+    "sourceQuery": "face Gesicht photo"
+  },
+  "noun-auge": {
+    "file": "auge.webp",
+    "lemma": "Auge",
+    "en": "eye",
+    "bytes": 8564,
+    "sourceQuery": "eye Auge photo"
+  },
+  "noun-ohr": {
+    "file": "ohr.webp",
+    "lemma": "Ohr",
+    "en": "ear",
+    "bytes": 15420,
+    "sourceQuery": "ear Ohr photo"
+  },
+  "noun-nase": {
+    "file": "nase.webp",
+    "lemma": "Nase",
+    "en": "nose",
+    "bytes": 3348,
+    "sourceQuery": "nose Nase photo"
+  },
+  "noun-mund": {
+    "file": "mund.webp",
+    "lemma": "Mund",
+    "en": "mouth",
+    "bytes": 9808,
+    "sourceQuery": "mouth Mund photo"
+  },
+  "noun-zahn": {
+    "file": "zahn.webp",
+    "lemma": "Zahn",
+    "en": "tooth",
+    "bytes": 22374,
+    "sourceQuery": "tooth Zahn photo"
+  },
+  "noun-haus": {
+    "file": "haus.webp",
+    "lemma": "Haus",
+    "en": "house",
+    "bytes": 26596,
+    "sourceQuery": "house Haus photo"
+  },
+  "noun-wohnung": {
+    "file": "wohnung.webp",
+    "lemma": "Wohnung",
+    "en": "apartment",
+    "bytes": 21720,
+    "sourceQuery": "apartment Wohnung photo"
+  },
+  "noun-zimmer": {
+    "file": "zimmer.webp",
+    "lemma": "Zimmer",
+    "en": "room",
+    "bytes": 15428,
+    "sourceQuery": "room Zimmer photo"
+  },
+  "noun-kueche": {
+    "file": "kuche.webp",
+    "lemma": "Küche",
+    "en": "kitchen",
+    "bytes": 16682,
+    "sourceQuery": "kitchen Küche photo"
+  },
+  "noun-bad": {
+    "file": "bad.webp",
+    "lemma": "Bad",
+    "en": "bathroom",
+    "bytes": 11700,
+    "sourceQuery": "bathroom Bad photo"
+  },
+  "noun-badezimmer": {
+    "file": "badezimmer.webp",
+    "lemma": "Badezimmer",
+    "en": "bathroom",
+    "bytes": 20000,
+    "sourceQuery": "bathroom Badezimmer photo"
+  },
+  "noun-schlafzimmer": {
+    "file": "schlafzimmer.webp",
+    "lemma": "Schlafzimmer",
+    "en": "bedroom",
+    "bytes": 10640,
+    "sourceQuery": "bedroom Schlafzimmer photo"
+  },
+  "noun-wohnzimmer": {
+    "file": "wohnzimmer.webp",
+    "lemma": "Wohnzimmer",
+    "en": "living room",
+    "bytes": 21424,
+    "sourceQuery": "living room Wohnzimmer photo"
+  },
+  "noun-toilette": {
+    "file": "toilette.webp",
+    "lemma": "Toilette",
+    "en": "toilet",
+    "bytes": 7344,
+    "sourceQuery": "toilet Toilette photo"
+  },
+  "noun-flur": {
+    "file": "flur.webp",
+    "lemma": "Flur",
+    "en": "hallway",
+    "bytes": 15718,
+    "sourceQuery": "hallway Flur photo"
+  },
+  "noun-balkon": {
+    "file": "balkon.webp",
+    "lemma": "Balkon",
+    "en": "balcony",
+    "bytes": 39816,
+    "sourceQuery": "balcony Balkon photo"
+  },
+  "noun-garten": {
+    "file": "garten.webp",
+    "lemma": "Garten",
+    "en": "garden",
+    "bytes": 48830,
+    "sourceQuery": "garden Garten photo"
+  },
+  "noun-tuer": {
+    "file": "tur.webp",
+    "lemma": "Tür",
+    "en": "door",
+    "bytes": 11952,
+    "sourceQuery": "door Tür photo"
+  },
+  "noun-fenster": {
+    "file": "fenster.webp",
+    "lemma": "Fenster",
+    "en": "window",
+    "bytes": 31814,
+    "sourceQuery": "window Fenster photo"
+  },
+  "noun-treppe": {
+    "file": "treppe.webp",
+    "lemma": "Treppe",
+    "en": "stairs",
+    "bytes": 13306,
+    "sourceQuery": "stairs Treppe photo"
+  },
+  "noun-essen": {
+    "file": "essen.webp",
+    "lemma": "Essen",
+    "en": "food",
+    "bytes": 39584,
+    "sourceQuery": "food Essen photo"
+  },
+  "noun-fruehstueck": {
+    "file": "fruhstuck.webp",
+    "lemma": "Frühstück",
+    "en": "breakfast",
+    "bytes": 23610,
+    "sourceQuery": "breakfast Frühstück photo"
+  },
+  "noun-mittagessen": {
+    "file": "mittagessen.webp",
+    "lemma": "Mittagessen",
+    "en": "lunch",
+    "bytes": 35886,
+    "sourceQuery": "lunch Mittagessen photo"
+  },
+  "noun-abendessen": {
+    "file": "abendessen.webp",
+    "lemma": "Abendessen",
+    "en": "dinner",
+    "bytes": 17868,
+    "sourceQuery": "dinner Abendessen photo"
+  },
+  "noun-brot": {
+    "file": "brot.webp",
+    "lemma": "Brot",
+    "en": "bread",
+    "bytes": 35614,
+    "sourceQuery": "bread Brot photo"
+  },
+  "noun-broetchen": {
+    "file": "brotchen.webp",
+    "lemma": "Brötchen",
+    "en": "bread roll",
+    "bytes": 25330,
+    "sourceQuery": "bread roll Brötchen photo"
+  },
+  "noun-butter": {
+    "file": "butter.webp",
+    "lemma": "Butter",
+    "en": "butter",
+    "bytes": 5498,
+    "sourceQuery": "butter Butter photo"
+  },
+  "noun-kaese": {
+    "file": "kase.webp",
+    "lemma": "Käse",
+    "en": "cheese",
+    "bytes": 13818,
+    "sourceQuery": "cheese Käse photo"
+  },
+  "noun-wurst": {
+    "file": "wurst.webp",
+    "lemma": "Wurst",
+    "en": "sausage",
+    "bytes": 22912,
+    "sourceQuery": "sausage Wurst photo"
+  },
+  "noun-fleisch": {
+    "file": "fleisch.webp",
+    "lemma": "Fleisch",
+    "en": "meat",
+    "bytes": 32074,
+    "sourceQuery": "meat Fleisch photo"
+  },
+  "noun-fisch": {
+    "file": "fisch.webp",
+    "lemma": "Fisch",
+    "en": "fish",
+    "bytes": 36286,
+    "sourceQuery": "fish Fisch photo"
+  },
+  "noun-ei": {
+    "file": "ei.webp",
+    "lemma": "Ei",
+    "en": "egg",
+    "bytes": 9708,
+    "sourceQuery": "egg Ei photo"
+  },
+  "noun-milch": {
+    "file": "milch.webp",
+    "lemma": "Milch",
+    "en": "milk",
+    "bytes": 5164,
+    "sourceQuery": "milk Milch photo"
+  },
+  "noun-zucker": {
+    "file": "zucker.webp",
+    "lemma": "Zucker",
+    "en": "sugar",
+    "bytes": 22548,
+    "sourceQuery": "sugar Zucker photo"
+  },
+  "noun-wasser": {
+    "file": "wasser.webp",
+    "lemma": "Wasser",
+    "en": "water",
+    "bytes": 25782,
+    "sourceQuery": "water Wasser photo"
+  },
+  "noun-kaffee": {
+    "file": "kaffee.webp",
+    "lemma": "Kaffee",
+    "en": "coffee",
+    "bytes": 26568,
+    "sourceQuery": "coffee Kaffee photo"
+  },
+  "noun-tee": {
+    "file": "tee.webp",
+    "lemma": "Tee",
+    "en": "tea",
+    "bytes": 56748,
+    "sourceQuery": "tea Tee photo"
+  },
+  "noun-saft": {
+    "file": "saft.webp",
+    "lemma": "Saft",
+    "en": "juice",
+    "bytes": 12586,
+    "sourceQuery": "juice Saft photo"
+  },
+  "noun-bier": {
+    "file": "bier.webp",
+    "lemma": "Bier",
+    "en": "beer",
+    "bytes": 23880,
+    "sourceQuery": "beer Bier photo"
+  },
+  "noun-wein": {
+    "file": "wein.webp",
+    "lemma": "Wein",
+    "en": "wine",
+    "bytes": 25514,
+    "sourceQuery": "wine Wein photo"
+  },
+  "noun-kleidung": {
+    "file": "kleidung.webp",
+    "lemma": "Kleidung",
+    "en": "clothing",
+    "bytes": 47462,
+    "sourceQuery": "clothing Kleidung photo"
+  },
+  "noun-hemd": {
+    "file": "hemd.webp",
+    "lemma": "Hemd",
+    "en": "shirt",
+    "bytes": 19688,
+    "sourceQuery": "shirt Hemd photo"
+  },
+  "noun-hose": {
+    "file": "hose.webp",
+    "lemma": "Hose",
+    "en": "trousers",
+    "bytes": 5794,
+    "sourceQuery": "trousers Hose photo"
+  },
+  "noun-jacke": {
+    "file": "jacke.webp",
+    "lemma": "Jacke",
+    "en": "jacket",
+    "bytes": 7792,
+    "sourceQuery": "jacket Jacke photo"
+  },
+  "noun-mantel": {
+    "file": "mantel.webp",
+    "lemma": "Mantel",
+    "en": "coat",
+    "bytes": 24104,
+    "sourceQuery": "coat Mantel photo"
+  },
+  "noun-kleid": {
+    "file": "kleid.webp",
+    "lemma": "Kleid",
+    "en": "dress",
+    "bytes": 5424,
+    "sourceQuery": "dress Kleid photo"
+  },
+  "noun-adresse": {
+    "file": "adresse.webp",
+    "lemma": "Adresse",
+    "en": "address",
+    "bytes": 6268,
+    "sourceQuery": "address Adresse photo"
+  },
+  "noun-telefonnummer": {
+    "file": "telefonnummer.webp",
+    "lemma": "Telefonnummer",
+    "en": "phone number",
+    "bytes": 8670,
+    "sourceQuery": "phone number Telefonnummer photo"
+  },
+  "noun-freizeit": {
+    "file": "freizeit.webp",
+    "lemma": "Freizeit",
+    "en": "free time",
+    "bytes": 40932,
+    "sourceQuery": "free time Freizeit photo"
+  },
+  "noun-mal": {
+    "file": "mal.webp",
+    "lemma": "Mal",
+    "en": "time",
+    "bytes": 25416,
+    "sourceQuery": "time Mal photo"
+  },
+  "noun-person": {
+    "file": "person.webp",
+    "lemma": "Person",
+    "en": "person",
+    "bytes": 7728,
+    "sourceQuery": "person Person photo"
+  },
+  "noun-speisekarte": {
+    "file": "speisekarte.webp",
+    "lemma": "Speisekarte",
+    "en": "menu",
+    "bytes": 22738,
+    "sourceQuery": "menu Speisekarte photo"
+  },
+  "noun-supermarkt": {
+    "file": "supermarkt.webp",
+    "lemma": "Supermarkt",
+    "en": "supermarket",
+    "bytes": 44308,
+    "sourceQuery": "supermarket Supermarkt photo"
+  },
+  "noun-geschaeft": {
+    "file": "geschaft.webp",
+    "lemma": "Geschäft",
+    "en": "shop",
+    "bytes": 21134,
+    "sourceQuery": "shop Geschäft photo"
+  },
+  "noun-karte": {
+    "file": "karte.webp",
+    "lemma": "Karte",
+    "en": "card",
+    "bytes": 19572,
+    "sourceQuery": "card Karte photo"
+  },
+  "noun-auto": {
+    "file": "auto.webp",
+    "lemma": "Auto",
+    "en": "car",
+    "bytes": 28352,
+    "sourceQuery": "car Auto photo"
+  },
+  "noun-fahrrad": {
+    "file": "fahrrad.webp",
+    "lemma": "Fahrrad",
+    "en": "bicycle",
+    "bytes": 33720,
+    "sourceQuery": "bicycle Fahrrad photo"
+  },
+  "noun-bus": {
+    "file": "bus.webp",
+    "lemma": "Bus",
+    "en": "bus",
+    "bytes": 25358,
+    "sourceQuery": "bus Bus photo"
+  },
+  "noun-u-bahn": {
+    "file": "u-bahn.webp",
+    "lemma": "U-Bahn",
+    "en": "subway",
+    "bytes": 22704,
+    "sourceQuery": "subway U-Bahn photo"
+  },
+  "noun-zug": {
+    "file": "zug.webp",
+    "lemma": "Zug",
+    "en": "train",
+    "bytes": 34612,
+    "sourceQuery": "train Zug photo"
+  },
+  "noun-flug": {
+    "file": "flug.webp",
+    "lemma": "Flug",
+    "en": "flight",
+    "bytes": 13722,
+    "sourceQuery": "flight Flug photo"
+  },
+  "noun-haltestelle": {
+    "file": "haltestelle.webp",
+    "lemma": "Haltestelle",
+    "en": "stop (bus/tram)",
+    "bytes": 21262,
+    "sourceQuery": "stop (bus/tram) Haltestelle photo"
+  },
+  "noun-bahnhof": {
+    "file": "bahnhof.webp",
+    "lemma": "Bahnhof",
+    "en": "train station",
+    "bytes": 35236,
+    "sourceQuery": "train station Bahnhof photo"
+  },
+  "noun-fahrkarte": {
+    "file": "fahrkarte.webp",
+    "lemma": "Fahrkarte",
+    "en": "ticket (transport)",
+    "bytes": 20188,
+    "sourceQuery": "ticket (transport) Fahrkarte photo"
+  },
+  "noun-strasse": {
+    "file": "strasse.webp",
+    "lemma": "Straße",
+    "en": "street",
+    "bytes": 38932,
+    "sourceQuery": "street Straße photo"
+  },
+  "noun-weg": {
+    "file": "weg.webp",
+    "lemma": "Weg",
+    "en": "way",
+    "bytes": 73252,
+    "sourceQuery": "way Weg photo"
+  },
+  "noun-koffer": {
+    "file": "koffer.webp",
+    "lemma": "Koffer",
+    "en": "suitcase",
+    "bytes": 4540,
+    "sourceQuery": "suitcase Koffer photo"
+  },
+  "noun-platz": {
+    "file": "platz.webp",
+    "lemma": "Platz",
+    "en": "seat",
+    "bytes": 37170,
+    "sourceQuery": "seat Platz photo"
+  },
+  "noun-urlaub": {
+    "file": "urlaub.webp",
+    "lemma": "Urlaub",
+    "en": "vacation",
+    "bytes": 34606,
+    "sourceQuery": "vacation Urlaub photo"
+  },
+  "noun-ausweis": {
+    "file": "ausweis.webp",
+    "lemma": "Ausweis",
+    "en": "ID card",
+    "bytes": 10876,
+    "sourceQuery": "ID card Ausweis photo"
+  },
+  "noun-land": {
+    "file": "land.webp",
+    "lemma": "Land",
+    "en": "country",
+    "bytes": 26630,
+    "sourceQuery": "country Land photo"
+  },
+  "noun-frau": {
+    "file": "frau.webp",
+    "lemma": "Frau",
+    "en": "woman",
+    "bytes": 5936,
+    "sourceQuery": "woman Frau photo"
+  }
+}
